@@ -1,0 +1,21 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+yaKoc2K,gpt_neo_125m,1,0.75,20,keep head from moving while sleeping on bus,Improve the stay-apart effect by keeping head from moving while sleeping on bus,0
+yaKoc2K,gpt_neo_125m,2,0.75,20,keep head from moving while sleeping on bus,prevent body from falling from a bus,17
+yaKoc2K,gpt_neo_125m,3,0.75,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,32
+yaKoc2K,gpt_neo_125m,4,0.75,20,keep head from moving while sleeping on bus,Remove skin from objects by mechanical force,48
+yaKoc2K,gpt_neo_125m,5,0.75,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,63
+yaKoc2K,gpt_neo_125m,6,0.75,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,78
+yaKoc2K,gpt_neo_125m,7,0.75,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign objects,94
+yaKoc2K,gpt_neo_125m,8,0.75,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,110
+yaKoc2K,gpt_neo_125m,9,0.75,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,126
+yaKoc2K,gpt_neo_125m,10,0.75,20,keep head from moving while sleeping on bus,prevent children from getting wet,144
+yaKoc2K,gpt_neo_125m,11,0.75,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,160
+yaKoc2K,gpt_neo_125m,12,0.75,20,keep head from moving while sleeping on bus,Prevent body from moving while sleeping on bus,176
+yaKoc2K,gpt_neo_125m,13,0.75,20,keep head from moving while sleeping on bus,Start object from moving while sleeping,192
+yaKoc2K,gpt_neo_125m,14,0.75,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,208
+yaKoc2K,gpt_neo_125m,15,0.75,20,keep head from moving while sleeping on bus,Enable a broom to clean in hard to reach places,224
+yaKoc2K,gpt_neo_125m,16,0.75,20,keep head from moving while sleeping on bus,Start a new task,240
+yaKoc2K,gpt_neo_125m,17,0.75,20,keep head from moving while sleeping on bus,Protect object from the impact of external forces,256
+yaKoc2K,gpt_neo_125m,18,0.75,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,272
+yaKoc2K,gpt_neo_125m,19,0.75,20,keep head from moving while sleeping on bus,prevent the movement of the head from getting wet,288
+yaKoc2K,gpt_neo_125m,20,0.75,20,keep head from moving while sleeping on bus,Remove a piece of cloth from a surface of a car,305
