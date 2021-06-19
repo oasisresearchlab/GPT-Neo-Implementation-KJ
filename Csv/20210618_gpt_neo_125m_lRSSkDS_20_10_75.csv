@@ -1,0 +1,21 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+lRSSkDS,gpt_neo_125m,1,0.75,10,keep head from moving while sleeping on bus,Keep head from getting into contact with objects,0
+lRSSkDS,gpt_neo_125m,2,0.75,10,keep head from moving while sleeping on bus,keep head from falling asleep on the floor,4
+lRSSkDS,gpt_neo_125m,3,0.75,10,keep head from moving while sleeping on bus,prevent breathing in a sleeping car,8
+lRSSkDS,gpt_neo_125m,4,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,13
+lRSSkDS,gpt_neo_125m,5,0.75,10,keep head from moving while sleeping on bus,prevent sleeping from moving,17
+lRSSkDS,gpt_neo_125m,6,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,21
+lRSSkDS,gpt_neo_125m,7,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,25
+lRSSkDS,gpt_neo_125m,8,0.75,10,keep head from moving while sleeping on bus,make a container for smoking out,29
+lRSSkDS,gpt_neo_125m,9,0.75,10,keep head from moving while sleeping on bus,prevent the head from turning to the left,33
+lRSSkDS,gpt_neo_125m,10,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,37
+lRSSkDS,gpt_neo_125m,11,0.75,10,keep head from moving while sleeping on bus,prevent the head from moving while asleep,41
+lRSSkDS,gpt_neo_125m,12,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,45
+lRSSkDS,gpt_neo_125m,13,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,49
+lRSSkDS,gpt_neo_125m,14,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,53
+lRSSkDS,gpt_neo_125m,15,0.75,10,keep head from moving while sleeping on bus,remove the head from the bus,57
+lRSSkDS,gpt_neo_125m,16,0.75,10,keep head from moving while sleeping on bus,prevent sleep from getting out of sleep,61
+lRSSkDS,gpt_neo_125m,17,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,65
+lRSSkDS,gpt_neo_125m,18,0.75,10,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,69
+lRSSkDS,gpt_neo_125m,19,0.75,10,keep head from moving while sleeping on bus,prevent walking on a bus,73
+lRSSkDS,gpt_neo_125m,20,0.75,10,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,77
