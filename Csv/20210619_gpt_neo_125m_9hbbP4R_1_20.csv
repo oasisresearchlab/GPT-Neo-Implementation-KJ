@@ -1,0 +1,7 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+9hbbP4R,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+9hbbP4R,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+9hbbP4R,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,stop vehicle from turning over,11
+9hbbP4R,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+9hbbP4R,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,stop vehicle from turning over,11
+9hbbP4R,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,22

@@ -1,0 +1,16 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+6JHpcLn,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+6JHpcLn,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,11
+6JHpcLn,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,22
+6JHpcLn,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+6JHpcLn,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,11
+6JHpcLn,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,22
+6JHpcLn,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+6JHpcLn,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,11
+6JHpcLn,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,22
+6JHpcLn,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+6JHpcLn,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,11
+6JHpcLn,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,22
+6JHpcLn,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0
+6JHpcLn,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,11
+6JHpcLn,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,22

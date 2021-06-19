@@ -1,0 +1,7 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+5uXTYTH,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Enable a broom to clean in hard to reach places,0
+5uXTYTH,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,Prevent objects from getting into contact with unwanted substances,11
+5uXTYTH,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping,22
+5uXTYTH,gpt_neo_125m,2,0.8,20,keep head from moving while sleeping on bus,remove hair from body,33
+5uXTYTH,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,Protect exposed object from falling,44
+5uXTYTH,gpt_neo_125m,2,0.9,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,55

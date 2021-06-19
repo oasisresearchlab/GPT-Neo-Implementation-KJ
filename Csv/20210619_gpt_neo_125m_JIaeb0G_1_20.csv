@@ -1,0 +1,7 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+JIaeb0G,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Protect object from rain,0
+JIaeb0G,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Protect object from rain,0
+JIaeb0G,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,prevent object from getting into contact with unwanted substances,11
+JIaeb0G,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Protect object from rain,0
+JIaeb0G,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,prevent object from getting into contact with unwanted substances,11
+JIaeb0G,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,Start moving your helmet at the wrong speed,22

@@ -1,0 +1,7 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+S2bl4GG,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,0
+S2bl4GG,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,0
+S2bl4GG,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,11
+S2bl4GG,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,0
+S2bl4GG,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,11
+S2bl4GG,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,remove body from body,21

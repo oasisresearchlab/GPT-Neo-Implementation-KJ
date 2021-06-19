@@ -1,0 +1,56 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,2,0.7999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,57
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,2,0.7999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,57
+0tghE6Y,gpt_neo_125m,1,0.8999999999999999,20,keep head from moving while sleeping on bus,prevent water from entering a gas tank,68
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,2,0.7999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,57
+0tghE6Y,gpt_neo_125m,1,0.8999999999999999,20,keep head from moving while sleeping on bus,prevent water from entering a gas tank,68
+0tghE6Y,gpt_neo_125m,2,0.8999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,79
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,2,0.7999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,57
+0tghE6Y,gpt_neo_125m,1,0.8999999999999999,20,keep head from moving while sleeping on bus,prevent water from entering a gas tank,68
+0tghE6Y,gpt_neo_125m,2,0.8999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,79
+0tghE6Y,gpt_neo_125m,1,0.9999999999999999,20,keep head from moving while sleeping on bus,Protect the house from wind by cutting the cable in windows,91
+0tghE6Y,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+0tghE6Y,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,11
+0tghE6Y,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,Stop object from getting into contact with foreign substances,22
+0tghE6Y,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,34
+0tghE6Y,gpt_neo_125m,1,0.7999999999999999,20,keep head from moving while sleeping on bus,Remove all objects without causing any noise,45
+0tghE6Y,gpt_neo_125m,2,0.7999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,57
+0tghE6Y,gpt_neo_125m,1,0.8999999999999999,20,keep head from moving while sleeping on bus,prevent water from entering a gas tank,68
+0tghE6Y,gpt_neo_125m,2,0.8999999999999999,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,79
+0tghE6Y,gpt_neo_125m,1,0.9999999999999999,20,keep head from moving while sleeping on bus,Protect the house from wind by cutting the cable in windows,91
+0tghE6Y,gpt_neo_125m,2,0.9999999999999999,20,keep head from moving while sleeping on bus,Protect head from moving while sleeping,102

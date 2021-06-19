@@ -1,0 +1,4 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+2sEZ0xK,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,keep head from going when moving,0
+2sEZ0xK,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,stop the head and head from moving,11
+2sEZ0xK,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,Use the head as a temporary hold on the object,23

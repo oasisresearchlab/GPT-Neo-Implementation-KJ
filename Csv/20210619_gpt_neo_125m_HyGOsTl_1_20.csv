@@ -1,0 +1,7 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+HyGOsTl,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,stop the head from moving while sleeping on bus,0
+HyGOsTl,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,stop the head from moving while sleeping on bus,0
+HyGOsTl,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,11
+HyGOsTl,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,stop the head from moving while sleeping on bus,0
+HyGOsTl,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,11
+HyGOsTl,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,Use a brush to clean body parts,22
