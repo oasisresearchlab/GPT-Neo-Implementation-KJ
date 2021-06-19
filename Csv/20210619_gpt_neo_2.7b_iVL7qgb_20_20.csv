@@ -1,0 +1,61 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+iVL7qgb,gpt_neo_2.7b,1,0.7,20,keep head from moving while sleeping on bus,Prevent head from moving toward the outside of a sleeping area,0
+iVL7qgb,gpt_neo_2.7b,2,0.7,20,keep head from moving while sleeping on bus,Stop the movement of a body part,216
+iVL7qgb,gpt_neo_2.7b,3,0.7,20,keep head from moving while sleeping on bus,Stop the object from moving when a user turns his head,394
+iVL7qgb,gpt_neo_2.7b,4,0.7,20,keep head from moving while sleeping on bus,Move head without changing the position of the user,570
+iVL7qgb,gpt_neo_2.7b,5,0.7,20,keep head from moving while sleeping on bus,allow head to turn while sleeping on bus,747
+iVL7qgb,gpt_neo_2.7b,6,0.7,20,keep head from moving while sleeping on bus,Stop head from turning when a bus stops,923
+iVL7qgb,gpt_neo_2.7b,7,0.7,20,keep head from moving while sleeping on bus,Prevent the motion of an object while it is being transported,1100
+iVL7qgb,gpt_neo_2.7b,8,0.7,20,keep head from moving while sleeping on bus,make head to move with minimum effort,1277
+iVL7qgb,gpt_neo_2.7b,9,0.7,20,keep head from moving while sleeping on bus,Prevent head from moving after a crash,1454
+iVL7qgb,gpt_neo_2.7b,10,0.7,20,keep head from moving while sleeping on bus,Prevent a motion from being perceived,1631
+iVL7qgb,gpt_neo_2.7b,11,0.7,20,keep head from moving while sleeping on bus,Prevent object from moving during the course of a sleep cycle,1814
+iVL7qgb,gpt_neo_2.7b,12,0.7,20,keep head from moving while sleeping on bus,Keep a sleeping person from moving around on a bus,2002
+iVL7qgb,gpt_neo_2.7b,13,0.7,20,keep head from moving while sleeping on bus,Prevent the user from sleeping in the same spot multiple times,2187
+iVL7qgb,gpt_neo_2.7b,14,0.7,20,keep head from moving while sleeping on bus,Protect head from unwanted shocks,2380
+iVL7qgb,gpt_neo_2.7b,15,0.7,20,keep head from moving while sleeping on bus,prevent head from rotating when sleeping in a car,2570
+iVL7qgb,gpt_neo_2.7b,16,0.7,20,keep head from moving while sleeping on bus,prevent movement of user's head,2763
+iVL7qgb,gpt_neo_2.7b,17,0.7,20,keep head from moving while sleeping on bus,Prevent user from falling asleep while driving,2960
+iVL7qgb,gpt_neo_2.7b,18,0.7,20,keep head from moving while sleeping on bus,prevent user's head from moving in a given position,3152
+iVL7qgb,gpt_neo_2.7b,19,0.7,20,keep head from moving while sleeping on bus,stop unwanted motion of head,3334
+iVL7qgb,gpt_neo_2.7b,20,0.7,20,keep head from moving while sleeping on bus,Avoid unwanted motion while sleeping on a bus,3524
+iVL7qgb,gpt_neo_2.7b,1,0.8,20,keep head from moving while sleeping on bus,prevent subject's head from moving in a way that interferes with sleep,3718
+iVL7qgb,gpt_neo_2.7b,2,0.8,20,keep head from moving while sleeping on bus,Stop head from moving in bed,3916
+iVL7qgb,gpt_neo_2.7b,3,0.8,20,keep head from moving while sleeping on bus,Prevent head from coming in contact with fixed objects,4125
+iVL7qgb,gpt_neo_2.7b,4,0.8,20,keep head from moving while sleeping on bus,make a head stable while sleeping in a position,4332
+iVL7qgb,gpt_neo_2.7b,5,0.8,20,keep head from moving while sleeping on bus,prevent head from moving while in motion,4531
+iVL7qgb,gpt_neo_2.7b,6,0.8,20,keep head from moving while sleeping on bus,Create a solid object that does not move during sleep,4714
+iVL7qgb,gpt_neo_2.7b,7,0.8,20,keep head from moving while sleeping on bus,Prevent head from moving back and forth during sleep,4891
+iVL7qgb,gpt_neo_2.7b,8,0.8,20,keep head from moving while sleeping on bus,Prevent head from moving while sleeping on a bus,5066
+iVL7qgb,gpt_neo_2.7b,9,0.8,20,keep head from moving while sleeping on bus,prevent head from making a sudden movement during sleep,5241
+iVL7qgb,gpt_neo_2.7b,10,0.8,20,keep head from moving while sleeping on bus,Prevent head movement when a sleeping person is held by a person in a seated position,5416
+iVL7qgb,gpt_neo_2.7b,11,0.8,20,keep head from moving while sleeping on bus,Prevent head from rolling while in motion,5595
+iVL7qgb,gpt_neo_2.7b,12,0.8,20,keep head from moving while sleeping on bus,Prevent motion of head when sleeping on bus,5774
+iVL7qgb,gpt_neo_2.7b,13,0.8,20,keep head from moving while sleeping on bus,prevent head from moving in a fixed direction,5953
+iVL7qgb,gpt_neo_2.7b,14,0.8,20,keep head from moving while sleeping on bus,Avoid unnatural movements of head,6134
+iVL7qgb,gpt_neo_2.7b,15,0.8,20,keep head from moving while sleeping on bus,Prevent a head from moving in a free-space,6314
+iVL7qgb,gpt_neo_2.7b,16,0.8,20,keep head from moving while sleeping on bus,Prevent head from moving when object is in place,6507
+iVL7qgb,gpt_neo_2.7b,17,0.8,20,keep head from moving while sleeping on bus,Prevent unintended motion of sleeping passengers,6701
+iVL7qgb,gpt_neo_2.7b,18,0.8,20,keep head from moving while sleeping on bus,Prevent head movement while sleeping on bus,6892
+iVL7qgb,gpt_neo_2.7b,19,0.8,20,keep head from moving while sleeping on bus,create a stable and rigid structure for a vehicle,7083
+iVL7qgb,gpt_neo_2.7b,20,0.8,20,keep head from moving while sleeping on bus,Don't make head move for sleeping on bus,7278
+iVL7qgb,gpt_neo_2.7b,1,0.9,20,keep head from moving while sleeping on bus,Allow a user to fall asleep while operating a machine,7462
+iVL7qgb,gpt_neo_2.7b,2,0.9,20,keep head from moving while sleeping on bus,prevent user from getting on seat of bus while sleeping,7648
+iVL7qgb,gpt_neo_2.7b,3,0.9,20,keep head from moving while sleeping on bus,prevent user's head from hitting walls,7843
+iVL7qgb,gpt_neo_2.7b,4,0.9,20,keep head from moving while sleeping on bus,Prevent head movement while sleeping in a confined space,8031
+iVL7qgb,gpt_neo_2.7b,5,0.9,20,keep head from moving while sleeping on bus,prevent head from moving in the sleep state,8221
+iVL7qgb,gpt_neo_2.7b,6,0.9,20,keep head from moving while sleeping on bus,Prevent human from falling from a vehicle,8417
+iVL7qgb,gpt_neo_2.7b,7,0.9,20,keep head from moving while sleeping on bus,prevent the head from moving while sleeping on a bus,8605
+iVL7qgb,gpt_neo_2.7b,8,0.9,20,keep head from moving while sleeping on bus,Do not allow head to move while sleeping,8797
+iVL7qgb,gpt_neo_2.7b,9,0.9,20,keep head from moving while sleeping on bus,prevent loss of balance while sleeping,8988
+iVL7qgb,gpt_neo_2.7b,10,0.9,20,keep head from moving while sleeping on bus,Restrain user's body movements,9172
+iVL7qgb,gpt_neo_2.7b,11,0.9,20,keep head from moving while sleeping on bus,Protect head from impact of unexpected shock,9354
+iVL7qgb,gpt_neo_2.7b,12,0.9,20,keep head from moving while sleeping on bus,enable user to keep head still while sleeping on public transportation,9533
+iVL7qgb,gpt_neo_2.7b,13,0.9,20,keep head from moving while sleeping on bus,Prevent motion in the form of a blur in motion,9714
+iVL7qgb,gpt_neo_2.7b,14,0.9,20,keep head from moving while sleeping on bus,prevent user from falling asleep while riding a bus,9918
+iVL7qgb,gpt_neo_2.7b,15,0.9,20,keep head from moving while sleeping on bus,prevent the head from coming into contact with surrounding objects,10102
+iVL7qgb,gpt_neo_2.7b,16,0.9,20,keep head from moving while sleeping on bus,Make head from a rigid structure,10285
+iVL7qgb,gpt_neo_2.7b,17,0.9,20,keep head from moving while sleeping on bus,keep head from moving with respect to the vehicle,10466
+iVL7qgb,gpt_neo_2.7b,18,0.9,20,keep head from moving while sleeping on bus,Keep head from moving while object changes orientation,10648
+iVL7qgb,gpt_neo_2.7b,19,0.9,20,keep head from moving while sleeping on bus,prevent object from accidentally moving,10832
+iVL7qgb,gpt_neo_2.7b,20,0.9,20,keep head from moving while sleeping on bus,Keep user's head from moving on a moving vehicle,11014
