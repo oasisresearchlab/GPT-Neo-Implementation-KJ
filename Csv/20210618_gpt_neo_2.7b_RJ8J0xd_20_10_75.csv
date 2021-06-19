@@ -1,0 +1,21 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time
+RJ8J0xd,gpt_neo_2.7b,1,0.75,10,keep head from moving while sleeping on bus,prevent head motion while sleeping on bus,0
+RJ8J0xd,gpt_neo_2.7b,2,0.75,10,keep head from moving while sleeping on bus,prevent head from getting into contact with bus seat,122
+RJ8J0xd,gpt_neo_2.7b,3,0.75,10,keep head from moving while sleeping on bus,stop object from moving while not causing an unwanted sound,184
+RJ8J0xd,gpt_neo_2.7b,4,0.75,10,keep head from moving while sleeping on bus,prevent head from moving while entering a sleeping compartment,257
+RJ8J0xd,gpt_neo_2.7b,5,0.75,10,keep head from moving while sleeping on bus,make head and body in constant contact with each other,321
+RJ8J0xd,gpt_neo_2.7b,6,0.75,10,keep head from moving while sleeping on bus,allow a person to sleep in a vehicle even if they are not comfortable,380
+RJ8J0xd,gpt_neo_2.7b,7,0.75,10,keep head from moving while sleeping on bus,prevent unwanted motion of head while sleeping,467
+RJ8J0xd,gpt_neo_2.7b,8,0.75,10,keep head from moving while sleeping on bus,prevent head from moving while asleep on bus,534
+RJ8J0xd,gpt_neo_2.7b,9,0.75,10,keep head from moving while sleeping on bus,Keep head from moving sideways while riding a bus,613
+RJ8J0xd,gpt_neo_2.7b,10,0.75,10,keep head from moving while sleeping on bus,protect the head from the impact of foreign objects,671
+RJ8J0xd,gpt_neo_2.7b,11,0.75,10,keep head from moving while sleeping on bus,enable a head to move while sleeping,729
+RJ8J0xd,gpt_neo_2.7b,12,0.75,10,keep head from moving while sleeping on bus,prevent the head from moving while sleeping on bus,788
+RJ8J0xd,gpt_neo_2.7b,13,0.75,10,keep head from moving while sleeping on bus,prevent head from falling onto a moving object,890
+RJ8J0xd,gpt_neo_2.7b,14,0.75,10,keep head from moving while sleeping on bus,prevent head from falling off the bus,947
+RJ8J0xd,gpt_neo_2.7b,15,0.75,10,keep head from moving while sleeping on bus,keep body from moving while falling off a bus,1002
+RJ8J0xd,gpt_neo_2.7b,16,0.75,10,keep head from moving while sleeping on bus,prevent body from moving with respect to the bus,1059
+RJ8J0xd,gpt_neo_2.7b,17,0.75,10,keep head from moving while sleeping on bus,prevent head from moving in sleep,1115
+RJ8J0xd,gpt_neo_2.7b,18,0.75,10,keep head from moving while sleeping on bus,prevent unwanted motion in an object while it is at rest or inactive,1171
+RJ8J0xd,gpt_neo_2.7b,19,0.75,10,keep head from moving while sleeping on bus,keep head from moving while remaining in place,1229
+RJ8J0xd,gpt_neo_2.7b,20,0.75,10,keep head from moving while sleeping on bus,make head stationary with respect to the rest of the body,1292
