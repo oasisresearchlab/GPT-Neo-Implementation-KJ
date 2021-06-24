@@ -1,0 +1,181 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+EIYSub1,gpt_neo_125m,1,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,0
+EIYSub1,gpt_neo_125m,2,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,16
+EIYSub1,gpt_neo_125m,3,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,32
+EIYSub1,gpt_neo_125m,4,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,48
+EIYSub1,gpt_neo_125m,5,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,64
+EIYSub1,gpt_neo_125m,6,0.1,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,80
+EIYSub1,gpt_neo_125m,7,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,98
+EIYSub1,gpt_neo_125m,8,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,114
+EIYSub1,gpt_neo_125m,9,0.1,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,130
+EIYSub1,gpt_neo_125m,10,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,146
+EIYSub1,gpt_neo_125m,11,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,162
+EIYSub1,gpt_neo_125m,12,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,177
+EIYSub1,gpt_neo_125m,13,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,194
+EIYSub1,gpt_neo_125m,14,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,210
+EIYSub1,gpt_neo_125m,15,0.1,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,225
+EIYSub1,gpt_neo_125m,16,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,240
+EIYSub1,gpt_neo_125m,17,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,255
+EIYSub1,gpt_neo_125m,18,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,271
+EIYSub1,gpt_neo_125m,19,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,286
+EIYSub1,gpt_neo_125m,20,0.1,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,301
+EIYSub1,gpt_neo_125m,1,0.2,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,316
+EIYSub1,gpt_neo_125m,2,0.2,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign substances,332
+EIYSub1,gpt_neo_125m,3,0.2,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,347
+EIYSub1,gpt_neo_125m,4,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,362
+EIYSub1,gpt_neo_125m,5,0.2,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,377
+EIYSub1,gpt_neo_125m,6,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,393
+EIYSub1,gpt_neo_125m,7,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,408
+EIYSub1,gpt_neo_125m,8,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,424
+EIYSub1,gpt_neo_125m,9,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,439
+EIYSub1,gpt_neo_125m,10,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,455
+EIYSub1,gpt_neo_125m,11,0.2,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,471
+EIYSub1,gpt_neo_125m,12,0.2,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,486
+EIYSub1,gpt_neo_125m,13,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,501
+EIYSub1,gpt_neo_125m,14,0.2,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,516
+EIYSub1,gpt_neo_125m,15,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,531
+EIYSub1,gpt_neo_125m,16,0.2,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,546
+EIYSub1,gpt_neo_125m,17,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,561
+EIYSub1,gpt_neo_125m,18,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,576
+EIYSub1,gpt_neo_125m,19,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,592
+EIYSub1,gpt_neo_125m,20,0.2,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,607
+EIYSub1,gpt_neo_125m,1,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,623
+EIYSub1,gpt_neo_125m,2,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,638
+EIYSub1,gpt_neo_125m,3,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,655
+EIYSub1,gpt_neo_125m,4,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,672
+EIYSub1,gpt_neo_125m,5,0.3,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,689
+EIYSub1,gpt_neo_125m,6,0.3,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,706
+EIYSub1,gpt_neo_125m,7,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,722
+EIYSub1,gpt_neo_125m,8,0.3,20,keep head from moving while sleeping on bus,prevent head from getting into contact with unwanted substances,737
+EIYSub1,gpt_neo_125m,9,0.3,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,752
+EIYSub1,gpt_neo_125m,10,0.3,20,keep head from moving while sleeping on bus,Prevent body from getting into contact with unwanted substances,768
+EIYSub1,gpt_neo_125m,11,0.3,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,783
+EIYSub1,gpt_neo_125m,12,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,798
+EIYSub1,gpt_neo_125m,13,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,814
+EIYSub1,gpt_neo_125m,14,0.3,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign substances,829
+EIYSub1,gpt_neo_125m,15,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,845
+EIYSub1,gpt_neo_125m,16,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,860
+EIYSub1,gpt_neo_125m,17,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,875
+EIYSub1,gpt_neo_125m,18,0.3,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,891
+EIYSub1,gpt_neo_125m,19,0.3,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,906
+EIYSub1,gpt_neo_125m,20,0.3,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,921
+EIYSub1,gpt_neo_125m,1,0.4,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,936
+EIYSub1,gpt_neo_125m,2,0.4,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign substances,952
+EIYSub1,gpt_neo_125m,3,0.4,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,967
+EIYSub1,gpt_neo_125m,4,0.4,20,keep head from moving while sleeping on bus,prevent water from penetrating a space,982
+EIYSub1,gpt_neo_125m,5,0.4,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,997
+EIYSub1,gpt_neo_125m,6,0.4,20,keep head from moving while sleeping on bus,Prevent children from getting into contact with objects,1013
+EIYSub1,gpt_neo_125m,7,0.4,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1028
+EIYSub1,gpt_neo_125m,8,0.4,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1044
+EIYSub1,gpt_neo_125m,9,0.4,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,1059
+EIYSub1,gpt_neo_125m,10,0.4,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign substances,1074
+EIYSub1,gpt_neo_125m,11,0.4,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1089
+EIYSub1,gpt_neo_125m,12,0.4,20,keep head from moving while sleeping on bus,prevent body from moving while sleeping on bus,1105
+EIYSub1,gpt_neo_125m,13,0.4,20,keep head from moving while sleeping on bus,Prevent the head from moving while sleeping on bus,1120
+EIYSub1,gpt_neo_125m,14,0.4,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1135
+EIYSub1,gpt_neo_125m,15,0.4,20,keep head from moving while sleeping on bus,Remove dirt from objects by mechanical force,1150
+EIYSub1,gpt_neo_125m,16,0.4,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1165
+EIYSub1,gpt_neo_125m,17,0.4,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,1180
+EIYSub1,gpt_neo_125m,18,0.4,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1195
+EIYSub1,gpt_neo_125m,19,0.4,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1210
+EIYSub1,gpt_neo_125m,20,0.4,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1226
+EIYSub1,gpt_neo_125m,1,0.5,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1241
+EIYSub1,gpt_neo_125m,2,0.5,20,keep head from moving while sleeping on bus,prevent dead body from getting into contact with objects,1256
+EIYSub1,gpt_neo_125m,3,0.5,20,keep head from moving while sleeping on bus,Prevent children from getting into bed,1271
+EIYSub1,gpt_neo_125m,4,0.5,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign substances,1286
+EIYSub1,gpt_neo_125m,5,0.5,20,keep head from moving while sleeping on bus,Prevent children from getting wet,1301
+EIYSub1,gpt_neo_125m,6,0.5,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1316
+EIYSub1,gpt_neo_125m,7,0.5,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1331
+EIYSub1,gpt_neo_125m,8,0.5,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,1346
+EIYSub1,gpt_neo_125m,9,0.5,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1364
+EIYSub1,gpt_neo_125m,10,0.5,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1380
+EIYSub1,gpt_neo_125m,11,0.5,20,keep head from moving while sleeping on bus,stop head from moving while sleeping on bus,1396
+EIYSub1,gpt_neo_125m,12,0.5,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1412
+EIYSub1,gpt_neo_125m,13,0.5,20,keep head from moving while sleeping on bus,prevent moving head from moving while sleeping,1427
+EIYSub1,gpt_neo_125m,14,0.5,20,keep head from moving while sleeping on bus,Protect object from the sun,1442
+EIYSub1,gpt_neo_125m,15,0.5,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,1457
+EIYSub1,gpt_neo_125m,16,0.5,20,keep head from moving while sleeping on bus,Prevent motion from getting into contact with unwanted substances,1472
+EIYSub1,gpt_neo_125m,17,0.5,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1487
+EIYSub1,gpt_neo_125m,18,0.5,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,1503
+EIYSub1,gpt_neo_125m,19,0.5,20,keep head from moving while sleeping on bus,Prevent contact with objects of different volumes,1519
+EIYSub1,gpt_neo_125m,20,0.5,20,keep head from moving while sleeping on bus,Remove head from body,1535
+EIYSub1,gpt_neo_125m,1,0.6,20,keep head from moving while sleeping on bus,Prevent the head from getting into contact with unwanted substances,1551
+EIYSub1,gpt_neo_125m,2,0.6,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1567
+EIYSub1,gpt_neo_125m,3,0.6,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,1582
+EIYSub1,gpt_neo_125m,4,0.6,20,keep head from moving while sleeping on bus,prevent car from moving while sleeping on bus,1599
+EIYSub1,gpt_neo_125m,5,0.6,20,keep head from moving while sleeping on bus,Remove objects from the environment by gravity,1614
+EIYSub1,gpt_neo_125m,6,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1631
+EIYSub1,gpt_neo_125m,7,0.6,20,keep head from moving while sleeping on bus,prevent from getting into contact with unwanted substances,1646
+EIYSub1,gpt_neo_125m,8,0.6,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,1663
+EIYSub1,gpt_neo_125m,9,0.6,20,keep head from moving while sleeping on bus,"Protect against movement of a body, especially a head",1678
+EIYSub1,gpt_neo_125m,10,0.6,20,keep head from moving while sleeping on bus,Prevent the head from moving while sleeping on bus,1694
+EIYSub1,gpt_neo_125m,11,0.6,20,keep head from moving while sleeping on bus,prevent body from getting into contact with objects,1709
+EIYSub1,gpt_neo_125m,12,0.6,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,1725
+EIYSub1,gpt_neo_125m,13,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1742
+EIYSub1,gpt_neo_125m,14,0.6,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,1757
+EIYSub1,gpt_neo_125m,15,0.6,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,1773
+EIYSub1,gpt_neo_125m,16,0.6,20,keep head from moving while sleeping on bus,Protect object from the environment,1789
+EIYSub1,gpt_neo_125m,17,0.6,20,keep head from moving while sleeping on bus,Start to stop vehicle from getting into contact with unwanted substances,1805
+EIYSub1,gpt_neo_125m,18,0.6,20,keep head from moving while sleeping on bus,reduce the risk of getting stuck in a car,1820
+EIYSub1,gpt_neo_125m,19,0.6,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,1836
+EIYSub1,gpt_neo_125m,20,0.6,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,1853
+EIYSub1,gpt_neo_125m,1,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1868
+EIYSub1,gpt_neo_125m,2,0.7,20,keep head from moving while sleeping on bus,create a hole in an object with no foreign particles,1884
+EIYSub1,gpt_neo_125m,3,0.7,20,keep head from moving while sleeping on bus,Avoid movement while sleeping on bus,1899
+EIYSub1,gpt_neo_125m,4,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,1915
+EIYSub1,gpt_neo_125m,5,0.7,20,keep head from moving while sleeping on bus,prevent falling objects from getting into contact with your body,1931
+EIYSub1,gpt_neo_125m,6,0.7,20,keep head from moving while sleeping on bus,Protect object from foreign particles,1946
+EIYSub1,gpt_neo_125m,7,0.7,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with foreign substances,1961
+EIYSub1,gpt_neo_125m,8,0.7,20,keep head from moving while sleeping on bus,Protect vulnerable object from radiation,1977
+EIYSub1,gpt_neo_125m,9,0.7,20,keep head from moving while sleeping on bus,Prevent objects from getting into contact with other objects,1992
+EIYSub1,gpt_neo_125m,10,0.7,20,keep head from moving while sleeping on bus,stop object from getting into contact with unwanted substances,2007
+EIYSub1,gpt_neo_125m,11,0.7,20,keep head from moving while sleeping on bus,prevent swimming of a baby,2023
+EIYSub1,gpt_neo_125m,12,0.7,20,keep head from moving while sleeping on bus,prevent body from getting into contact with foreign objects,2038
+EIYSub1,gpt_neo_125m,13,0.7,20,keep head from moving while sleeping on bus,Make house out of cooked spaghetti,2054
+EIYSub1,gpt_neo_125m,14,0.7,20,keep head from moving while sleeping on bus,Protect human body from the influence of radiation,2069
+EIYSub1,gpt_neo_125m,15,0.7,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2085
+EIYSub1,gpt_neo_125m,16,0.7,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,2100
+EIYSub1,gpt_neo_125m,17,0.7,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,2115
+EIYSub1,gpt_neo_125m,18,0.7,20,keep head from moving while sleeping on bus,Disable a device in a room to stop movement,2131
+EIYSub1,gpt_neo_125m,19,0.7,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,2146
+EIYSub1,gpt_neo_125m,20,0.7,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,2162
+EIYSub1,gpt_neo_125m,1,0.8,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2178
+EIYSub1,gpt_neo_125m,2,0.8,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,2193
+EIYSub1,gpt_neo_125m,3,0.8,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2209
+EIYSub1,gpt_neo_125m,4,0.8,20,keep head from moving while sleeping on bus,Protect object from radiation exposure,2224
+EIYSub1,gpt_neo_125m,5,0.8,20,keep head from moving while sleeping on bus,Prevent movement in a closed environment,2240
+EIYSub1,gpt_neo_125m,6,0.8,20,keep head from moving while sleeping on bus,Reduce physical risk of falling,2256
+EIYSub1,gpt_neo_125m,7,0.8,20,keep head from moving while sleeping on bus,Protect the head from the sun,2271
+EIYSub1,gpt_neo_125m,8,0.8,20,keep head from moving while sleeping on bus,prevent wind from penetrating walls,2286
+EIYSub1,gpt_neo_125m,9,0.8,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2303
+EIYSub1,gpt_neo_125m,10,0.8,20,keep head from moving while sleeping on bus,prevent objects from being picked up,2319
+EIYSub1,gpt_neo_125m,11,0.8,20,keep head from moving while sleeping on bus,stop water from moving across walls,2333
+EIYSub1,gpt_neo_125m,12,0.8,20,keep head from moving while sleeping on bus,Keep head down from moving while sleeping on bus,2348
+EIYSub1,gpt_neo_125m,13,0.8,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,2363
+EIYSub1,gpt_neo_125m,14,0.8,20,keep head from moving while sleeping on bus,prevent body from moving while sleeping,2379
+EIYSub1,gpt_neo_125m,15,0.8,20,keep head from moving while sleeping on bus,Prevent body from moving while sleeping on bus,2395
+EIYSub1,gpt_neo_125m,16,0.8,20,keep head from moving while sleeping on bus,prevent water from penetrating walls,2411
+EIYSub1,gpt_neo_125m,17,0.8,20,keep head from moving while sleeping on bus,keep head from moving while sleeping,2426
+EIYSub1,gpt_neo_125m,18,0.8,20,keep head from moving while sleeping on bus,stop head from moving while sleeping on bus,2442
+EIYSub1,gpt_neo_125m,19,0.8,20,keep head from moving while sleeping on bus,Protect against an unwanted motion,2458
+EIYSub1,gpt_neo_125m,20,0.8,20,keep head from moving while sleeping on bus,stop head from moving while asleep on bus,2473
+EIYSub1,gpt_neo_125m,1,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2489
+EIYSub1,gpt_neo_125m,2,0.9,20,keep head from moving while sleeping on bus,store in a space filled with water,2505
+EIYSub1,gpt_neo_125m,3,0.9,20,keep head from moving while sleeping on bus,Start a motor drive on the bus with no change in motion,2520
+EIYSub1,gpt_neo_125m,4,0.9,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,2537
+EIYSub1,gpt_neo_125m,5,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2553
+EIYSub1,gpt_neo_125m,6,0.9,20,keep head from moving while sleeping on bus,prevent children from getting stuck on a bus,2569
+EIYSub1,gpt_neo_125m,7,0.9,20,keep head from moving while sleeping on bus,"Remove foreign objects in a car, so that a driver can only move closer to the subject car",2584
+EIYSub1,gpt_neo_125m,8,0.9,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with unwanted substances,2600
+EIYSub1,gpt_neo_125m,9,0.9,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus to avoid water,2616
+EIYSub1,gpt_neo_125m,10,0.9,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,2631
+EIYSub1,gpt_neo_125m,11,0.9,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,2647
+EIYSub1,gpt_neo_125m,12,0.9,20,keep head from moving while sleeping on bus,Improve the feel of a complicated motion or force,2662
+EIYSub1,gpt_neo_125m,13,0.9,20,keep head from moving while sleeping on bus,Stop object from getting into contact with unwanted substances,2677
+EIYSub1,gpt_neo_125m,14,0.9,20,keep head from moving while sleeping on bus,Protect vulnerable object from the action of external forces,2693
+EIYSub1,gpt_neo_125m,15,0.9,20,keep head from moving while sleeping on bus,stop object from getting into contact with foreign substances,2710
+EIYSub1,gpt_neo_125m,16,0.9,20,keep head from moving while sleeping on bus,Stop object,2725
+EIYSub1,gpt_neo_125m,17,0.9,20,keep head from moving while sleeping on bus,remove dirty floor from underfoot,2740
+EIYSub1,gpt_neo_125m,18,0.9,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping on bus,2756
+EIYSub1,gpt_neo_125m,19,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,2772
+EIYSub1,gpt_neo_125m,20,0.9,20,keep head from moving while sleeping on bus,Prevent object from getting into contact with water,2788
