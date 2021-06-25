@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,CIM6Dj9,gpt_neo_125m,1,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,0
+2,CIM6Dj9,gpt_neo_125m,2,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,11
+5,CIM6Dj9,gpt_neo_125m,3,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,21
+9,CIM6Dj9,gpt_neo_125m,4,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,32
+14,CIM6Dj9,gpt_neo_125m,5,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,42
+20,CIM6Dj9,gpt_neo_125m,6,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,53
+27,CIM6Dj9,gpt_neo_125m,7,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,64
+35,CIM6Dj9,gpt_neo_125m,8,0.1,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,74
+44,CIM6Dj9,gpt_neo_125m,9,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,85
+54,CIM6Dj9,gpt_neo_125m,10,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,95
+65,CIM6Dj9,gpt_neo_125m,11,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,106
+77,CIM6Dj9,gpt_neo_125m,12,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,116
+90,CIM6Dj9,gpt_neo_125m,13,0.1,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,126
+104,CIM6Dj9,gpt_neo_125m,14,0.1,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,135
+119,CIM6Dj9,gpt_neo_125m,15,0.1,20,navigate in the dark,Protect vulnerable object from radiation,145
+135,CIM6Dj9,gpt_neo_125m,16,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,155
+152,CIM6Dj9,gpt_neo_125m,17,0.1,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,165
+170,CIM6Dj9,gpt_neo_125m,18,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,174
+189,CIM6Dj9,gpt_neo_125m,19,0.1,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,184
+209,CIM6Dj9,gpt_neo_125m,20,0.1,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,194
+230,CIM6Dj9,gpt_neo_125m,1,0.2,20,navigate in the dark,Protect object from the penetration of foreign substances,203
+252,CIM6Dj9,gpt_neo_125m,2,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,213
+275,CIM6Dj9,gpt_neo_125m,3,0.2,20,navigate in the dark,Protect vulnerable object from radiation,223
+299,CIM6Dj9,gpt_neo_125m,4,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,233
+324,CIM6Dj9,gpt_neo_125m,5,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,243
+350,CIM6Dj9,gpt_neo_125m,6,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,252
+377,CIM6Dj9,gpt_neo_125m,7,0.2,20,navigate in the dark,Remove objects from the environment,263
+405,CIM6Dj9,gpt_neo_125m,8,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,275
+434,CIM6Dj9,gpt_neo_125m,9,0.2,20,navigate in the dark,Protect vulnerable object from radiation,286
+464,CIM6Dj9,gpt_neo_125m,10,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,297
+495,CIM6Dj9,gpt_neo_125m,11,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,309
+527,CIM6Dj9,gpt_neo_125m,12,0.2,20,navigate in the dark,Protect vulnerable object from radiation,322
+560,CIM6Dj9,gpt_neo_125m,13,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,333
+594,CIM6Dj9,gpt_neo_125m,14,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,343
+629,CIM6Dj9,gpt_neo_125m,15,0.2,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,355
+665,CIM6Dj9,gpt_neo_125m,16,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,365
+702,CIM6Dj9,gpt_neo_125m,17,0.2,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,376
+740,CIM6Dj9,gpt_neo_125m,18,0.2,20,navigate in the dark,Protect vulnerable object from radiation,386
+779,CIM6Dj9,gpt_neo_125m,19,0.2,20,navigate in the dark,Protect vulnerable object from radiation,397
+819,CIM6Dj9,gpt_neo_125m,20,0.2,20,navigate in the dark,Protect vulnerable object from radiation,407
+860,CIM6Dj9,gpt_neo_125m,1,0.3,20,navigate in the dark,prevent object from getting into contact with unwanted substances,418
+902,CIM6Dj9,gpt_neo_125m,2,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,429
+945,CIM6Dj9,gpt_neo_125m,3,0.3,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,439
+989,CIM6Dj9,gpt_neo_125m,4,0.3,20,navigate in the dark,Remove objects from a dark space,450
+1034,CIM6Dj9,gpt_neo_125m,5,0.3,20,navigate in the dark,Protect vulnerable object from radiation,460
+1080,CIM6Dj9,gpt_neo_125m,6,0.3,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,471
+1127,CIM6Dj9,gpt_neo_125m,7,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,481
+1175,CIM6Dj9,gpt_neo_125m,8,0.3,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,492
+1224,CIM6Dj9,gpt_neo_125m,9,0.3,20,navigate in the dark,Prevent the user from getting into contact with unwanted substances,502
+1274,CIM6Dj9,gpt_neo_125m,10,0.3,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,513
+1325,CIM6Dj9,gpt_neo_125m,11,0.3,20,navigate in the dark,Remove objects from a dark environment,523
+1377,CIM6Dj9,gpt_neo_125m,12,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,534
+1430,CIM6Dj9,gpt_neo_125m,13,0.3,20,navigate in the dark,Remove objects of different volumes,544
+1484,CIM6Dj9,gpt_neo_125m,14,0.3,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,555
+1539,CIM6Dj9,gpt_neo_125m,15,0.3,20,navigate in the dark,Protect object from the penetration of foreign substances,566
+1595,CIM6Dj9,gpt_neo_125m,16,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,576
+1652,CIM6Dj9,gpt_neo_125m,17,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,587
+1710,CIM6Dj9,gpt_neo_125m,18,0.3,20,navigate in the dark,Reduce the distance between objects,598
+1769,CIM6Dj9,gpt_neo_125m,19,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,608
+1829,CIM6Dj9,gpt_neo_125m,20,0.3,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,619
+1890,CIM6Dj9,gpt_neo_125m,1,0.4,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,629
+1952,CIM6Dj9,gpt_neo_125m,2,0.4,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,640
+2015,CIM6Dj9,gpt_neo_125m,3,0.4,20,navigate in the dark,Remove objects from the environment,650
+2079,CIM6Dj9,gpt_neo_125m,4,0.4,20,navigate in the dark,Remove objects from the environment,661
+2144,CIM6Dj9,gpt_neo_125m,5,0.4,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,671
+2210,CIM6Dj9,gpt_neo_125m,6,0.4,20,navigate in the dark,Create a hole in an object without causing an unwanted noise,682
+2277,CIM6Dj9,gpt_neo_125m,7,0.4,20,navigate in the dark,Protect object from the sun,692
+2345,CIM6Dj9,gpt_neo_125m,8,0.4,20,navigate in the dark,protect object from the penetration of foreign substances,703
+2414,CIM6Dj9,gpt_neo_125m,9,0.4,20,navigate in the dark,prevent the user from getting into contact with unwanted substances,713
+2484,CIM6Dj9,gpt_neo_125m,10,0.4,20,navigate in the dark,Protect vulnerable object from radiation,724
+2555,CIM6Dj9,gpt_neo_125m,11,0.4,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,735
+2627,CIM6Dj9,gpt_neo_125m,12,0.4,20,navigate in the dark,prevent objects from getting into contact with unwanted substances,745
+2700,CIM6Dj9,gpt_neo_125m,13,0.4,20,navigate in the dark,Protect objects from being disturbed,756
+2774,CIM6Dj9,gpt_neo_125m,14,0.4,20,navigate in the dark,Create a hole in an object without causing an unwanted noise,766
+2849,CIM6Dj9,gpt_neo_125m,15,0.4,20,navigate in the dark,Make a hole in a building,777
+2925,CIM6Dj9,gpt_neo_125m,16,0.4,20,navigate in the dark,Protect a child from the sun,787
+3002,CIM6Dj9,gpt_neo_125m,17,0.4,20,navigate in the dark,Protect vulnerable object from radiation,798
+3080,CIM6Dj9,gpt_neo_125m,18,0.4,20,navigate in the dark,Protect vulnerable object from radiation,808
+3159,CIM6Dj9,gpt_neo_125m,19,0.4,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,819
+3239,CIM6Dj9,gpt_neo_125m,20,0.4,20,navigate in the dark,Protect object from radiation,830
+3320,CIM6Dj9,gpt_neo_125m,1,0.5,20,navigate in the dark,Reduce distance from object to object,841
+3402,CIM6Dj9,gpt_neo_125m,2,0.5,20,navigate in the dark,prevent water from penetrating a wall,852
+3485,CIM6Dj9,gpt_neo_125m,3,0.5,20,navigate in the dark,Reduce the number of steps of a walk,863
+3569,CIM6Dj9,gpt_neo_125m,4,0.5,20,navigate in the dark,Remove the object from the path,873
+3654,CIM6Dj9,gpt_neo_125m,5,0.5,20,navigate in the dark,Protect object from the penetration of foreign substances,883
+3740,CIM6Dj9,gpt_neo_125m,6,0.5,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,893
+3827,CIM6Dj9,gpt_neo_125m,7,0.5,20,navigate in the dark,Create a hole in an object without causing an unwanted noise,903
+3915,CIM6Dj9,gpt_neo_125m,8,0.5,20,navigate in the dark,Protect vulnerable object from radiation,912
+4004,CIM6Dj9,gpt_neo_125m,9,0.5,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,922
+4094,CIM6Dj9,gpt_neo_125m,10,0.5,20,navigate in the dark,Reduce the distance between objects,933
+4185,CIM6Dj9,gpt_neo_125m,11,0.5,20,navigate in the dark,Remove objects from a room without causing an unwanted noise,943
+4277,CIM6Dj9,gpt_neo_125m,12,0.5,20,navigate in the dark,prevent object from getting into contact with unwanted substances,954
+4370,CIM6Dj9,gpt_neo_125m,13,0.5,20,navigate in the dark,Protect vulnerable object from radiation,965
+4464,CIM6Dj9,gpt_neo_125m,14,0.5,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,975
+4559,CIM6Dj9,gpt_neo_125m,15,0.5,20,navigate in the dark,prevent water from penetrating a space,986
+4655,CIM6Dj9,gpt_neo_125m,16,0.5,20,navigate in the dark,Remove objects from the scene,996
+4752,CIM6Dj9,gpt_neo_125m,17,0.5,20,navigate in the dark,Protect sensitive object from radiation,1007
+4850,CIM6Dj9,gpt_neo_125m,18,0.5,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,1018
+4949,CIM6Dj9,gpt_neo_125m,19,0.5,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,1029
+5049,CIM6Dj9,gpt_neo_125m,20,0.5,20,navigate in the dark,Protect vulnerable object from radiation,1039
+5150,CIM6Dj9,gpt_neo_125m,1,0.6,20,navigate in the dark,Prevent the user from entering a dangerous area,1050
+5252,CIM6Dj9,gpt_neo_125m,2,0.6,20,navigate in the dark,Remove objects from contact with unwanted substances,1062
+5355,CIM6Dj9,gpt_neo_125m,3,0.6,20,navigate in the dark,Protect object from radiation,1073
+5459,CIM6Dj9,gpt_neo_125m,4,0.6,20,navigate in the dark,Avoid the use of light,1084
+5564,CIM6Dj9,gpt_neo_125m,5,0.6,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1096
+5670,CIM6Dj9,gpt_neo_125m,6,0.6,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1108
+5777,CIM6Dj9,gpt_neo_125m,7,0.6,20,navigate in the dark,Prevent children from getting into trouble,1119
+5885,CIM6Dj9,gpt_neo_125m,8,0.6,20,navigate in the dark,Remove objects from their places,1129
+5994,CIM6Dj9,gpt_neo_125m,9,0.6,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1139
+6104,CIM6Dj9,gpt_neo_125m,10,0.6,20,navigate in the dark,Prevent children from getting wet by using the flashlight,1150
+6215,CIM6Dj9,gpt_neo_125m,11,0.6,20,navigate in the dark,Protect vulnerable object from radiation,1160
+6327,CIM6Dj9,gpt_neo_125m,12,0.6,20,navigate in the dark,prevent objects from getting into contact with unwanted substances,1170
+6440,CIM6Dj9,gpt_neo_125m,13,0.6,20,navigate in the dark,Protect vulnerable object from radiation,1181
+6554,CIM6Dj9,gpt_neo_125m,14,0.6,20,navigate in the dark,prevent objects from getting into contact with unwanted substances,1192
+6669,CIM6Dj9,gpt_neo_125m,15,0.6,20,navigate in the dark,Enable a broom to clean in hard to reach places,1202
+6785,CIM6Dj9,gpt_neo_125m,16,0.6,20,navigate in the dark,stop object from getting into contact with unwanted substances,1214
+6902,CIM6Dj9,gpt_neo_125m,17,0.6,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,1225
+7020,CIM6Dj9,gpt_neo_125m,18,0.6,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1236
+7139,CIM6Dj9,gpt_neo_125m,19,0.6,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,1247
+7259,CIM6Dj9,gpt_neo_125m,20,0.6,20,navigate in the dark,Improve the feel of a complicated motion or force,1258
+7380,CIM6Dj9,gpt_neo_125m,1,0.7,20,navigate in the dark,Reduce light leakage by removing the light-shielded object,1269
+7502,CIM6Dj9,gpt_neo_125m,2,0.7,20,navigate in the dark,Prevent the user from getting into the dark,1280
+7625,CIM6Dj9,gpt_neo_125m,3,0.7,20,navigate in the dark,Prevent object from getting into contact with unwanted substances,1291
+7749,CIM6Dj9,gpt_neo_125m,4,0.7,20,navigate in the dark,Create a transparent sphere of a liquid,1301
+7874,CIM6Dj9,gpt_neo_125m,5,0.7,20,navigate in the dark,Enable objects to appear in a dark space,1312
+8000,CIM6Dj9,gpt_neo_125m,6,0.7,20,navigate in the dark,prevent falling in the dark,1323
+8127,CIM6Dj9,gpt_neo_125m,7,0.7,20,navigate in the dark,Create a container in which to store objects,1334
+8255,CIM6Dj9,gpt_neo_125m,8,0.7,20,navigate in the dark,make a hole in an object,1344
+8384,CIM6Dj9,gpt_neo_125m,9,0.7,20,navigate in the dark,Reduce the power needed to reach objects,1355
+8514,CIM6Dj9,gpt_neo_125m,10,0.7,20,navigate in the dark,Improve the feel of a complicated motion or force,1366
+8645,CIM6Dj9,gpt_neo_125m,11,0.7,20,navigate in the dark,Reduce the number of steps required to move a object,1377
+8777,CIM6Dj9,gpt_neo_125m,12,0.7,20,navigate in the dark,Use a light switch to move objects into a dark space,1388
+8910,CIM6Dj9,gpt_neo_125m,13,0.7,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1399
+9044,CIM6Dj9,gpt_neo_125m,14,0.7,20,navigate in the dark,Prevent children from getting into the dark,1410
+9179,CIM6Dj9,gpt_neo_125m,15,0.7,20,navigate in the dark,Remove obstacles from objects,1420
+9315,CIM6Dj9,gpt_neo_125m,16,0.7,20,navigate in the dark,navigate in the dark,1431
+9452,CIM6Dj9,gpt_neo_125m,17,0.7,20,navigate in the dark,Remove objects from a space,1443
+9590,CIM6Dj9,gpt_neo_125m,18,0.7,20,navigate in the dark,Disable the light switch on the light wall,1454
+9729,CIM6Dj9,gpt_neo_125m,19,0.7,20,navigate in the dark,create a hole in an object without causing an unwanted noise,1466
+9869,CIM6Dj9,gpt_neo_125m,20,0.7,20,navigate in the dark,Reduce the volume of objects in a dark room,1477
+10010,CIM6Dj9,gpt_neo_125m,1,0.8,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,1490
+10152,CIM6Dj9,gpt_neo_125m,2,0.8,20,navigate in the dark,prevent movement of objects from escaping,1501
+10295,CIM6Dj9,gpt_neo_125m,3,0.8,20,navigate in the dark,Remove objects from the path,1513
+10439,CIM6Dj9,gpt_neo_125m,4,0.8,20,navigate in the dark,Prevent objects from falling over,1524
+10584,CIM6Dj9,gpt_neo_125m,5,0.8,20,navigate in the dark,Provide effective illumination,1538
+10730,CIM6Dj9,gpt_neo_125m,6,0.8,20,navigate in the dark,Protect vulnerable object from radiation,1552
+10877,CIM6Dj9,gpt_neo_125m,7,0.8,20,navigate in the dark,Reduce the space where it would be most convenient to hide.,1567
+11025,CIM6Dj9,gpt_neo_125m,8,0.8,20,navigate in the dark,Prevent car accident,1581
+11174,CIM6Dj9,gpt_neo_125m,9,0.8,20,navigate in the dark,prevent moving objects through the dark,1595
+11324,CIM6Dj9,gpt_neo_125m,10,0.8,20,navigate in the dark,protect object from the penetration of foreign substances,1609
+11475,CIM6Dj9,gpt_neo_125m,11,0.8,20,navigate in the dark,Restrictive search of objects,1624
+11627,CIM6Dj9,gpt_neo_125m,12,0.8,20,navigate in the dark,,1639
+11780,CIM6Dj9,gpt_neo_125m,13,0.8,20,navigate in the dark,Protect the object from exposure to light,1653
+11934,CIM6Dj9,gpt_neo_125m,14,0.8,20,navigate in the dark,Remove obstacles from a vehicle,1667
+12089,CIM6Dj9,gpt_neo_125m,15,0.8,20,navigate in the dark,Use only light to protect objects,1681
+12245,CIM6Dj9,gpt_neo_125m,16,0.8,20,navigate in the dark,Prevent objects from entering the dark,1695
+12402,CIM6Dj9,gpt_neo_125m,17,0.8,20,navigate in the dark,Reduce distance from human body to the surface,1709
+12560,CIM6Dj9,gpt_neo_125m,18,0.8,20,navigate in the dark,Move your object without making any movement,1722
+12719,CIM6Dj9,gpt_neo_125m,19,0.8,20,navigate in the dark,Reduce the distance between objects in a space,1736
+12879,CIM6Dj9,gpt_neo_125m,20,0.8,20,navigate in the dark,prevent mice from getting into contact with toxic substances,1751
+13040,CIM6Dj9,gpt_neo_125m,1,0.9,20,navigate in the dark,Restore the ability to manipulate the environment,1765
+13202,CIM6Dj9,gpt_neo_125m,2,0.9,20,navigate in the dark,Protect water from unwanted particles,1779
+13365,CIM6Dj9,gpt_neo_125m,3,0.9,20,navigate in the dark,Protect objects from the elements,1793
+13529,CIM6Dj9,gpt_neo_125m,4,0.9,20,navigate in the dark,Protect safe objects on objects,1807
+13694,CIM6Dj9,gpt_neo_125m,5,0.9,20,navigate in the dark,Disable the flashlight by turning the lamp with the knob.,1821
+13860,CIM6Dj9,gpt_neo_125m,6,0.9,20,navigate in the dark,Protect vulnerable object from radiation,1836
+14027,CIM6Dj9,gpt_neo_125m,7,0.9,20,navigate in the dark,Drive objects to the sun,1850
+14195,CIM6Dj9,gpt_neo_125m,8,0.9,20,navigate in the dark,Increase visual glare,1865
+14364,CIM6Dj9,gpt_neo_125m,9,0.9,20,navigate in the dark,prevent the air from getting into contact with objects,1879
+14534,CIM6Dj9,gpt_neo_125m,10,0.9,20,navigate in the dark,Determine if a door lock will work with the doors,1894
+14705,CIM6Dj9,gpt_neo_125m,11,0.9,20,navigate in the dark,Preventing movement of an external object,1909
+14877,CIM6Dj9,gpt_neo_125m,12,0.9,20,navigate in the dark,Reduce shadows from surface contact,1923
+15050,CIM6Dj9,gpt_neo_125m,13,0.9,20,navigate in the dark,Create an object with the most exposed parts,1936
+15224,CIM6Dj9,gpt_neo_125m,14,0.9,20,navigate in the dark,Enable a broom to remove debris from objects,1952
+15399,CIM6Dj9,gpt_neo_125m,15,0.9,20,navigate in the dark,stop object from getting into contact with unwanted substances,1968
+15575,CIM6Dj9,gpt_neo_125m,16,0.9,20,navigate in the dark,protect object from the penetration of foreign substances,1982
+15752,CIM6Dj9,gpt_neo_125m,17,0.9,20,navigate in the dark,Prevent the penetration of a object from a dark environment,1998
+15930,CIM6Dj9,gpt_neo_125m,18,0.9,20,navigate in the dark,Disable a light switch and remove all electronic devices,2013
+16109,CIM6Dj9,gpt_neo_125m,19,0.9,20,navigate in the dark,Prevent child from getting into contact with a foreign object,2029
+16289,CIM6Dj9,gpt_neo_125m,20,0.9,20,navigate in the dark,enable a broom to clean in hard to reach places,2044
