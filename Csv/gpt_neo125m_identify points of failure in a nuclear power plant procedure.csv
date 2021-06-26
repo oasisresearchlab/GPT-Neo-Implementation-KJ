@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,btxBBgK,gpt_neo_125m,1,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,0
+2,btxBBgK,gpt_neo_125m,2,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,20
+5,btxBBgK,gpt_neo_125m,3,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,35
+9,btxBBgK,gpt_neo_125m,4,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,63
+14,btxBBgK,gpt_neo_125m,5,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,91
+20,btxBBgK,gpt_neo_125m,6,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,116
+27,btxBBgK,gpt_neo_125m,7,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,146
+35,btxBBgK,gpt_neo_125m,8,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,176
+44,btxBBgK,gpt_neo_125m,9,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,201
+54,btxBBgK,gpt_neo_125m,10,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,232
+65,btxBBgK,gpt_neo_125m,11,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,257
+77,btxBBgK,gpt_neo_125m,12,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,280
+90,btxBBgK,gpt_neo_125m,13,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,303
+104,btxBBgK,gpt_neo_125m,14,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,326
+119,btxBBgK,gpt_neo_125m,15,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent the formation of a nuclear reactor,348
+135,btxBBgK,gpt_neo_125m,16,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent the generation of radioactive particles,371
+152,btxBBgK,gpt_neo_125m,17,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,394
+170,btxBBgK,gpt_neo_125m,18,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,417
+189,btxBBgK,gpt_neo_125m,19,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,439
+209,btxBBgK,gpt_neo_125m,20,0.1,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with foreign substances,465
+230,btxBBgK,gpt_neo_125m,1,0.2,20,identify points of failure in a nuclear power plant procedure,prevent the development of a nuclear reactor,493
+252,btxBBgK,gpt_neo_125m,2,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the occurrence of a nuclear accident,514
+275,btxBBgK,gpt_neo_125m,3,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,536
+299,btxBBgK,gpt_neo_125m,4,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,557
+324,btxBBgK,gpt_neo_125m,5,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,578
+350,btxBBgK,gpt_neo_125m,6,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the use of a nuclear power plant,599
+377,btxBBgK,gpt_neo_125m,7,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,621
+405,btxBBgK,gpt_neo_125m,8,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,642
+434,btxBBgK,gpt_neo_125m,9,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the generation of radioactive particles,663
+464,btxBBgK,gpt_neo_125m,10,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the generation of radioactive particles,684
+495,btxBBgK,gpt_neo_125m,11,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,705
+527,btxBBgK,gpt_neo_125m,12,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,726
+560,btxBBgK,gpt_neo_125m,13,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the formation of a nuclear explosion,748
+594,btxBBgK,gpt_neo_125m,14,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,774
+629,btxBBgK,gpt_neo_125m,15,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,802
+665,btxBBgK,gpt_neo_125m,16,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,825
+702,btxBBgK,gpt_neo_125m,17,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,849
+740,btxBBgK,gpt_neo_125m,18,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,872
+779,btxBBgK,gpt_neo_125m,19,0.2,20,identify points of failure in a nuclear power plant procedure,Identify the location of a nuclear power plant,894
+819,btxBBgK,gpt_neo_125m,20,0.2,20,identify points of failure in a nuclear power plant procedure,Prevent the nuclear power plant from being damaged,919
+860,btxBBgK,gpt_neo_125m,1,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,942
+902,btxBBgK,gpt_neo_125m,2,0.3,20,identify points of failure in a nuclear power plant procedure,Remove the nuclear power plant from the scene,962
+945,btxBBgK,gpt_neo_125m,3,0.3,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,983
+989,btxBBgK,gpt_neo_125m,4,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent the generation of radioactive particles,1003
+1034,btxBBgK,gpt_neo_125m,5,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1024
+1080,btxBBgK,gpt_neo_125m,6,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent the formation of a nuclear reactor,1045
+1127,btxBBgK,gpt_neo_125m,7,0.3,20,identify points of failure in a nuclear power plant procedure,Identify the cause of failure,1066
+1175,btxBBgK,gpt_neo_125m,8,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1087
+1224,btxBBgK,gpt_neo_125m,9,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent the development of a nuclear power plant,1108
+1274,btxBBgK,gpt_neo_125m,10,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,1129
+1325,btxBBgK,gpt_neo_125m,11,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1149
+1377,btxBBgK,gpt_neo_125m,12,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with foreign substances,1170
+1430,btxBBgK,gpt_neo_125m,13,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1191
+1484,btxBBgK,gpt_neo_125m,14,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1211
+1539,btxBBgK,gpt_neo_125m,15,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1232
+1595,btxBBgK,gpt_neo_125m,16,0.3,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,1252
+1652,btxBBgK,gpt_neo_125m,17,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1273
+1710,btxBBgK,gpt_neo_125m,18,0.3,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1293
+1769,btxBBgK,gpt_neo_125m,19,0.3,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,1314
+1829,btxBBgK,gpt_neo_125m,20,0.3,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1334
+1890,btxBBgK,gpt_neo_125m,1,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with foreign substances,1355
+1952,btxBBgK,gpt_neo_125m,2,0.4,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,1376
+2015,btxBBgK,gpt_neo_125m,3,0.4,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1396
+2079,btxBBgK,gpt_neo_125m,4,0.4,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1416
+2144,btxBBgK,gpt_neo_125m,5,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1437
+2210,btxBBgK,gpt_neo_125m,6,0.4,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,1458
+2277,btxBBgK,gpt_neo_125m,7,0.4,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,1479
+2345,btxBBgK,gpt_neo_125m,8,0.4,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1499
+2414,btxBBgK,gpt_neo_125m,9,0.4,20,identify points of failure in a nuclear power plant procedure,Remove the battery from the power plant,1521
+2484,btxBBgK,gpt_neo_125m,10,0.4,20,identify points of failure in a nuclear power plant procedure,Stop the nuclear power plant procedure,1542
+2555,btxBBgK,gpt_neo_125m,11,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent the use of a nuclear power plant,1563
+2627,btxBBgK,gpt_neo_125m,12,0.4,20,identify points of failure in a nuclear power plant procedure,prevent the formation of a nuclear explosion,1584
+2700,btxBBgK,gpt_neo_125m,13,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent the object from getting into contact with a nuclear power plant,1604
+2774,btxBBgK,gpt_neo_125m,14,0.4,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1625
+2849,btxBBgK,gpt_neo_125m,15,0.4,20,identify points of failure in a nuclear power plant procedure,Remove the nuclear power plant from the plant's power supply,1646
+2925,btxBBgK,gpt_neo_125m,16,0.4,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,1666
+3002,btxBBgK,gpt_neo_125m,17,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent the object from getting into contact with foreign materials,1687
+3080,btxBBgK,gpt_neo_125m,18,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent the presence of a nuclear reactor in a nuclear power plant,1707
+3159,btxBBgK,gpt_neo_125m,19,0.4,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1729
+3239,btxBBgK,gpt_neo_125m,20,0.4,20,identify points of failure in a nuclear power plant procedure,prevent the use of a nuclear power plant,1754
+3320,btxBBgK,gpt_neo_125m,1,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,1779
+3402,btxBBgK,gpt_neo_125m,2,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1801
+3485,btxBBgK,gpt_neo_125m,3,0.5,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,1828
+3569,btxBBgK,gpt_neo_125m,4,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,1849
+3654,btxBBgK,gpt_neo_125m,5,0.5,20,identify points of failure in a nuclear power plant procedure,stop the power plant,1874
+3740,btxBBgK,gpt_neo_125m,6,0.5,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,1896
+3827,btxBBgK,gpt_neo_125m,7,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent the formation of a nuclear reactor,1917
+3915,btxBBgK,gpt_neo_125m,8,0.5,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,1937
+4004,btxBBgK,gpt_neo_125m,9,0.5,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,1958
+4094,btxBBgK,gpt_neo_125m,10,0.5,20,identify points of failure in a nuclear power plant procedure,prevent nuclear power plant from being damaged,1978
+4185,btxBBgK,gpt_neo_125m,11,0.5,20,identify points of failure in a nuclear power plant procedure,Identify the point of failure,2000
+4277,btxBBgK,gpt_neo_125m,12,0.5,20,identify points of failure in a nuclear power plant procedure,Improve the safety of nuclear power plants,2020
+4370,btxBBgK,gpt_neo_125m,13,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,2040
+4464,btxBBgK,gpt_neo_125m,14,0.5,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,2061
+4559,btxBBgK,gpt_neo_125m,15,0.5,20,identify points of failure in a nuclear power plant procedure,Protect object from the penetration of foreign substances,2081
+4655,btxBBgK,gpt_neo_125m,16,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,2102
+4752,btxBBgK,gpt_neo_125m,17,0.5,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,2122
+4850,btxBBgK,gpt_neo_125m,18,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,2143
+4949,btxBBgK,gpt_neo_125m,19,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent the generation of radiation from a nuclear power plant,2163
+5049,btxBBgK,gpt_neo_125m,20,0.5,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with metallic objects,2184
+5150,btxBBgK,gpt_neo_125m,1,0.6,20,identify points of failure in a nuclear power plant procedure,Determine the position of the nuclear reactor in the field,2204
+5252,btxBBgK,gpt_neo_125m,2,0.6,20,identify points of failure in a nuclear power plant procedure,"In a nuclear power plant, the nuclear power plant reactor is designed to be operating at a low power level. The nuclear power plant reactor reactor is designed to be operating at a low power level. The nuclear power plant reactor is designed to be operating at a low power level. The nuclear power plant reactor is designed to operate at a low power level. The nuclear power plant reactor is designed to operate at a low power level. The nuclear power plant reactor is designed to operate at a low power level. The nuclear power plant reactor is designed",2225
+5355,btxBBgK,gpt_neo_125m,3,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent the occurrence of defects in a nuclear power plant,2245
+5459,btxBBgK,gpt_neo_125m,4,0.6,20,identify points of failure in a nuclear power plant procedure,create hard to reach objects,2265
+5564,btxBBgK,gpt_neo_125m,5,0.6,20,identify points of failure in a nuclear power plant procedure,Start the plant in the right way,2285
+5670,btxBBgK,gpt_neo_125m,6,0.6,20,identify points of failure in a nuclear power plant procedure,Improve the efficiency of a nuclear power plant,2306
+5777,btxBBgK,gpt_neo_125m,7,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent water from entering a container,2327
+5885,btxBBgK,gpt_neo_125m,8,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with unwanted substances,2347
+5994,btxBBgK,gpt_neo_125m,9,0.6,20,identify points of failure in a nuclear power plant procedure,Reduce the energy of nuclear power plants,2368
+6104,btxBBgK,gpt_neo_125m,10,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with unwanted substances,2388
+6215,btxBBgK,gpt_neo_125m,11,0.6,20,identify points of failure in a nuclear power plant procedure,find out if a problem is related to a failure of a nuclear power plant,2408
+6327,btxBBgK,gpt_neo_125m,12,0.6,20,identify points of failure in a nuclear power plant procedure,Create a hollow-featured structure in a nuclear reactor,2429
+6440,btxBBgK,gpt_neo_125m,13,0.6,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,2450
+6554,btxBBgK,gpt_neo_125m,14,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent water-based contamination in a nuclear power plant,2471
+6669,btxBBgK,gpt_neo_125m,15,0.6,20,identify points of failure in a nuclear power plant procedure,Identify the failure points,2492
+6785,btxBBgK,gpt_neo_125m,16,0.6,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,2513
+6902,btxBBgK,gpt_neo_125m,17,0.6,20,identify points of failure in a nuclear power plant procedure,Identify the source of the nuclear power plant,3988
+7020,btxBBgK,gpt_neo_125m,18,0.6,20,identify points of failure in a nuclear power plant procedure,Replace a line with a device,4016
+7139,btxBBgK,gpt_neo_125m,19,0.6,20,identify points of failure in a nuclear power plant procedure,eliminate the problem of nuclear weapons,4043
+7259,btxBBgK,gpt_neo_125m,20,0.6,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with foreign substances,4072
+7380,btxBBgK,gpt_neo_125m,1,0.7,20,identify points of failure in a nuclear power plant procedure,detect the size of a particle that had been,4097
+7502,btxBBgK,gpt_neo_125m,2,0.7,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,4120
+7625,btxBBgK,gpt_neo_125m,3,0.7,20,identify points of failure in a nuclear power plant procedure,Improve the effect of a nuclear power plant over the environment,4141
+7749,btxBBgK,gpt_neo_125m,4,0.7,20,identify points of failure in a nuclear power plant procedure,Identify the fault at fault,4161
+7874,btxBBgK,gpt_neo_125m,5,0.7,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,4181
+8000,btxBBgK,gpt_neo_125m,6,0.7,20,identify points of failure in a nuclear power plant procedure,make the nuclear plant operate more efficiently,4202
+8127,btxBBgK,gpt_neo_125m,7,0.7,20,identify points of failure in a nuclear power plant procedure,Provide a physical location of a failed nuclear power plant,4223
+8255,btxBBgK,gpt_neo_125m,8,0.7,20,identify points of failure in a nuclear power plant procedure,Identify the power plants in the field,4243
+8384,btxBBgK,gpt_neo_125m,9,0.7,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,4264
+8514,btxBBgK,gpt_neo_125m,10,0.7,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,4285
+8645,btxBBgK,gpt_neo_125m,11,0.7,20,identify points of failure in a nuclear power plant procedure,Identify the point of failure in a nuclear power plant procedure,4306
+8777,btxBBgK,gpt_neo_125m,12,0.7,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with external objects,4326
+8910,btxBBgK,gpt_neo_125m,13,0.7,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with other objects,4346
+9044,btxBBgK,gpt_neo_125m,14,0.7,20,identify points of failure in a nuclear power plant procedure,Prevent objects from getting into contact with unwanted substances,4367
+9179,btxBBgK,gpt_neo_125m,15,0.7,20,identify points of failure in a nuclear power plant procedure,Remove particles from a charged circuit,4388
+9315,btxBBgK,gpt_neo_125m,16,0.7,20,identify points of failure in a nuclear power plant procedure,Identify a line of failure,4408
+9452,btxBBgK,gpt_neo_125m,17,0.7,20,identify points of failure in a nuclear power plant procedure,protect object from the penetration of foreign objects,4429
+9590,btxBBgK,gpt_neo_125m,18,0.7,20,identify points of failure in a nuclear power plant procedure,Remove a nuclear power plant from a nuclear power plant,4449
+9729,btxBBgK,gpt_neo_125m,19,0.7,20,identify points of failure in a nuclear power plant procedure,Prevent dangerous objects from getting into contact with external objects,4470
+9869,btxBBgK,gpt_neo_125m,20,0.7,20,identify points of failure in a nuclear power plant procedure,Reduce the size of a structure,4490
+10010,btxBBgK,gpt_neo_125m,1,0.8,20,identify points of failure in a nuclear power plant procedure,National Nuclear Power Administration,4510
+10152,btxBBgK,gpt_neo_125m,2,0.8,20,identify points of failure in a nuclear power plant procedure,stop the power plant's power supply,4531
+10295,btxBBgK,gpt_neo_125m,3,0.8,20,identify points of failure in a nuclear power plant procedure,prevent a nuclear power plant from being damaged by radionuclides,4551
+10439,btxBBgK,gpt_neo_125m,4,0.8,20,identify points of failure in a nuclear power plant procedure,Find a path to avoid a catastrophe in a nuclear power plant,4572
+10584,btxBBgK,gpt_neo_125m,5,0.8,20,identify points of failure in a nuclear power plant procedure,Fix a failure in a power plant process at a location,4592
+10730,btxBBgK,gpt_neo_125m,6,0.8,20,identify points of failure in a nuclear power plant procedure,Stop the power plant,4613
+10877,btxBBgK,gpt_neo_125m,7,0.8,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,4633
+11025,btxBBgK,gpt_neo_125m,8,0.8,20,identify points of failure in a nuclear power plant procedure,prevent the radiation of a nuclear energy source,4654
+11174,btxBBgK,gpt_neo_125m,9,0.8,20,identify points of failure in a nuclear power plant procedure,Establish a method to identify a failure point,4675
+11324,btxBBgK,gpt_neo_125m,10,0.8,20,identify points of failure in a nuclear power plant procedure,enable the source from a remote energy source,4696
+11475,btxBBgK,gpt_neo_125m,11,0.8,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,4717
+11627,btxBBgK,gpt_neo_125m,12,0.8,20,identify points of failure in a nuclear power plant procedure,identify a defective part of a damaged part of a nuclear power plant,4738
+11780,btxBBgK,gpt_neo_125m,13,0.8,20,identify points of failure in a nuclear power plant procedure,Prevent contact from getting into the wrong position,5911
+11934,btxBBgK,gpt_neo_125m,14,0.8,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in the nuclear power plant procedure,5939
+12089,btxBBgK,gpt_neo_125m,15,0.8,20,identify points of failure in a nuclear power plant procedure,Improve reliability in operation of a nuclear power plant,5963
+12245,btxBBgK,gpt_neo_125m,16,0.8,20,identify points of failure in a nuclear power plant procedure,Protect object from being damaged by radiation,5990
+12402,btxBBgK,gpt_neo_125m,17,0.8,20,identify points of failure in a nuclear power plant procedure,Prevent objects from having a chance to escape,6016
+12560,btxBBgK,gpt_neo_125m,18,0.8,20,identify points of failure in a nuclear power plant procedure,Replace the nuclear power plant with a new one,6044
+12719,btxBBgK,gpt_neo_125m,19,0.8,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant procedure,6073
+12879,btxBBgK,gpt_neo_125m,20,0.8,20,identify points of failure in a nuclear power plant procedure,prevent water from penetrating the plants,6104
+13040,btxBBgK,gpt_neo_125m,1,0.9,20,identify points of failure in a nuclear power plant procedure,Identify the source of particles that can cause nuclear reactor failure,6128
+13202,btxBBgK,gpt_neo_125m,2,0.9,20,identify points of failure in a nuclear power plant procedure,correct the geometry of a geometrical structure,6155
+13365,btxBBgK,gpt_neo_125m,3,0.9,20,identify points of failure in a nuclear power plant procedure,Improve the safety of the nuclear power facility in the event of a nuclear plant failure,6180
+13529,btxBBgK,gpt_neo_125m,4,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent water from entering a chemical process,6204
+13694,btxBBgK,gpt_neo_125m,5,0.9,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,6229
+13860,btxBBgK,gpt_neo_125m,6,0.9,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,6256
+14027,btxBBgK,gpt_neo_125m,7,0.9,20,identify points of failure in a nuclear power plant procedure,Make a point of failure in a nuclear power plant procedure,6284
+14195,btxBBgK,gpt_neo_125m,8,0.9,20,identify points of failure in a nuclear power plant procedure,Stop object from getting into contact with unbalanced objects,6310
+14364,btxBBgK,gpt_neo_125m,9,0.9,20,identify points of failure in a nuclear power plant procedure,Establish or maintain a grid in a cell,6335
+14534,btxBBgK,gpt_neo_125m,10,0.9,20,identify points of failure in a nuclear power plant procedure,prevent a nuclear power plant to cut a shafts or a reactor,6358
+14705,btxBBgK,gpt_neo_125m,11,0.9,20,identify points of failure in a nuclear power plant procedure,Determine the physical origin of the problem,6387
+14877,btxBBgK,gpt_neo_125m,12,0.9,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,6414
+15050,btxBBgK,gpt_neo_125m,13,0.9,20,identify points of failure in a nuclear power plant procedure,remove water from fluid without damaging the object,6440
+15224,btxBBgK,gpt_neo_125m,14,0.9,20,identify points of failure in a nuclear power plant procedure,Identify potential source of damage to power stations,6463
+15399,btxBBgK,gpt_neo_125m,15,0.9,20,identify points of failure in a nuclear power plant procedure,prevent radioactivity,6486
+15575,btxBBgK,gpt_neo_125m,16,0.9,20,identify points of failure in a nuclear power plant procedure,Enable the power plant to remove a target atom from a target atom,6510
+15752,btxBBgK,gpt_neo_125m,17,0.9,20,identify points of failure in a nuclear power plant procedure,Protect object from radiation,6533
+15930,btxBBgK,gpt_neo_125m,18,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent waste and debris from radiated ions,6557
+16109,btxBBgK,gpt_neo_125m,19,0.9,20,identify points of failure in a nuclear power plant procedure,Stop an electric power plant that has failed,6583
+16289,btxBBgK,gpt_neo_125m,20,0.9,20,identify points of failure in a nuclear power plant procedure,Identify targets of nuclear energy production,6614
