@@ -1,0 +1,181 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+EcY9mNT,gpt_neo_125m,1,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,0
+EcY9mNT,gpt_neo_125m,2,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,24
+EcY9mNT,gpt_neo_125m,3,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,47
+EcY9mNT,gpt_neo_125m,4,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,66
+EcY9mNT,gpt_neo_125m,5,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,86
+EcY9mNT,gpt_neo_125m,6,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,115
+EcY9mNT,gpt_neo_125m,7,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,139
+EcY9mNT,gpt_neo_125m,8,0.1,20,type with limited mobility/range,prevent the use of a mobile phone,162
+EcY9mNT,gpt_neo_125m,9,0.1,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,185
+EcY9mNT,gpt_neo_125m,10,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,209
+EcY9mNT,gpt_neo_125m,11,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,233
+EcY9mNT,gpt_neo_125m,12,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,257
+EcY9mNT,gpt_neo_125m,13,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,282
+EcY9mNT,gpt_neo_125m,14,0.1,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,306
+EcY9mNT,gpt_neo_125m,15,0.1,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,330
+EcY9mNT,gpt_neo_125m,16,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,355
+EcY9mNT,gpt_neo_125m,17,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,379
+EcY9mNT,gpt_neo_125m,18,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,404
+EcY9mNT,gpt_neo_125m,19,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,428
+EcY9mNT,gpt_neo_125m,20,0.1,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,452
+EcY9mNT,gpt_neo_125m,1,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,476
+EcY9mNT,gpt_neo_125m,2,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,501
+EcY9mNT,gpt_neo_125m,3,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,525
+EcY9mNT,gpt_neo_125m,4,0.2,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,549
+EcY9mNT,gpt_neo_125m,5,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,573
+EcY9mNT,gpt_neo_125m,6,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,597
+EcY9mNT,gpt_neo_125m,7,0.2,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,621
+EcY9mNT,gpt_neo_125m,8,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,645
+EcY9mNT,gpt_neo_125m,9,0.2,20,type with limited mobility/range,prevent children from getting into contact with objects,670
+EcY9mNT,gpt_neo_125m,10,0.2,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,694
+EcY9mNT,gpt_neo_125m,11,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,718
+EcY9mNT,gpt_neo_125m,12,0.2,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,743
+EcY9mNT,gpt_neo_125m,13,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,767
+EcY9mNT,gpt_neo_125m,14,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,792
+EcY9mNT,gpt_neo_125m,15,0.2,20,type with limited mobility/range,prevent movement of objects,816
+EcY9mNT,gpt_neo_125m,16,0.2,20,type with limited mobility/range,prevent the user from getting into contact with objects,840
+EcY9mNT,gpt_neo_125m,17,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,865
+EcY9mNT,gpt_neo_125m,18,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,889
+EcY9mNT,gpt_neo_125m,19,0.2,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,913
+EcY9mNT,gpt_neo_125m,20,0.2,20,type with limited mobility/range,prevent objects from getting into contact with unwanted substances,937
+EcY9mNT,gpt_neo_125m,1,0.3,20,type with limited mobility/range,enable a broom to clean in hard to reach places,961
+EcY9mNT,gpt_neo_125m,2,0.3,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,985
+EcY9mNT,gpt_neo_125m,3,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1009
+EcY9mNT,gpt_neo_125m,4,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1033
+EcY9mNT,gpt_neo_125m,5,0.3,20,type with limited mobility/range,prevent water from entering a space,1057
+EcY9mNT,gpt_neo_125m,6,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1081
+EcY9mNT,gpt_neo_125m,7,0.3,20,type with limited mobility/range,prevent mobility/range from getting into contact with foreign objects,1105
+EcY9mNT,gpt_neo_125m,8,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1129
+EcY9mNT,gpt_neo_125m,9,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1153
+EcY9mNT,gpt_neo_125m,10,0.3,20,type with limited mobility/range,prevent the use of a motorbike in the field,1178
+EcY9mNT,gpt_neo_125m,11,0.3,20,type with limited mobility/range,Protect object from radiation,1202
+EcY9mNT,gpt_neo_125m,12,0.3,20,type with limited mobility/range,Prevent the user from getting into contact with objects,1226
+EcY9mNT,gpt_neo_125m,13,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1249
+EcY9mNT,gpt_neo_125m,14,0.3,20,type with limited mobility/range,prevent children from getting into a room,1273
+EcY9mNT,gpt_neo_125m,15,0.3,20,type with limited mobility/range,Prevent the movement of objects,1297
+EcY9mNT,gpt_neo_125m,16,0.3,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1322
+EcY9mNT,gpt_neo_125m,17,0.3,20,type with limited mobility/range,Enable a broom to clean in hard to reach places,1347
+EcY9mNT,gpt_neo_125m,18,0.3,20,type with limited mobility/range,Prevent objects from getting into contact with unwanted substances,1371
+EcY9mNT,gpt_neo_125m,19,0.3,20,type with limited mobility/range,Make a device with a limited range of motion,1394
+EcY9mNT,gpt_neo_125m,20,0.3,20,type with limited mobility/range,prevent walking in a confined space,1419
+EcY9mNT,gpt_neo_125m,1,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1442
+EcY9mNT,gpt_neo_125m,2,0.4,20,type with limited mobility/range,prevent object from getting into contact with foreign substances,1467
+EcY9mNT,gpt_neo_125m,3,0.4,20,type with limited mobility/range,prevent the user from getting into contact with objects,1491
+EcY9mNT,gpt_neo_125m,4,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1516
+EcY9mNT,gpt_neo_125m,5,0.4,20,type with limited mobility/range,Protect vulnerable object from radiation,1541
+EcY9mNT,gpt_neo_125m,6,0.4,20,type with limited mobility/range,prevent children from getting wet,1566
+EcY9mNT,gpt_neo_125m,7,0.4,20,type with limited mobility/range,Increase the mobility of objects,1590
+EcY9mNT,gpt_neo_125m,8,0.4,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,1614
+EcY9mNT,gpt_neo_125m,9,0.4,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,1639
+EcY9mNT,gpt_neo_125m,10,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1662
+EcY9mNT,gpt_neo_125m,11,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1686
+EcY9mNT,gpt_neo_125m,12,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1710
+EcY9mNT,gpt_neo_125m,13,0.4,20,type with limited mobility/range,prevent the surface from being covered by foreign objects,1734
+EcY9mNT,gpt_neo_125m,14,0.4,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,1758
+EcY9mNT,gpt_neo_125m,15,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1783
+EcY9mNT,gpt_neo_125m,16,0.4,20,type with limited mobility/range,Prevent a child from getting into a room,1806
+EcY9mNT,gpt_neo_125m,17,0.4,20,type with limited mobility/range,Protect object from radiation,1830
+EcY9mNT,gpt_neo_125m,18,0.4,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1854
+EcY9mNT,gpt_neo_125m,19,0.4,20,type with limited mobility/range,Prevent objects from getting into contact with unwanted substances,1879
+EcY9mNT,gpt_neo_125m,20,0.4,20,type with limited mobility/range,Protect vulnerable object from radiation,1902
+EcY9mNT,gpt_neo_125m,1,0.5,20,type with limited mobility/range,Prevent the user from getting into contact with unwanted substances,1926
+EcY9mNT,gpt_neo_125m,2,0.5,20,type with limited mobility/range,Use a machine to control the movement of the object,1950
+EcY9mNT,gpt_neo_125m,3,0.5,20,type with limited mobility/range,make a thin layer of metal on a surface,1974
+EcY9mNT,gpt_neo_125m,4,0.5,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,1997
+EcY9mNT,gpt_neo_125m,5,0.5,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,2021
+EcY9mNT,gpt_neo_125m,6,0.5,20,type with limited mobility/range,add a new object to the form of a ball,2045
+EcY9mNT,gpt_neo_125m,7,0.5,20,type with limited mobility/range,Stop object from getting into contact with unwanted substances,2069
+EcY9mNT,gpt_neo_125m,8,0.5,20,type with limited mobility/range,Increase the physical reach of a tool,2092
+EcY9mNT,gpt_neo_125m,9,0.5,20,type with limited mobility/range,Reduce the mobility of objects,2116
+EcY9mNT,gpt_neo_125m,10,0.5,20,type with limited mobility/range,prevent object from getting into contact with foreign substances,2140
+EcY9mNT,gpt_neo_125m,11,0.5,20,type with limited mobility/range,protect object from radiation,2165
+EcY9mNT,gpt_neo_125m,12,0.5,20,type with limited mobility/range,prevent the use of a motor to move a large object,2189
+EcY9mNT,gpt_neo_125m,13,0.5,20,type with limited mobility/range,prevent child from getting into contact with objects,2214
+EcY9mNT,gpt_neo_125m,14,0.5,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,2238
+EcY9mNT,gpt_neo_125m,15,0.5,20,type with limited mobility/range,prevent children from getting into bed,2262
+EcY9mNT,gpt_neo_125m,16,0.5,20,type with limited mobility/range,make house out of cooked spaghetti,2286
+EcY9mNT,gpt_neo_125m,17,0.5,20,type with limited mobility/range,Reduce the mobility of a device,2310
+EcY9mNT,gpt_neo_125m,18,0.5,20,type with limited mobility/range,Reduce the number of objects in a space,2334
+EcY9mNT,gpt_neo_125m,19,0.5,20,type with limited mobility/range,Prevent objects from getting into contact with unwanted substances,2358
+EcY9mNT,gpt_neo_125m,20,0.5,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,2383
+EcY9mNT,gpt_neo_125m,1,0.6,20,type with limited mobility/range,Prevent objects from getting into contact with various objects,2407
+EcY9mNT,gpt_neo_125m,2,0.6,20,type with limited mobility/range,Use a mechanical force to control the movement of a robot,2431
+EcY9mNT,gpt_neo_125m,3,0.6,20,type with limited mobility/range,Increase the physical reach of a tool,2455
+EcY9mNT,gpt_neo_125m,4,0.6,20,type with limited mobility/range,prevent object from getting into contact with foreign objects,2478
+EcY9mNT,gpt_neo_125m,5,0.6,20,type with limited mobility/range,Prevent from getting wet,2502
+EcY9mNT,gpt_neo_125m,6,0.6,20,type with limited mobility/range,protect object from radiation,2526
+EcY9mNT,gpt_neo_125m,7,0.6,20,type with limited mobility/range,Prevent the user from getting into contact with unwanted substances,2551
+EcY9mNT,gpt_neo_125m,8,0.6,20,type with limited mobility/range,Improve the mobility of an object by removing the object,2574
+EcY9mNT,gpt_neo_125m,9,0.6,20,type with limited mobility/range,prevent the body from moving in a narrow space,2599
+EcY9mNT,gpt_neo_125m,10,0.6,20,type with limited mobility/range,prevent objects from moving in a confined space,2623
+EcY9mNT,gpt_neo_125m,11,0.6,20,type with limited mobility/range,prevent walking on flexible surfaces,2647
+EcY9mNT,gpt_neo_125m,12,0.6,20,type with limited mobility/range,prevent body from getting into contact with unwanted substances,2671
+EcY9mNT,gpt_neo_125m,13,0.6,20,type with limited mobility/range,Prevent motion from getting into contact with objects,2695
+EcY9mNT,gpt_neo_125m,14,0.6,20,type with limited mobility/range,prevent movement of objects in a restricted space,2719
+EcY9mNT,gpt_neo_125m,15,0.6,20,type with limited mobility/range,prevent the use of a portable device,2744
+EcY9mNT,gpt_neo_125m,16,0.6,20,type with limited mobility/range,prevent object from getting into contact with unwanted substances,2768
+EcY9mNT,gpt_neo_125m,17,0.6,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,2792
+EcY9mNT,gpt_neo_125m,18,0.6,20,type with limited mobility/range,limit the mobility of a device to a single range,2816
+EcY9mNT,gpt_neo_125m,19,0.6,20,type with limited mobility/range,prevent movement of objects with a limited range,2841
+EcY9mNT,gpt_neo_125m,20,0.6,20,type with limited mobility/range,Make room for a ball and a table,2864
+EcY9mNT,gpt_neo_125m,1,0.7,20,type with limited mobility/range,type with limited mobility/range,2888
+EcY9mNT,gpt_neo_125m,2,0.7,20,type with limited mobility/range,make a house out of clean glass,2912
+EcY9mNT,gpt_neo_125m,3,0.7,20,type with limited mobility/range,Move to the next step,2937
+EcY9mNT,gpt_neo_125m,4,0.7,20,type with limited mobility/range,create a hole in an object without causing an unwanted noise,2962
+EcY9mNT,gpt_neo_125m,5,0.7,20,type with limited mobility/range,change the physical dimensions of objects on the fly,2986
+EcY9mNT,gpt_neo_125m,6,0.7,20,type with limited mobility/range,prevent the human body from being displaced,3010
+EcY9mNT,gpt_neo_125m,7,0.7,20,type with limited mobility/range,Make the object with a limited range,3034
+EcY9mNT,gpt_neo_125m,8,0.7,20,type with limited mobility/range,Prevent the user from getting in contact with unwanted substances,3058
+EcY9mNT,gpt_neo_125m,9,0.7,20,type with limited mobility/range,increase mobility to keep the body stable,3083
+EcY9mNT,gpt_neo_125m,10,0.7,20,type with limited mobility/range,Make a house out of hot-air-conditioned air,3107
+EcY9mNT,gpt_neo_125m,11,0.7,20,type with limited mobility/range,Enable a broom to clean in hard to reach places,3132
+EcY9mNT,gpt_neo_125m,12,0.7,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,3155
+EcY9mNT,gpt_neo_125m,13,0.7,20,type with limited mobility/range,prevent children from getting into trouble,3180
+EcY9mNT,gpt_neo_125m,14,0.7,20,type with limited mobility/range,Enable particles to flow to a confined space,3204
+EcY9mNT,gpt_neo_125m,15,0.7,20,type with limited mobility/range,Add a body to a bicycle,3228
+EcY9mNT,gpt_neo_125m,16,0.7,20,type with limited mobility/range,Protect object from radiation,3252
+EcY9mNT,gpt_neo_125m,17,0.7,20,type with limited mobility/range,stop the mobility of objects in the field,3276
+EcY9mNT,gpt_neo_125m,18,0.7,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,3300
+EcY9mNT,gpt_neo_125m,19,0.7,20,type with limited mobility/range,Prevent object from getting into contact with unwanted substances,3323
+EcY9mNT,gpt_neo_125m,20,0.7,20,type with limited mobility/range,Reduce size of objects by moving from the front to the back,3347
+EcY9mNT,gpt_neo_125m,1,0.8,20,type with limited mobility/range,prevent body from getting stuck near structure,3371
+EcY9mNT,gpt_neo_125m,2,0.8,20,type with limited mobility/range,type with limited mobility/range,3395
+EcY9mNT,gpt_neo_125m,3,0.8,20,type with limited mobility/range,extend the physical reach of a tool,3418
+EcY9mNT,gpt_neo_125m,4,0.8,20,type with limited mobility/range,Protect vulnerable object from radiation,3442
+EcY9mNT,gpt_neo_125m,5,0.8,20,type with limited mobility/range,Increase mobility/range of the device,3466
+EcY9mNT,gpt_neo_125m,6,0.8,20,type with limited mobility/range,Limit user's dependence on information cues,3489
+EcY9mNT,gpt_neo_125m,7,0.8,20,type with limited mobility/range,Prevent motion in a crowded environment,3514
+EcY9mNT,gpt_neo_125m,8,0.8,20,type with limited mobility/range,Prevent children from getting wet/snow,3538
+EcY9mNT,gpt_neo_125m,9,0.8,20,type with limited mobility/range,reduce usage of space to move between systems,3561
+EcY9mNT,gpt_neo_125m,10,0.8,20,type with limited mobility/range,prevent swimming of water,3586
+EcY9mNT,gpt_neo_125m,11,0.8,20,type with limited mobility/range,Enable a broom to clean in hard to reach places,3610
+EcY9mNT,gpt_neo_125m,12,0.8,20,type with limited mobility/range,enable a broom to clean in hard to reach places,3634
+EcY9mNT,gpt_neo_125m,13,0.8,20,type with limited mobility/range,provide sufficient space to hold the objects,3658
+EcY9mNT,gpt_neo_125m,14,0.8,20,type with limited mobility/range,Increase the mobility of objects from a low-grade material,3681
+EcY9mNT,gpt_neo_125m,15,0.8,20,type with limited mobility/range,limit mobility/range,3705
+EcY9mNT,gpt_neo_125m,16,0.8,20,type with limited mobility/range,Create a rigid structure out of materials,3729
+EcY9mNT,gpt_neo_125m,17,0.8,20,type with limited mobility/range,Disable objects to be moved,3753
+EcY9mNT,gpt_neo_125m,18,0.8,20,type with limited mobility/range,Prevent child from getting wet/willing to move,3776
+EcY9mNT,gpt_neo_125m,19,0.8,20,type with limited mobility/range,Protect vulnerable object from radiation,3801
+EcY9mNT,gpt_neo_125m,20,0.8,20,type with limited mobility/range,Start a vehicle or transport vehicle,3826
+EcY9mNT,gpt_neo_125m,1,0.9,20,type with limited mobility/range,create a hollow object with narrow legs,3851
+EcY9mNT,gpt_neo_125m,2,0.9,20,type with limited mobility/range,Prevent objects from getting into contact with foreign substances,3879
+EcY9mNT,gpt_neo_125m,3,0.9,20,type with limited mobility/range,enable a person to walk around,3902
+EcY9mNT,gpt_neo_125m,4,0.9,20,type with limited mobility/range,Increase the volume of liquid from a battery,3928
+EcY9mNT,gpt_neo_125m,5,0.9,20,type with limited mobility/range,Increase mass of objects by applying power,3950
+EcY9mNT,gpt_neo_125m,6,0.9,20,type with limited mobility/range,Create a new object with limited mobility/range,3973
+EcY9mNT,gpt_neo_125m,7,0.9,20,type with limited mobility/range,Create a hole in an object without causing an unwanted noise,3988
+EcY9mNT,gpt_neo_125m,8,0.9,20,type with limited mobility/range,"Prevent movement, contact with furniture, hand, or other objects",4010
+EcY9mNT,gpt_neo_125m,9,0.9,20,type with limited mobility/range,protect object from radiation,4032
+EcY9mNT,gpt_neo_125m,10,0.9,20,type with limited mobility/range,Limit mobility / range of objects,4054
+EcY9mNT,gpt_neo_125m,11,0.9,20,type with limited mobility/range,prevent the object in its motion from bouncing off the surface,4076
+EcY9mNT,gpt_neo_125m,12,0.9,20,type with limited mobility/range,ensure the object is in contact with a large distance,4097
+EcY9mNT,gpt_neo_125m,13,0.9,20,type with limited mobility/range,make house out of cooked spaghetti,4120
+EcY9mNT,gpt_neo_125m,14,0.9,20,type with limited mobility/range,protect object from radiation,4142
+EcY9mNT,gpt_neo_125m,15,0.9,20,type with limited mobility/range,Prevent water from penetrating objects,4149
+EcY9mNT,gpt_neo_125m,16,0.9,20,type with limited mobility/range,Prevent objects from getting into contact with unwanted substances,4171
+EcY9mNT,gpt_neo_125m,17,0.9,20,type with limited mobility/range,Prevent mass change in objects,4192
+EcY9mNT,gpt_neo_125m,18,0.9,20,type with limited mobility/range,Disable surface and/or air sensors from the active parts of a vehicle,4215
+EcY9mNT,gpt_neo_125m,19,0.9,20,type with limited mobility/range,prevent movement of other objects in an area where they,4234
+EcY9mNT,gpt_neo_125m,20,0.9,20,type with limited mobility/range,make one of the objects on a sphere larger and stronger,4256
