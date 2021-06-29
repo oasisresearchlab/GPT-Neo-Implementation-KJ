@@ -1,0 +1,181 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+J3HUdF5,gpt_neo_125m,1,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,0
+J3HUdF5,gpt_neo_125m,2,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,15
+J3HUdF5,gpt_neo_125m,3,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,29
+J3HUdF5,gpt_neo_125m,4,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,42
+J3HUdF5,gpt_neo_125m,5,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,56
+J3HUdF5,gpt_neo_125m,6,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,70
+J3HUdF5,gpt_neo_125m,7,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,84
+J3HUdF5,gpt_neo_125m,8,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,97
+J3HUdF5,gpt_neo_125m,9,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,111
+J3HUdF5,gpt_neo_125m,10,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,125
+J3HUdF5,gpt_neo_125m,11,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,139
+J3HUdF5,gpt_neo_125m,12,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,152
+J3HUdF5,gpt_neo_125m,13,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,166
+J3HUdF5,gpt_neo_125m,14,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,180
+J3HUdF5,gpt_neo_125m,15,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,194
+J3HUdF5,gpt_neo_125m,16,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,207
+J3HUdF5,gpt_neo_125m,17,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,221
+J3HUdF5,gpt_neo_125m,18,0.1,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,235
+J3HUdF5,gpt_neo_125m,19,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,249
+J3HUdF5,gpt_neo_125m,20,0.1,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,262
+J3HUdF5,gpt_neo_125m,1,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,276
+J3HUdF5,gpt_neo_125m,2,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,290
+J3HUdF5,gpt_neo_125m,3,0.2,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,305
+J3HUdF5,gpt_neo_125m,4,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,322
+J3HUdF5,gpt_neo_125m,5,0.2,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign substances,344
+J3HUdF5,gpt_neo_125m,6,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,364
+J3HUdF5,gpt_neo_125m,7,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,383
+J3HUdF5,gpt_neo_125m,8,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,401
+J3HUdF5,gpt_neo_125m,9,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,419
+J3HUdF5,gpt_neo_125m,10,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,438
+J3HUdF5,gpt_neo_125m,11,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,456
+J3HUdF5,gpt_neo_125m,12,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,474
+J3HUdF5,gpt_neo_125m,13,0.2,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign substances,494
+J3HUdF5,gpt_neo_125m,14,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,515
+J3HUdF5,gpt_neo_125m,15,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,535
+J3HUdF5,gpt_neo_125m,16,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,556
+J3HUdF5,gpt_neo_125m,17,0.2,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into contact with foreign objects,575
+J3HUdF5,gpt_neo_125m,18,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,594
+J3HUdF5,gpt_neo_125m,19,0.2,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,612
+J3HUdF5,gpt_neo_125m,20,0.2,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,630
+J3HUdF5,gpt_neo_125m,1,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,649
+J3HUdF5,gpt_neo_125m,2,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,669
+J3HUdF5,gpt_neo_125m,3,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,687
+J3HUdF5,gpt_neo_125m,4,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,707
+J3HUdF5,gpt_neo_125m,5,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,727
+J3HUdF5,gpt_neo_125m,6,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,749
+J3HUdF5,gpt_neo_125m,7,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,769
+J3HUdF5,gpt_neo_125m,8,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,788
+J3HUdF5,gpt_neo_125m,9,0.3,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,806
+J3HUdF5,gpt_neo_125m,10,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,825
+J3HUdF5,gpt_neo_125m,11,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,845
+J3HUdF5,gpt_neo_125m,12,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,865
+J3HUdF5,gpt_neo_125m,13,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,886
+J3HUdF5,gpt_neo_125m,14,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,909
+J3HUdF5,gpt_neo_125m,15,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,928
+J3HUdF5,gpt_neo_125m,16,0.3,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,947
+J3HUdF5,gpt_neo_125m,17,0.3,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,966
+J3HUdF5,gpt_neo_125m,18,0.3,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,986
+J3HUdF5,gpt_neo_125m,19,0.3,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign substances,1005
+J3HUdF5,gpt_neo_125m,20,0.3,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into contact with foreign objects,1026
+J3HUdF5,gpt_neo_125m,1,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1045
+J3HUdF5,gpt_neo_125m,2,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1067
+J3HUdF5,gpt_neo_125m,3,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1093
+J3HUdF5,gpt_neo_125m,4,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1115
+J3HUdF5,gpt_neo_125m,5,0.4,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,1137
+J3HUdF5,gpt_neo_125m,6,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1156
+J3HUdF5,gpt_neo_125m,7,0.4,20,identify soldiers in old civil war photographs,Prevent the use of a weapon or weaponized object,1176
+J3HUdF5,gpt_neo_125m,8,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1195
+J3HUdF5,gpt_neo_125m,9,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1215
+J3HUdF5,gpt_neo_125m,10,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1235
+J3HUdF5,gpt_neo_125m,11,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1257
+J3HUdF5,gpt_neo_125m,12,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1276
+J3HUdF5,gpt_neo_125m,13,0.4,20,identify soldiers in old civil war photographs,Determine the size of a soldier's face,1296
+J3HUdF5,gpt_neo_125m,14,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1315
+J3HUdF5,gpt_neo_125m,15,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1333
+J3HUdF5,gpt_neo_125m,16,0.4,20,identify soldiers in old civil war photographs,protect object from radiation,1352
+J3HUdF5,gpt_neo_125m,17,0.4,20,identify soldiers in old civil war photographs,detect the presence of weapons in the field,1371
+J3HUdF5,gpt_neo_125m,18,0.4,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1390
+J3HUdF5,gpt_neo_125m,19,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1411
+J3HUdF5,gpt_neo_125m,20,0.4,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1429
+J3HUdF5,gpt_neo_125m,1,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1449
+J3HUdF5,gpt_neo_125m,2,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1467
+J3HUdF5,gpt_neo_125m,3,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1486
+J3HUdF5,gpt_neo_125m,4,0.5,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1505
+J3HUdF5,gpt_neo_125m,5,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1524
+J3HUdF5,gpt_neo_125m,6,0.5,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into contact with unwanted substances,1543
+J3HUdF5,gpt_neo_125m,7,0.5,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1563
+J3HUdF5,gpt_neo_125m,8,0.5,20,identify soldiers in old civil war photographs,Protect soldier in the field,1583
+J3HUdF5,gpt_neo_125m,9,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1605
+J3HUdF5,gpt_neo_125m,10,0.5,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1624
+J3HUdF5,gpt_neo_125m,11,0.5,20,identify soldiers in old civil war photographs,Prevent soldiers from getting wet,1643
+J3HUdF5,gpt_neo_125m,12,0.5,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign particles,1664
+J3HUdF5,gpt_neo_125m,13,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1685
+J3HUdF5,gpt_neo_125m,14,0.5,20,identify soldiers in old civil war photographs,use a camera to identify soldiers in old civil war photographs,1706
+J3HUdF5,gpt_neo_125m,15,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1729
+J3HUdF5,gpt_neo_125m,16,0.5,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into contact with unwanted substances,1748
+J3HUdF5,gpt_neo_125m,17,0.5,20,identify soldiers in old civil war photographs,prevent the use of firearms,1767
+J3HUdF5,gpt_neo_125m,18,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1786
+J3HUdF5,gpt_neo_125m,19,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1811
+J3HUdF5,gpt_neo_125m,20,0.5,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1832
+J3HUdF5,gpt_neo_125m,1,0.6,20,identify soldiers in old civil war photographs,prevent troops from getting into contact with foreign objects,1857
+J3HUdF5,gpt_neo_125m,2,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1877
+J3HUdF5,gpt_neo_125m,3,0.6,20,identify soldiers in old civil war photographs,Identify soldiers with their uniforms,1897
+J3HUdF5,gpt_neo_125m,4,0.6,20,identify soldiers in old civil war photographs,Identify soldiers who were captured by the British troops,1920
+J3HUdF5,gpt_neo_125m,5,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,1941
+J3HUdF5,gpt_neo_125m,6,0.6,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1962
+J3HUdF5,gpt_neo_125m,7,0.6,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,1984
+J3HUdF5,gpt_neo_125m,8,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2004
+J3HUdF5,gpt_neo_125m,9,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2023
+J3HUdF5,gpt_neo_125m,10,0.6,20,identify soldiers in old civil war photographs,identify soldiers in the war,2042
+J3HUdF5,gpt_neo_125m,11,0.6,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2060
+J3HUdF5,gpt_neo_125m,12,0.6,20,identify soldiers in old civil war photographs,protect object from radiation,2080
+J3HUdF5,gpt_neo_125m,13,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2102
+J3HUdF5,gpt_neo_125m,14,0.6,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2121
+J3HUdF5,gpt_neo_125m,15,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2141
+J3HUdF5,gpt_neo_125m,16,0.6,20,identify soldiers in old civil war photographs,Protect an object from a foreign object,2161
+J3HUdF5,gpt_neo_125m,17,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2183
+J3HUdF5,gpt_neo_125m,18,0.6,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2206
+J3HUdF5,gpt_neo_125m,19,0.6,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,2227
+J3HUdF5,gpt_neo_125m,20,0.6,20,identify soldiers in old civil war photographs,protect human body from physical damage,2247
+J3HUdF5,gpt_neo_125m,1,0.7,20,identify soldiers in old civil war photographs,Keep a record of a soldier's name and number,2267
+J3HUdF5,gpt_neo_125m,2,0.7,20,identify soldiers in old civil war photographs,stop soldiers from getting into contact with surface objects,2288
+J3HUdF5,gpt_neo_125m,3,0.7,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign objects,2307
+J3HUdF5,gpt_neo_125m,4,0.7,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2327
+J3HUdF5,gpt_neo_125m,5,0.7,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2346
+J3HUdF5,gpt_neo_125m,6,0.7,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign substances,2366
+J3HUdF5,gpt_neo_125m,7,0.7,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2388
+J3HUdF5,gpt_neo_125m,8,0.7,20,identify soldiers in old civil war photographs,Establish the presence of troops from the battlefield,2410
+J3HUdF5,gpt_neo_125m,9,0.7,20,identify soldiers in old civil war photographs,prevent the use of a weapon before killing a soldier,2431
+J3HUdF5,gpt_neo_125m,10,0.7,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2453
+J3HUdF5,gpt_neo_125m,11,0.7,20,identify soldiers in old civil war photographs,Protect soldiers from the enemy,2472
+J3HUdF5,gpt_neo_125m,12,0.7,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2492
+J3HUdF5,gpt_neo_125m,13,0.7,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into enemy territory,2513
+J3HUdF5,gpt_neo_125m,14,0.7,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2533
+J3HUdF5,gpt_neo_125m,15,0.7,20,identify soldiers in old civil war photographs,determine the war in which soldiers are found,2552
+J3HUdF5,gpt_neo_125m,16,0.7,20,identify soldiers in old civil war photographs,Prevent soldiers from getting into contact with foreign bodies,2571
+J3HUdF5,gpt_neo_125m,17,0.7,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2590
+J3HUdF5,gpt_neo_125m,18,0.7,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2609
+J3HUdF5,gpt_neo_125m,19,0.7,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2628
+J3HUdF5,gpt_neo_125m,20,0.7,20,identify soldiers in old civil war photographs,Protect vulnerable object in the field,2648
+J3HUdF5,gpt_neo_125m,1,0.8,20,identify soldiers in old civil war photographs,Prevent body part from being damaged by foreign substance,2668
+J3HUdF5,gpt_neo_125m,2,0.8,20,identify soldiers in old civil war photographs,Identify troops in field photographs of old civil war photographs,2688
+J3HUdF5,gpt_neo_125m,3,0.8,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2707
+J3HUdF5,gpt_neo_125m,4,0.8,20,identify soldiers in old civil war photographs,Remove a soldier from the scene,2725
+J3HUdF5,gpt_neo_125m,5,0.8,20,identify soldiers in old civil war photographs,Prevent war on legs,2744
+J3HUdF5,gpt_neo_125m,6,0.8,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2762
+J3HUdF5,gpt_neo_125m,7,0.8,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2772
+J3HUdF5,gpt_neo_125m,8,0.8,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,2791
+J3HUdF5,gpt_neo_125m,9,0.8,20,identify soldiers in old civil war photographs,Identify soldiers in old Civil War photographs,2810
+J3HUdF5,gpt_neo_125m,10,0.8,20,identify soldiers in old civil war photographs,protect an object from external radiation,2828
+J3HUdF5,gpt_neo_125m,11,0.8,20,identify soldiers in old civil war photographs,prevent soldiers from being killed by bullets,2847
+J3HUdF5,gpt_neo_125m,12,0.8,20,identify soldiers in old civil war photographs,Protect object against radioactivity,2865
+J3HUdF5,gpt_neo_125m,13,0.8,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,2884
+J3HUdF5,gpt_neo_125m,14,0.8,20,identify soldiers in old civil war photographs,the soldiers' helmets are not attached to the infantry,2903
+J3HUdF5,gpt_neo_125m,15,0.8,20,identify soldiers in old civil war photographs,Prevent a soldier from getting into a combat zone,2922
+J3HUdF5,gpt_neo_125m,16,0.8,20,identify soldiers in old civil war photographs,Prevent a soldier from being seen in a battlefield,2940
+J3HUdF5,gpt_neo_125m,17,0.8,20,identify soldiers in old civil war photographs,Prevent them from getting into contact with unwanted substances,2959
+J3HUdF5,gpt_neo_125m,18,0.8,20,identify soldiers in old civil war photographs,Identify personnel in old battle images,2977
+J3HUdF5,gpt_neo_125m,19,0.8,20,identify soldiers in old civil war photographs,determine a target enemy target,2996
+J3HUdF5,gpt_neo_125m,20,0.8,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3014
+J3HUdF5,gpt_neo_125m,1,0.9,20,identify soldiers in old civil war photographs,Protect humans from dust and water,3032
+J3HUdF5,gpt_neo_125m,2,0.9,20,identify soldiers in old civil war photographs,Determine the size of a military surplus,3051
+J3HUdF5,gpt_neo_125m,3,0.9,20,identify soldiers in old civil war photographs,reduce surface friction in small objects,3069
+J3HUdF5,gpt_neo_125m,4,0.9,20,identify soldiers in old civil war photographs,Prevent objects from getting into contact with unwanted substances,3088
+J3HUdF5,gpt_neo_125m,5,0.9,20,identify soldiers in old civil war photographs,Protect sensitive objects from radiation,3107
+J3HUdF5,gpt_neo_125m,6,0.9,20,identify soldiers in old civil war photographs,Prevent weapon from getting into flame retardant weapons,3131
+J3HUdF5,gpt_neo_125m,7,0.9,20,identify soldiers in old civil war photographs,Identify soldiers in old civil war photographs,3153
+J3HUdF5,gpt_neo_125m,8,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photos,3176
+J3HUdF5,gpt_neo_125m,9,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3195
+J3HUdF5,gpt_neo_125m,10,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3217
+J3HUdF5,gpt_neo_125m,11,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3239
+J3HUdF5,gpt_neo_125m,12,0.9,20,identify soldiers in old civil war photographs,Remove surface cover from objects in the field,3258
+J3HUdF5,gpt_neo_125m,13,0.9,20,identify soldiers in old civil war photographs,identify troops in battles,3277
+J3HUdF5,gpt_neo_125m,14,0.9,20,identify soldiers in old civil war photographs,Find soldiers in paintings of old battles,3297
+J3HUdF5,gpt_neo_125m,15,0.9,20,identify soldiers in old civil war photographs,Identify objects of different volumes,3316
+J3HUdF5,gpt_neo_125m,16,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3340
+J3HUdF5,gpt_neo_125m,17,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3367
+J3HUdF5,gpt_neo_125m,18,0.9,20,identify soldiers in old civil war photographs,Protect vulnerable object from radiation,3388
+J3HUdF5,gpt_neo_125m,19,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,3413
+J3HUdF5,gpt_neo_125m,20,0.9,20,identify soldiers in old civil war photographs,prevent the use of metal detectors,3435

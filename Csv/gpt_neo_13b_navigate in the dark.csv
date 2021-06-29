@@ -1,0 +1,81 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,FsfSaoi,gpt_neo_13b,1,0.6,20,navigate in the dark,"Use a map to find a location, then navigate to it",0
+2,FsfSaoi,gpt_neo_13b,2,0.6,20,navigate in the dark,Enable an object to navigate in a dark environment,45
+5,FsfSaoi,gpt_neo_13b,3,0.6,20,navigate in the dark,Use map of a space or map of a terrain in a virtual environment,89
+9,FsfSaoi,gpt_neo_13b,4,0.6,20,navigate in the dark,Create a space free of obstacles,133
+14,FsfSaoi,gpt_neo_13b,5,0.6,20,navigate in the dark,Enable navigation in the dark,176
+20,FsfSaoi,gpt_neo_13b,6,0.6,20,navigate in the dark,Use the light of the environment to navigate,221
+27,FsfSaoi,gpt_neo_13b,7,0.6,20,navigate in the dark,Guide objects in space,265
+35,FsfSaoi,gpt_neo_13b,8,0.6,20,navigate in the dark,guide an object through a dark environment,309
+44,FsfSaoi,gpt_neo_13b,9,0.6,20,navigate in the dark,Avoid glare and shadows,352
+54,FsfSaoi,gpt_neo_13b,10,0.6,20,navigate in the dark,use the senses to navigate in the dark,395
+65,FsfSaoi,gpt_neo_13b,11,0.6,20,navigate in the dark,Navigate by a set of rules,439
+77,FsfSaoi,gpt_neo_13b,12,0.6,20,navigate in the dark,Make a map of a space,483
+90,FsfSaoi,gpt_neo_13b,13,0.6,20,navigate in the dark,enable a tool to navigate in the dark,526
+104,FsfSaoi,gpt_neo_13b,14,0.6,20,navigate in the dark,Provide information about the environment,571
+119,FsfSaoi,gpt_neo_13b,15,0.6,20,navigate in the dark,Guide a robot to a target using the light of an LED,616
+135,FsfSaoi,gpt_neo_13b,16,0.6,20,navigate in the dark,navigate in a dark environment,660
+152,FsfSaoi,gpt_neo_13b,17,0.6,20,navigate in the dark,Enable objects to navigate in a complex environment,706
+170,FsfSaoi,gpt_neo_13b,18,0.6,20,navigate in the dark,navigate in a dark environment,752
+189,FsfSaoi,gpt_neo_13b,19,0.6,20,navigate in the dark,navigate in a dark room,797
+209,FsfSaoi,gpt_neo_13b,20,0.6,20,navigate in the dark,Avoid obstacles,841
+230,FsfSaoi,gpt_neo_13b,1,0.7,20,navigate in the dark,Provide information about the environment,885
+252,FsfSaoi,gpt_neo_13b,2,0.7,20,navigate in the dark,Add depth to the field of view,930
+275,FsfSaoi,gpt_neo_13b,3,0.7,20,navigate in the dark,Enable objects in the field to distinguish between light and dark,975
+299,FsfSaoi,gpt_neo_13b,4,0.7,20,navigate in the dark,navigate through a tunnel by light reflection,1019
+324,FsfSaoi,gpt_neo_13b,5,0.7,20,navigate in the dark,Use a light-source to illuminate environment,1064
+350,FsfSaoi,gpt_neo_13b,6,0.7,20,navigate in the dark,"Navigation through a dark, dangerous environment",1109
+377,FsfSaoi,gpt_neo_13b,7,0.7,20,navigate in the dark,Provide visual cues that are missing in the environment,1154
+405,FsfSaoi,gpt_neo_13b,8,0.7,20,navigate in the dark,Provide a visual guide for navigation,1198
+434,FsfSaoi,gpt_neo_13b,9,0.7,20,navigate in the dark,Reduce reliance on a visual map,1243
+464,FsfSaoi,gpt_neo_13b,10,0.7,20,navigate in the dark,use different light sources to achieve the same results,1288
+495,FsfSaoi,gpt_neo_13b,11,0.7,20,navigate in the dark,Increase the field of vision,1333
+527,FsfSaoi,gpt_neo_13b,12,0.7,20,navigate in the dark,Avoid unwanted shadows,1377
+560,FsfSaoi,gpt_neo_13b,13,0.7,20,navigate in the dark,Provide a system of cues for navigation,1422
+594,FsfSaoi,gpt_neo_13b,14,0.7,20,navigate in the dark,navigate without a light source,1467
+629,FsfSaoi,gpt_neo_13b,15,0.7,20,navigate in the dark,Create a path of least resistance without sacrificing accuracy,1513
+665,FsfSaoi,gpt_neo_13b,16,0.7,20,navigate in the dark,Extend the physical reach of a tool,1557
+702,FsfSaoi,gpt_neo_13b,17,0.7,20,navigate in the dark,Provide guidance without requiring light,1603
+740,FsfSaoi,gpt_neo_13b,18,0.7,20,navigate in the dark,Avoid collisions with obstacles,1648
+779,FsfSaoi,gpt_neo_13b,19,0.7,20,navigate in the dark,Extend the physical reach of a tool,1693
+819,FsfSaoi,gpt_neo_13b,20,0.7,20,navigate in the dark,Provide a visual feedback to the user,1737
+860,FsfSaoi,gpt_neo_13b,1,0.8,20,navigate in the dark,Extend the physical reach of a tool,1782
+902,FsfSaoi,gpt_neo_13b,2,0.8,20,navigate in the dark,Reduce user's dependency on information cues,1828
+945,FsfSaoi,gpt_neo_13b,3,0.8,20,navigate in the dark,navigate through shadows,1872
+989,FsfSaoi,gpt_neo_13b,4,0.8,20,navigate in the dark,Make the environment a safe place for a person to walk,1916
+1034,FsfSaoi,gpt_neo_13b,5,0.8,20,navigate in the dark,Use a laser pointer to guide a navigation map,1960
+1080,FsfSaoi,gpt_neo_13b,6,0.8,20,navigate in the dark,create spatial reference frame for navigation,2005
+1127,FsfSaoi,gpt_neo_13b,7,0.8,20,navigate in the dark,Track a target in a dark environment,2049
+1175,FsfSaoi,gpt_neo_13b,8,0.8,20,navigate in the dark,Protect object from a light source,2093
+1224,FsfSaoi,gpt_neo_13b,9,0.8,20,navigate in the dark,Create a map by tracing the paths of objects,2138
+1274,FsfSaoi,gpt_neo_13b,10,0.8,20,navigate in the dark,Enable a tool to navigate in a dark environment,2183
+1325,FsfSaoi,gpt_neo_13b,11,0.8,20,navigate in the dark,Use the information contained in the environment to navigate,2228
+1377,FsfSaoi,gpt_neo_13b,12,0.8,20,navigate in the dark,Use light to direct a vehicle,2272
+1430,FsfSaoi,gpt_neo_13b,13,0.8,20,navigate in the dark,Enable objects to move in the dark,2315
+1484,FsfSaoi,gpt_neo_13b,14,0.8,20,navigate in the dark,Use visual cues to guide a motor by using the world's colors,2360
+1539,FsfSaoi,gpt_neo_13b,15,0.8,20,navigate in the dark,Guide light with a laser beam,2405
+1595,FsfSaoi,gpt_neo_13b,16,0.8,20,navigate in the dark,Guide a robot in a dark area,2449
+1652,FsfSaoi,gpt_neo_13b,17,0.8,20,navigate in the dark,Use a flashlight to navigate in the dark,2494
+1710,FsfSaoi,gpt_neo_13b,18,0.8,20,navigate in the dark,Allow light to penetrate objects,2538
+1769,FsfSaoi,gpt_neo_13b,19,0.8,20,navigate in the dark,Provide visual cues for navigation,2582
+1829,FsfSaoi,gpt_neo_13b,20,0.8,20,navigate in the dark,Reduce energy consumption,2626
+1890,FsfSaoi,gpt_neo_13b,1,0.9,20,navigate in the dark,Adapt control surfaces to track moving objects,2671
+1952,FsfSaoi,gpt_neo_13b,2,0.9,20,navigate in the dark,Create a map of the world,2715
+2015,FsfSaoi,gpt_neo_13b,3,0.9,20,navigate in the dark,Find a way around a maze,2759
+2079,FsfSaoi,gpt_neo_13b,4,0.9,20,navigate in the dark,navigate in an environment,2803
+2144,FsfSaoi,gpt_neo_13b,5,0.9,20,navigate in the dark,Extend the physical reach of a tool,2848
+2210,FsfSaoi,gpt_neo_13b,6,0.9,20,navigate in the dark,Use the environment to your advantage,2892
+2277,FsfSaoi,gpt_neo_13b,7,0.9,20,navigate in the dark,Enable objects to move in space free from illumination,2937
+2345,FsfSaoi,gpt_neo_13b,8,0.9,20,navigate in the dark,navigate by visual cues while moving,2982
+2414,FsfSaoi,gpt_neo_13b,9,0.9,20,navigate in the dark,"Create a path by interacting with terrain, obstacles",3027
+2484,FsfSaoi,gpt_neo_13b,10,0.9,20,navigate in the dark,navigate the environment by adjusting light intensity,3072
+2555,FsfSaoi,gpt_neo_13b,11,0.9,20,navigate in the dark,Search for landmarks in the field,3116
+2627,FsfSaoi,gpt_neo_13b,12,0.9,20,navigate in the dark,Add degrees of freedom to a rigid model,3130
+2700,FsfSaoi,gpt_neo_13b,13,0.9,20,navigate in the dark,use landmarks to form the view from a starting point,3174
+2774,FsfSaoi,gpt_neo_13b,14,0.9,20,navigate in the dark,Find a way by looking in a series of non-repeating patterns,3219
+2849,FsfSaoi,gpt_neo_13b,15,0.9,20,navigate in the dark,Provide physical cues for navigating through a dark environment,3263
+2925,FsfSaoi,gpt_neo_13b,16,0.9,20,navigate in the dark,Navigate as a robot,3308
+3002,FsfSaoi,gpt_neo_13b,17,0.9,20,navigate in the dark,Use light as necessary to navigate in the dark,3351
+3080,FsfSaoi,gpt_neo_13b,18,0.9,20,navigate in the dark,Create a light and dark image,3395
+3159,FsfSaoi,gpt_neo_13b,19,0.9,20,navigate in the dark,Provide a navigational aid for those with disabilities,3439
+3239,FsfSaoi,gpt_neo_13b,20,0.9,20,navigate in the dark,create a spatial awareness based on human navigation skills,3483
