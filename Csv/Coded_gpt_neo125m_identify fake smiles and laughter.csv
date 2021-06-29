@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,sP44vzp,gpt_neo_125m,1,0.1,20,identify fake smiles and laughter,Prevent children from getting excited,0
+2,sP44vzp,gpt_neo_125m,2,0.1,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,24
+5,sP44vzp,gpt_neo_125m,3,0.1,20,identify fake smiles and laughter,Prevent children from getting into a room,52
+9,sP44vzp,gpt_neo_125m,4,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,78
+14,sP44vzp,gpt_neo_125m,5,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,104
+20,sP44vzp,gpt_neo_125m,6,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,127
+27,sP44vzp,gpt_neo_125m,7,0.1,20,identify fake smiles and laughter,Prevent children from getting into a bathtub,150
+35,sP44vzp,gpt_neo_125m,8,0.1,20,identify fake smiles and laughter,Prevent children from getting excited,172
+44,sP44vzp,gpt_neo_125m,9,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,193
+54,sP44vzp,gpt_neo_125m,10,0.1,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,214
+65,sP44vzp,gpt_neo_125m,11,0.1,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,235
+77,sP44vzp,gpt_neo_125m,12,0.1,20,identify fake smiles and laughter,Prevent children from getting into a bathtub,257
+90,sP44vzp,gpt_neo_125m,13,0.1,20,identify fake smiles and laughter,Prevent children from getting into a bathtub,279
+104,sP44vzp,gpt_neo_125m,14,0.1,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,300
+119,sP44vzp,gpt_neo_125m,15,0.1,20,identify fake smiles and laughter,Prevent children from getting excited,322
+135,sP44vzp,gpt_neo_125m,16,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,343
+152,sP44vzp,gpt_neo_125m,17,0.1,20,identify fake smiles and laughter,Prevent children from getting into a bathtub,364
+170,sP44vzp,gpt_neo_125m,18,0.1,20,identify fake smiles and laughter,Prevent children from getting excited,386
+189,sP44vzp,gpt_neo_125m,19,0.1,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,407
+209,sP44vzp,gpt_neo_125m,20,0.1,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,428
+230,sP44vzp,gpt_neo_125m,1,0.2,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,449
+252,sP44vzp,gpt_neo_125m,2,0.2,20,identify fake smiles and laughter,Protect vulnerable object from radiation,472
+275,sP44vzp,gpt_neo_125m,3,0.2,20,identify fake smiles and laughter,Identify fake smiles and laughter,497
+299,sP44vzp,gpt_neo_125m,4,0.2,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,524
+324,sP44vzp,gpt_neo_125m,5,0.2,20,identify fake smiles and laughter,Prevent objects from getting into contact with unwanted substances,546
+350,sP44vzp,gpt_neo_125m,6,0.2,20,identify fake smiles and laughter,Remove objects from the scene,568
+377,sP44vzp,gpt_neo_125m,7,0.2,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,589
+405,sP44vzp,gpt_neo_125m,8,0.2,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,616
+434,sP44vzp,gpt_neo_125m,9,0.2,20,identify fake smiles and laughter,Prevent objects from getting into contact with unwanted substances,641
+464,sP44vzp,gpt_neo_125m,10,0.2,20,identify fake smiles and laughter,Identify fake smiles and laughter,667
+495,sP44vzp,gpt_neo_125m,11,0.2,20,identify fake smiles and laughter,Prevent children from getting into a toy,692
+527,sP44vzp,gpt_neo_125m,12,0.2,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,714
+560,sP44vzp,gpt_neo_125m,13,0.2,20,identify fake smiles and laughter,Prevent children from getting into a room,736
+594,sP44vzp,gpt_neo_125m,14,0.2,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,757
+629,sP44vzp,gpt_neo_125m,15,0.2,20,identify fake smiles and laughter,Identify fake smiles and laughter,778
+665,sP44vzp,gpt_neo_125m,16,0.2,20,identify fake smiles and laughter,Prevent children from getting into a bathtub,803
+702,sP44vzp,gpt_neo_125m,17,0.2,20,identify fake smiles and laughter,Prevent children from getting into the wrong places,825
+740,sP44vzp,gpt_neo_125m,18,0.2,20,identify fake smiles and laughter,Identify fake smiles and laughter,849
+779,sP44vzp,gpt_neo_125m,19,0.2,20,identify fake smiles and laughter,Prevent children from getting excited,872
+819,sP44vzp,gpt_neo_125m,20,0.2,20,identify fake smiles and laughter,Protect vulnerable object from radiation,895
+860,sP44vzp,gpt_neo_125m,1,0.3,20,identify fake smiles and laughter,Prevent object from getting into contact with unwanted substances,920
+902,sP44vzp,gpt_neo_125m,2,0.3,20,identify fake smiles and laughter,Identify fake smiles and laughter,942
+945,sP44vzp,gpt_neo_125m,3,0.3,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,967
+989,sP44vzp,gpt_neo_125m,4,0.3,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,993
+1034,sP44vzp,gpt_neo_125m,5,0.3,20,identify fake smiles and laughter,Identify fake smiles and laughter,1017
+1080,sP44vzp,gpt_neo_125m,6,0.3,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,1043
+1127,sP44vzp,gpt_neo_125m,7,0.3,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,1070
+1175,sP44vzp,gpt_neo_125m,8,0.3,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,1098
+1224,sP44vzp,gpt_neo_125m,9,0.3,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,1145
+1274,sP44vzp,gpt_neo_125m,10,0.3,20,identify fake smiles and laughter,Protect object from radiation,1210
+1325,sP44vzp,gpt_neo_125m,11,0.3,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1257
+1377,sP44vzp,gpt_neo_125m,12,0.3,20,identify fake smiles and laughter,Prevent children from getting a smile,1288
+1430,sP44vzp,gpt_neo_125m,13,0.3,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,1318
+1484,sP44vzp,gpt_neo_125m,14,0.3,20,identify fake smiles and laughter,Identify fake smiles and laughter,1347
+1539,sP44vzp,gpt_neo_125m,15,0.3,20,identify fake smiles and laughter,Prevent children from getting wet,1377
+1595,sP44vzp,gpt_neo_125m,16,0.3,20,identify fake smiles and laughter,Prevent a child from getting excited,1405
+1652,sP44vzp,gpt_neo_125m,17,0.3,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1430
+1710,sP44vzp,gpt_neo_125m,18,0.3,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1453
+1769,sP44vzp,gpt_neo_125m,19,0.3,20,identify fake smiles and laughter,Prevent the appearance of the face from being damaged,1475
+1829,sP44vzp,gpt_neo_125m,20,0.3,20,identify fake smiles and laughter,Identify fake smiles and laughter,1496
+1890,sP44vzp,gpt_neo_125m,1,0.4,20,identify fake smiles and laughter,Create a space in which objects are separated from each other,1518
+1952,sP44vzp,gpt_neo_125m,2,0.4,20,identify fake smiles and laughter,Prevent children from getting into a room,1540
+2015,sP44vzp,gpt_neo_125m,3,0.4,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1561
+2079,sP44vzp,gpt_neo_125m,4,0.4,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1584
+2144,sP44vzp,gpt_neo_125m,5,0.4,20,identify fake smiles and laughter,Make a fake smile for a friend,1606
+2210,sP44vzp,gpt_neo_125m,6,0.4,20,identify fake smiles and laughter,Prevent the appearance of a fake smile,1629
+2277,sP44vzp,gpt_neo_125m,7,0.4,20,identify fake smiles and laughter,Identify fake smiles and laughter,1651
+2345,sP44vzp,gpt_neo_125m,8,0.4,20,identify fake smiles and laughter,Identify fake smiles and laughter,1673
+2414,sP44vzp,gpt_neo_125m,9,0.4,20,identify fake smiles and laughter,protect object from the penetration of foreign objects,1695
+2484,sP44vzp,gpt_neo_125m,10,0.4,20,identify fake smiles and laughter,Create a fake smile,1717
+2555,sP44vzp,gpt_neo_125m,11,0.4,20,identify fake smiles and laughter,Remove objects of different volumes,1739
+2627,sP44vzp,gpt_neo_125m,12,0.4,20,identify fake smiles and laughter,Prevent children from getting into trouble,1762
+2700,sP44vzp,gpt_neo_125m,13,0.4,20,identify fake smiles and laughter,Remove a fake smile from a face,1784
+2774,sP44vzp,gpt_neo_125m,14,0.4,20,identify fake smiles and laughter,Remove bubbles from objects by mechanical force,1806
+2849,sP44vzp,gpt_neo_125m,15,0.4,20,identify fake smiles and laughter,Remove the fake smile from a face,1827
+2925,sP44vzp,gpt_neo_125m,16,0.4,20,identify fake smiles and laughter,Identify fake smiles and laughter,1849
+3002,sP44vzp,gpt_neo_125m,17,0.4,20,identify fake smiles and laughter,Identify fake smiles and laughter,1870
+3080,sP44vzp,gpt_neo_125m,18,0.4,20,identify fake smiles and laughter,Prevent objects from getting into contact with unwanted substances,1891
+3159,sP44vzp,gpt_neo_125m,19,0.4,20,identify fake smiles and laughter,Make a face of a fake smile,1912
+3239,sP44vzp,gpt_neo_125m,20,0.4,20,identify fake smiles and laughter,Remove fake smiles and laughter from objects,1934
+3320,sP44vzp,gpt_neo_125m,1,0.5,20,identify fake smiles and laughter,Protect vulnerable object from radiation,1957
+3402,sP44vzp,gpt_neo_125m,2,0.5,20,identify fake smiles and laughter,Create a face for a fake smile,1979
+3485,sP44vzp,gpt_neo_125m,3,0.5,20,identify fake smiles and laughter,Stop object from getting into contact with unwanted substances,2001
+3569,sP44vzp,gpt_neo_125m,4,0.5,20,identify fake smiles and laughter,Identify the fake smile and laugh,2022
+3654,sP44vzp,gpt_neo_125m,5,0.5,20,identify fake smiles and laughter,Remove the smell of a fake smile,2043
+3740,sP44vzp,gpt_neo_125m,6,0.5,20,identify fake smiles and laughter,Make a smile by using a mask,2064
+3827,sP44vzp,gpt_neo_125m,7,0.5,20,identify fake smiles and laughter,"create a new object, and remove it",2086
+3915,sP44vzp,gpt_neo_125m,8,0.5,20,identify fake smiles and laughter,Remove objects from the environment,2107
+4004,sP44vzp,gpt_neo_125m,9,0.5,20,identify fake smiles and laughter,Start a game of football,2128
+4094,sP44vzp,gpt_neo_125m,10,0.5,20,identify fake smiles and laughter,Prevent the skin from getting wet,2149
+4185,sP44vzp,gpt_neo_125m,11,0.5,20,identify fake smiles and laughter,Prevent people from getting into a fight,2170
+4277,sP44vzp,gpt_neo_125m,12,0.5,20,identify fake smiles and laughter,Remove the fake smile and laugh,2191
+4370,sP44vzp,gpt_neo_125m,13,0.5,20,identify fake smiles and laughter,Detect fake smiles and laughter,2213
+4464,sP44vzp,gpt_neo_125m,14,0.5,20,identify fake smiles and laughter,identify fake smiles and laughter,2234
+4559,sP44vzp,gpt_neo_125m,15,0.5,20,identify fake smiles and laughter,create a hole in an object without causing an unwanted noise,2255
+4655,sP44vzp,gpt_neo_125m,16,0.5,20,identify fake smiles and laughter,Protect vulnerable object from radiation,2276
+4752,sP44vzp,gpt_neo_125m,17,0.5,20,identify fake smiles and laughter,Prevent children from getting into a fight,2297
+4850,sP44vzp,gpt_neo_125m,18,0.5,20,identify fake smiles and laughter,"Start a game of ""Ao-Ao-Ao""",2318
+4949,sP44vzp,gpt_neo_125m,19,0.5,20,identify fake smiles and laughter,Prevent a fake smile from getting into contact with unwanted substances,2339
+5049,sP44vzp,gpt_neo_125m,20,0.5,20,identify fake smiles and laughter,Stop object from getting into contact with unwanted substances,2360
+5150,sP44vzp,gpt_neo_125m,1,0.6,20,identify fake smiles and laughter,Prevent a child from making a joke,2382
+5252,sP44vzp,gpt_neo_125m,2,0.6,20,identify fake smiles and laughter,Prevent fake smiles by using a mask,2978
+5355,sP44vzp,gpt_neo_125m,3,0.6,20,identify fake smiles and laughter,Prevent objects from getting into contact with unwanted substances,3007
+5459,sP44vzp,gpt_neo_125m,4,0.6,20,identify fake smiles and laughter,Remove fake smiles from objects,3029
+5564,sP44vzp,gpt_neo_125m,5,0.6,20,identify fake smiles and laughter,Prevent elderly people from getting excited,3054
+5670,sP44vzp,gpt_neo_125m,6,0.6,20,identify fake smiles and laughter,identify fake smiles and laughter,3077
+5777,sP44vzp,gpt_neo_125m,7,0.6,20,identify fake smiles and laughter,Stop child from getting into contact with unwanted substances,3098
+5885,sP44vzp,gpt_neo_125m,8,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,3120
+5994,sP44vzp,gpt_neo_125m,9,0.6,20,identify fake smiles and laughter,remove fake smile from a person,3141
+6104,sP44vzp,gpt_neo_125m,10,0.6,20,identify fake smiles and laughter,Prevent children from getting excited or excitedly,3166
+6215,sP44vzp,gpt_neo_125m,11,0.6,20,identify fake smiles and laughter,prevent the appearance of a fake smile by placing a mask,3185
+6327,sP44vzp,gpt_neo_125m,12,0.6,20,identify fake smiles and laughter,Protect vulnerable object from radiation,3205
+6440,sP44vzp,gpt_neo_125m,13,0.6,20,identify fake smiles and laughter,Prevent the appearance of fake smiles and laughter,3226
+6554,sP44vzp,gpt_neo_125m,14,0.6,20,identify fake smiles and laughter,Remove unnecessary objects from objects,3247
+6669,sP44vzp,gpt_neo_125m,15,0.6,20,identify fake smiles and laughter,Remove objects from their environment,3268
+6785,sP44vzp,gpt_neo_125m,16,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,3292
+6902,sP44vzp,gpt_neo_125m,17,0.6,20,identify fake smiles and laughter,Prevent fake smiles,3320
+7020,sP44vzp,gpt_neo_125m,18,0.6,20,identify fake smiles and laughter,Prevent facial expressions by the user,3349
+7139,sP44vzp,gpt_neo_125m,19,0.6,20,identify fake smiles and laughter,Protect vulnerable object from radiation,3372
+7259,sP44vzp,gpt_neo_125m,20,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,3396
+7380,sP44vzp,gpt_neo_125m,1,0.7,20,identify fake smiles and laughter,Protect object from the penetration of foreign substances,3416
+7502,sP44vzp,gpt_neo_125m,2,0.7,20,identify fake smiles and laughter,Protect vulnerable object from radiation,3435
+7625,sP44vzp,gpt_neo_125m,3,0.7,20,identify fake smiles and laughter,Identify fake smiles and laughing,3453
+7749,sP44vzp,gpt_neo_125m,4,0.7,20,identify fake smiles and laughter,Create a small-time-vacuum environment for the human eye,3472
+7874,sP44vzp,gpt_neo_125m,5,0.7,20,identify fake smiles and laughter,Defy imitation of a person's true smiles,3490
+8000,sP44vzp,gpt_neo_125m,6,0.7,20,identify fake smiles and laughter,Protect vulnerable object from radiation,3509
+8127,sP44vzp,gpt_neo_125m,7,0.7,20,identify fake smiles and laughter,Remove objects from their original pose,3528
+8255,sP44vzp,gpt_neo_125m,8,0.7,20,identify fake smiles and laughter,Remove an artificial face and make a face with a smile,3546
+8384,sP44vzp,gpt_neo_125m,9,0.7,20,identify fake smiles and laughter,hide a face from the sun,3564
+8514,sP44vzp,gpt_neo_125m,10,0.7,20,identify fake smiles and laughter,Identify fake smiles and laughter,3583
+8645,sP44vzp,gpt_neo_125m,11,0.7,20,identify fake smiles and laughter,Protect vulnerable object from radiation,3602
+8777,sP44vzp,gpt_neo_125m,12,0.7,20,identify fake smiles and laughter,Remove objects from an object without causing an unwanted noise,3621
+8910,sP44vzp,gpt_neo_125m,13,0.7,20,identify fake smiles and laughter,Make a face when you are unsure,3639
+9044,sP44vzp,gpt_neo_125m,14,0.7,20,identify fake smiles and laughter,Reduce the amount of time between the appearance of a smile and laughter,3658
+9179,sP44vzp,gpt_neo_125m,15,0.7,20,identify fake smiles and laughter,Protect vulnerable object from airborne or stray radiation,3677
+9315,sP44vzp,gpt_neo_125m,16,0.7,20,identify fake smiles and laughter,"Provide strong, rigid structure out of soft materials",3695
+9452,sP44vzp,gpt_neo_125m,17,0.7,20,identify fake smiles and laughter,Get fake smile and laugh in a video game,3716
+9590,sP44vzp,gpt_neo_125m,18,0.7,20,identify fake smiles and laughter,prevent children from getting excited,3738
+9729,sP44vzp,gpt_neo_125m,19,0.7,20,identify fake smiles and laughter,Remove food from objects,3759
+9869,sP44vzp,gpt_neo_125m,20,0.7,20,identify fake smiles and laughter,Prevent smoking from getting into contact with any foreign objects,3786
+10010,sP44vzp,gpt_neo_125m,1,0.8,20,identify fake smiles and laughter,Protect object from air pollution,3812
+10152,sP44vzp,gpt_neo_125m,2,0.8,20,identify fake smiles and laughter,stop making fake smiles,3833
+10295,sP44vzp,gpt_neo_125m,3,0.8,20,identify fake smiles and laughter,create a hole in an object without causing an unwanted noise,3859
+10439,sP44vzp,gpt_neo_125m,4,0.8,20,identify fake smiles and laughter,Remove hair from children,3884
+10584,sP44vzp,gpt_neo_125m,5,0.8,20,identify fake smiles and laughter,Prevent object from becoming excited by the noise of the world,3907
+10730,sP44vzp,gpt_neo_125m,6,0.8,20,identify fake smiles and laughter,"create a new object, eliminate a lot of fake smiles",3934
+10877,sP44vzp,gpt_neo_125m,7,0.8,20,identify fake smiles and laughter,Get a real laugh by looking around the room,3957
+11025,sP44vzp,gpt_neo_125m,8,0.8,20,identify fake smiles and laughter,Stop object from getting into contact with unwanted substances,3979
+11174,sP44vzp,gpt_neo_125m,9,0.8,20,identify fake smiles and laughter,Prevent object from appearing in the scene,3999
+11324,sP44vzp,gpt_neo_125m,10,0.8,20,identify fake smiles and laughter,Create a barrier to avoid unwanted objects,4018
+11475,sP44vzp,gpt_neo_125m,11,0.8,20,identify fake smiles and laughter,Start a game of face recognition,4037
+11627,sP44vzp,gpt_neo_125m,12,0.8,20,identify fake smiles and laughter,Prevent object from getting into contact with unwanted substances,4056
+11780,sP44vzp,gpt_neo_125m,13,0.8,20,identify fake smiles and laughter,Prevent facial expressions from being blurred,4078
+11934,sP44vzp,gpt_neo_125m,14,0.8,20,identify fake smiles and laughter,protect object from the penetration of foreign objects,4097
+12089,sP44vzp,gpt_neo_125m,15,0.8,20,identify fake smiles and laughter,Remove facial recognition,4116
+12245,sP44vzp,gpt_neo_125m,16,0.8,20,identify fake smiles and laughter,Make a fake face and laugh with the eyes from a camera,4135
+12402,sP44vzp,gpt_neo_125m,17,0.8,20,identify fake smiles and laughter,identify real smile and laughter,4158
+12560,sP44vzp,gpt_neo_125m,18,0.8,20,identify fake smiles and laughter,identify fake smiles and laughter,4176
+12719,sP44vzp,gpt_neo_125m,19,0.8,20,identify fake smiles and laughter,Protect vulnerable object from radiation,4198
+12879,sP44vzp,gpt_neo_125m,20,0.8,20,identify fake smiles and laughter,prevent child from getting into a room with a fake smile,4222
+13040,sP44vzp,gpt_neo_125m,1,0.9,20,identify fake smiles and laughter,Increase the quality of a child's smile,4245
+13202,sP44vzp,gpt_neo_125m,2,0.9,20,identify fake smiles and laughter,Avoid any sexual activity by pretending it's not your face,4271
+13365,sP44vzp,gpt_neo_125m,3,0.9,20,identify fake smiles and laughter,Prevent the user from getting excited,4294
+13529,sP44vzp,gpt_neo_125m,4,0.9,20,identify fake smiles and laughter,Stop old people from making fake faces in the street,4316
+13694,sP44vzp,gpt_neo_125m,5,0.9,20,identify fake smiles and laughter,Make fun of facial expressions,4338
+13860,sP44vzp,gpt_neo_125m,6,0.9,20,identify fake smiles and laughter,Identify fake smiles and laughter in virtual reality,4361
+14027,sP44vzp,gpt_neo_125m,7,0.9,20,identify fake smiles and laughter,Improve appearance of real face,4383
+14195,sP44vzp,gpt_neo_125m,8,0.9,20,identify fake smiles and laughter,Make a facial expression of the eyebrows,4403
+14364,sP44vzp,gpt_neo_125m,9,0.9,20,identify fake smiles and laughter,Determine if the smiles are fake,4425
+14534,sP44vzp,gpt_neo_125m,10,0.9,20,identify fake smiles and laughter,Remove fake smiles from the face,4447
+14705,sP44vzp,gpt_neo_125m,11,0.9,20,identify fake smiles and laughter,protect object from radiation,4469
+14877,sP44vzp,gpt_neo_125m,12,0.9,20,identify fake smiles and laughter,Eliminate fake smiles and laughter,4491
+15050,sP44vzp,gpt_neo_125m,13,0.9,20,identify fake smiles and laughter,Create a face mask to prevent foreign objects from getting into contact with foreign objects,4514
+15224,sP44vzp,gpt_neo_125m,14,0.9,20,identify fake smiles and laughter,Improve the feel of a complicated motion or force,4536
+15399,sP44vzp,gpt_neo_125m,15,0.9,20,identify fake smiles and laughter,Prevent children from laughing too much,4559
+15575,sP44vzp,gpt_neo_125m,16,0.9,20,identify fake smiles and laughter,"avoid unnecessary, awkward and repetitive actions",4581
+15752,sP44vzp,gpt_neo_125m,17,0.9,20,identify fake smiles and laughter,Protect objects from external sounds,4603
+15930,sP44vzp,gpt_neo_125m,18,0.9,20,identify fake smiles and laughter,Protect objects of different volumes,4625
+16109,sP44vzp,gpt_neo_125m,19,0.9,20,identify fake smiles and laughter,Prevent false smiles,4647
+16289,sP44vzp,gpt_neo_125m,20,0.9,20,identify fake smiles and laughter,Prevent face from being a big fat joke,4670

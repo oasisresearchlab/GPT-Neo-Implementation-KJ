@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,PZUCBm0,gpt_neo_125m,1,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,0
+2,PZUCBm0,gpt_neo_125m,2,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,14
+5,PZUCBm0,gpt_neo_125m,3,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,28
+9,PZUCBm0,gpt_neo_125m,4,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,44
+14,PZUCBm0,gpt_neo_125m,5,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,63
+20,PZUCBm0,gpt_neo_125m,6,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,82
+27,PZUCBm0,gpt_neo_125m,7,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,99
+35,PZUCBm0,gpt_neo_125m,8,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,117
+44,PZUCBm0,gpt_neo_125m,9,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,135
+54,PZUCBm0,gpt_neo_125m,10,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,152
+65,PZUCBm0,gpt_neo_125m,11,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,170
+77,PZUCBm0,gpt_neo_125m,12,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,189
+90,PZUCBm0,gpt_neo_125m,13,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,207
+104,PZUCBm0,gpt_neo_125m,14,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,225
+119,PZUCBm0,gpt_neo_125m,15,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,242
+135,PZUCBm0,gpt_neo_125m,16,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,260
+152,PZUCBm0,gpt_neo_125m,17,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,277
+170,PZUCBm0,gpt_neo_125m,18,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,296
+189,PZUCBm0,gpt_neo_125m,19,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,314
+209,PZUCBm0,gpt_neo_125m,20,0.1,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,331
+230,PZUCBm0,gpt_neo_125m,1,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,349
+252,PZUCBm0,gpt_neo_125m,2,0.2,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,366
+275,PZUCBm0,gpt_neo_125m,3,0.2,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,384
+299,PZUCBm0,gpt_neo_125m,4,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,402
+324,PZUCBm0,gpt_neo_125m,5,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,420
+350,PZUCBm0,gpt_neo_125m,6,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,437
+377,PZUCBm0,gpt_neo_125m,7,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,455
+405,PZUCBm0,gpt_neo_125m,8,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,472
+434,PZUCBm0,gpt_neo_125m,9,0.2,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,489
+464,PZUCBm0,gpt_neo_125m,10,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,506
+495,PZUCBm0,gpt_neo_125m,11,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,523
+527,PZUCBm0,gpt_neo_125m,12,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,540
+560,PZUCBm0,gpt_neo_125m,13,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,557
+594,PZUCBm0,gpt_neo_125m,14,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,574
+629,PZUCBm0,gpt_neo_125m,15,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,591
+665,PZUCBm0,gpt_neo_125m,16,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,608
+702,PZUCBm0,gpt_neo_125m,17,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,625
+740,PZUCBm0,gpt_neo_125m,18,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,642
+779,PZUCBm0,gpt_neo_125m,19,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,660
+819,PZUCBm0,gpt_neo_125m,20,0.2,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,677
+860,PZUCBm0,gpt_neo_125m,1,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,694
+902,PZUCBm0,gpt_neo_125m,2,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,711
+945,PZUCBm0,gpt_neo_125m,3,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,728
+989,PZUCBm0,gpt_neo_125m,4,0.3,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,746
+1034,PZUCBm0,gpt_neo_125m,5,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,763
+1080,PZUCBm0,gpt_neo_125m,6,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,780
+1127,PZUCBm0,gpt_neo_125m,7,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,797
+1175,PZUCBm0,gpt_neo_125m,8,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,814
+1224,PZUCBm0,gpt_neo_125m,9,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,831
+1274,PZUCBm0,gpt_neo_125m,10,0.3,20,efficiently extract structure from complex unstructured data,Protect object from radiation,848
+1325,PZUCBm0,gpt_neo_125m,11,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,866
+1377,PZUCBm0,gpt_neo_125m,12,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,883
+1430,PZUCBm0,gpt_neo_125m,13,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,900
+1484,PZUCBm0,gpt_neo_125m,14,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,917
+1539,PZUCBm0,gpt_neo_125m,15,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,936
+1595,PZUCBm0,gpt_neo_125m,16,0.3,20,efficiently extract structure from complex unstructured data,Reduce the number of data points in a data set,953
+1652,PZUCBm0,gpt_neo_125m,17,0.3,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,970
+1710,PZUCBm0,gpt_neo_125m,18,0.3,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,988
+1769,PZUCBm0,gpt_neo_125m,19,0.3,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1005
+1829,PZUCBm0,gpt_neo_125m,20,0.3,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,1023
+1890,PZUCBm0,gpt_neo_125m,1,0.4,20,efficiently extract structure from complex unstructured data,Remove dirt from objects by mechanical force,1040
+1952,PZUCBm0,gpt_neo_125m,2,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1057
+2015,PZUCBm0,gpt_neo_125m,3,0.4,20,efficiently extract structure from complex unstructured data,Remove objects of different volumes,1075
+2079,PZUCBm0,gpt_neo_125m,4,0.4,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1092
+2144,PZUCBm0,gpt_neo_125m,5,0.4,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1109
+2210,PZUCBm0,gpt_neo_125m,6,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1127
+2277,PZUCBm0,gpt_neo_125m,7,0.4,20,efficiently extract structure from complex unstructured data,Improve the stability of a complex object,1144
+2345,PZUCBm0,gpt_neo_125m,8,0.4,20,efficiently extract structure from complex unstructured data,Create a structure from complex unstructured data,1162
+2414,PZUCBm0,gpt_neo_125m,9,0.4,20,efficiently extract structure from complex unstructured data,Reduce the size of a complex unstructured data,1180
+2484,PZUCBm0,gpt_neo_125m,10,0.4,20,efficiently extract structure from complex unstructured data,Prevent object from getting into contact with unwanted substances,1201
+2555,PZUCBm0,gpt_neo_125m,11,0.4,20,efficiently extract structure from complex unstructured data,Protect object from radiation,1219
+2627,PZUCBm0,gpt_neo_125m,12,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1237
+2700,PZUCBm0,gpt_neo_125m,13,0.4,20,efficiently extract structure from complex unstructured data,Remove unwanted particles from complex unstructured data,1254
+2774,PZUCBm0,gpt_neo_125m,14,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1273
+2849,PZUCBm0,gpt_neo_125m,15,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1292
+2925,PZUCBm0,gpt_neo_125m,16,0.4,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1310
+3002,PZUCBm0,gpt_neo_125m,17,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1327
+3080,PZUCBm0,gpt_neo_125m,18,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1345
+3159,PZUCBm0,gpt_neo_125m,19,0.4,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1362
+3239,PZUCBm0,gpt_neo_125m,20,0.4,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,1380
+3320,PZUCBm0,gpt_neo_125m,1,0.5,20,efficiently extract structure from complex unstructured data,Remove unwanted particles from complex unstructured data,1397
+3402,PZUCBm0,gpt_neo_125m,2,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1414
+3485,PZUCBm0,gpt_neo_125m,3,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1431
+3569,PZUCBm0,gpt_neo_125m,4,0.5,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,1449
+3654,PZUCBm0,gpt_neo_125m,5,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1467
+3740,PZUCBm0,gpt_neo_125m,6,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1486
+3827,PZUCBm0,gpt_neo_125m,7,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1504
+3915,PZUCBm0,gpt_neo_125m,8,0.5,20,efficiently extract structure from complex unstructured data,Remove a particle from a complex unstructured data,1521
+4004,PZUCBm0,gpt_neo_125m,9,0.5,20,efficiently extract structure from complex unstructured data,provide a data structure for data processing,1539
+4094,PZUCBm0,gpt_neo_125m,10,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1556
+4185,PZUCBm0,gpt_neo_125m,11,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1574
+4277,PZUCBm0,gpt_neo_125m,12,0.5,20,efficiently extract structure from complex unstructured data,Provide a large enough volume of data to be used in a complex process,1620
+4370,PZUCBm0,gpt_neo_125m,13,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1637
+4464,PZUCBm0,gpt_neo_125m,14,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1656
+4559,PZUCBm0,gpt_neo_125m,15,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1675
+4655,PZUCBm0,gpt_neo_125m,16,0.5,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,1695
+4752,PZUCBm0,gpt_neo_125m,17,0.5,20,efficiently extract structure from complex unstructured data,Enable objects in a complex unstructured data,1716
+4850,PZUCBm0,gpt_neo_125m,18,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1736
+4949,PZUCBm0,gpt_neo_125m,19,0.5,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1755
+5049,PZUCBm0,gpt_neo_125m,20,0.5,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1773
+5150,PZUCBm0,gpt_neo_125m,1,0.6,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1790
+5252,PZUCBm0,gpt_neo_125m,2,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1807
+5355,PZUCBm0,gpt_neo_125m,3,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1824
+5459,PZUCBm0,gpt_neo_125m,4,0.6,20,efficiently extract structure from complex unstructured data,reduce user's dependency on information cues,1842
+5564,PZUCBm0,gpt_neo_125m,5,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1859
+5670,PZUCBm0,gpt_neo_125m,6,0.6,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1876
+5777,PZUCBm0,gpt_neo_125m,7,0.6,20,efficiently extract structure from complex unstructured data,Prevent object from getting into contact with unwanted substances,1893
+5885,PZUCBm0,gpt_neo_125m,8,0.6,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1911
+5994,PZUCBm0,gpt_neo_125m,9,0.6,20,efficiently extract structure from complex unstructured data,Protect object from penetration of foreign substances,1928
+6104,PZUCBm0,gpt_neo_125m,10,0.6,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,1945
+6215,PZUCBm0,gpt_neo_125m,11,0.6,20,efficiently extract structure from complex unstructured data,increase the feel of a complex motion or force,1963
+6327,PZUCBm0,gpt_neo_125m,12,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,1980
+6440,PZUCBm0,gpt_neo_125m,13,0.6,20,efficiently extract structure from complex unstructured data,Remove unwanted substances from unstructured data,1997
+6554,PZUCBm0,gpt_neo_125m,14,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2014
+6669,PZUCBm0,gpt_neo_125m,15,0.6,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,2032
+6785,PZUCBm0,gpt_neo_125m,16,0.6,20,efficiently extract structure from complex unstructured data,remove objects from a complex unstructured data,2049
+6902,PZUCBm0,gpt_neo_125m,17,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2066
+7020,PZUCBm0,gpt_neo_125m,18,0.6,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2084
+7139,PZUCBm0,gpt_neo_125m,19,0.6,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2101
+7259,PZUCBm0,gpt_neo_125m,20,0.6,20,efficiently extract structure from complex unstructured data,Reduce the number of elements used for processing,2118
+7380,PZUCBm0,gpt_neo_125m,1,0.7,20,efficiently extract structure from complex unstructured data,Improve control of the shape of a surface,2135
+7502,PZUCBm0,gpt_neo_125m,2,0.7,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2152
+7625,PZUCBm0,gpt_neo_125m,3,0.7,20,efficiently extract structure from complex unstructured data,Reduce noise in the field,2169
+7749,PZUCBm0,gpt_neo_125m,4,0.7,20,efficiently extract structure from complex unstructured data,reduce the volume of a structure,2187
+7874,PZUCBm0,gpt_neo_125m,5,0.7,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2204
+8000,PZUCBm0,gpt_neo_125m,6,0.7,20,efficiently extract structure from complex unstructured data,process a hard object into a complex structure,2221
+8127,PZUCBm0,gpt_neo_125m,7,0.7,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2238
+8255,PZUCBm0,gpt_neo_125m,8,0.7,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,2255
+8384,PZUCBm0,gpt_neo_125m,9,0.7,20,efficiently extract structure from complex unstructured data,Prevent object from getting into contact with unwanted substances,2273
+8514,PZUCBm0,gpt_neo_125m,10,0.7,20,efficiently extract structure from complex unstructured data,Protect a collection of objects from external forces,2290
+8645,PZUCBm0,gpt_neo_125m,11,0.7,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2307
+8777,PZUCBm0,gpt_neo_125m,12,0.7,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2324
+8910,PZUCBm0,gpt_neo_125m,13,0.7,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,2341
+9044,PZUCBm0,gpt_neo_125m,14,0.7,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2359
+9179,PZUCBm0,gpt_neo_125m,15,0.7,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2375
+9315,PZUCBm0,gpt_neo_125m,16,0.7,20,efficiently extract structure from complex unstructured data,Improve the effect of a rigid structure on the structure of real objects,2391
+9452,PZUCBm0,gpt_neo_125m,17,0.7,20,efficiently extract structure from complex unstructured data,Create rigid structure of a structured data,2408
+9590,PZUCBm0,gpt_neo_125m,18,0.7,20,efficiently extract structure from complex unstructured data,Protect object from radiation,2424
+9729,PZUCBm0,gpt_neo_125m,19,0.7,20,efficiently extract structure from complex unstructured data,Prevent object from getting into contact with unwanted substances,2440
+9869,PZUCBm0,gpt_neo_125m,20,0.7,20,efficiently extract structure from complex unstructured data,Create a structure to be used in a complex process,2457
+10010,PZUCBm0,gpt_neo_125m,1,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2616
+10152,PZUCBm0,gpt_neo_125m,2,0.8,20,efficiently extract structure from complex unstructured data,Remove rocks from a rock bank,2633
+10295,PZUCBm0,gpt_neo_125m,3,0.8,20,efficiently extract structure from complex unstructured data,enable a ball to travel at a low speed,2650
+10439,PZUCBm0,gpt_neo_125m,4,0.8,20,efficiently extract structure from complex unstructured data,Remove mass in one direction,2668
+10584,PZUCBm0,gpt_neo_125m,5,0.8,20,efficiently extract structure from complex unstructured data,Use this method for building a structured object,2687
+10730,PZUCBm0,gpt_neo_125m,6,0.8,20,efficiently extract structure from complex unstructured data,Remove objects on a small scale from their starting position,2708
+10877,PZUCBm0,gpt_neo_125m,7,0.8,20,efficiently extract structure from complex unstructured data,Extract structure from complex complex data sets,2728
+11025,PZUCBm0,gpt_neo_125m,8,0.8,20,efficiently extract structure from complex unstructured data,Add a set of non-equilateral constraints to the model,2749
+11174,PZUCBm0,gpt_neo_125m,9,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2767
+11324,PZUCBm0,gpt_neo_125m,10,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2785
+11475,PZUCBm0,gpt_neo_125m,11,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2802
+11627,PZUCBm0,gpt_neo_125m,12,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2821
+11780,PZUCBm0,gpt_neo_125m,13,0.8,20,efficiently extract structure from complex unstructured data,Remove many sources of noise,2840
+11934,PZUCBm0,gpt_neo_125m,14,0.8,20,efficiently extract structure from complex unstructured data,create a hole in an object without causing an unwanted noise,2860
+12089,PZUCBm0,gpt_neo_125m,15,0.8,20,efficiently extract structure from complex unstructured data,Increase the order of matrices,2880
+12245,PZUCBm0,gpt_neo_125m,16,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2900
+12402,PZUCBm0,gpt_neo_125m,17,0.8,20,efficiently extract structure from complex unstructured data,extract structure from unstructured data,2919
+12560,PZUCBm0,gpt_neo_125m,18,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2943
+12719,PZUCBm0,gpt_neo_125m,19,0.8,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,2966
+12879,PZUCBm0,gpt_neo_125m,20,0.8,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,2988
+13040,PZUCBm0,gpt_neo_125m,1,0.9,20,efficiently extract structure from complex unstructured data,Provide a way to detect whether a container is not properly fitted,3008
+13202,PZUCBm0,gpt_neo_125m,2,0.9,20,efficiently extract structure from complex unstructured data,stop object from getting into contact with unwanted substances,3033
+13365,PZUCBm0,gpt_neo_125m,3,0.9,20,efficiently extract structure from complex unstructured data,Increase the size of the structured data,3053
+13529,PZUCBm0,gpt_neo_125m,4,0.9,20,efficiently extract structure from complex unstructured data,create a hole in an object without causing an unwanted noise,3078
+13694,PZUCBm0,gpt_neo_125m,5,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,3102
+13860,PZUCBm0,gpt_neo_125m,6,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3127
+14027,PZUCBm0,gpt_neo_125m,7,0.9,20,efficiently extract structure from complex unstructured data,Improve the feel of a complicated motion or force,3146
+14195,PZUCBm0,gpt_neo_125m,8,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3165
+14364,PZUCBm0,gpt_neo_125m,9,0.9,20,efficiently extract structure from complex unstructured data,extract structure structure structure structure,3184
+14534,PZUCBm0,gpt_neo_125m,10,0.9,20,efficiently extract structure from complex unstructured data,Extract structure with high efficiency,3204
+14705,PZUCBm0,gpt_neo_125m,11,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3224
+14877,PZUCBm0,gpt_neo_125m,12,0.9,20,efficiently extract structure from complex unstructured data,Remove hard objects in a building with a great deal of difficulty,3244
+15050,PZUCBm0,gpt_neo_125m,13,0.9,20,efficiently extract structure from complex unstructured data,Create a physical unit with multiple dimensions,3264
+15224,PZUCBm0,gpt_neo_125m,14,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3284
+15399,PZUCBm0,gpt_neo_125m,15,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3305
+15575,PZUCBm0,gpt_neo_125m,16,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3325
+15752,PZUCBm0,gpt_neo_125m,17,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3345
+15930,PZUCBm0,gpt_neo_125m,18,0.9,20,efficiently extract structure from complex unstructured data,create a large-scale image for the goal,3365
+16109,PZUCBm0,gpt_neo_125m,19,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3386
+16289,PZUCBm0,gpt_neo_125m,20,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,3404

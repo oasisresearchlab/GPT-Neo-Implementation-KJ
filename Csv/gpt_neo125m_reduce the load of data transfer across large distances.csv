@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,AQwIDLu,gpt_neo_125m,1,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,0
+2,AQwIDLu,gpt_neo_125m,2,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,19
+5,AQwIDLu,gpt_neo_125m,3,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,37
+9,AQwIDLu,gpt_neo_125m,4,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,56
+14,AQwIDLu,gpt_neo_125m,5,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,73
+20,AQwIDLu,gpt_neo_125m,6,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,91
+27,AQwIDLu,gpt_neo_125m,7,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,109
+35,AQwIDLu,gpt_neo_125m,8,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,126
+44,AQwIDLu,gpt_neo_125m,9,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,145
+54,AQwIDLu,gpt_neo_125m,10,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,163
+65,AQwIDLu,gpt_neo_125m,11,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,181
+77,AQwIDLu,gpt_neo_125m,12,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,199
+90,AQwIDLu,gpt_neo_125m,13,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,216
+104,AQwIDLu,gpt_neo_125m,14,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,234
+119,AQwIDLu,gpt_neo_125m,15,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,253
+135,AQwIDLu,gpt_neo_125m,16,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,270
+152,AQwIDLu,gpt_neo_125m,17,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,288
+170,AQwIDLu,gpt_neo_125m,18,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,305
+189,AQwIDLu,gpt_neo_125m,19,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,323
+209,AQwIDLu,gpt_neo_125m,20,0.1,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,340
+230,AQwIDLu,gpt_neo_125m,1,0.2,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,358
+252,AQwIDLu,gpt_neo_125m,2,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,377
+275,AQwIDLu,gpt_neo_125m,3,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,394
+299,AQwIDLu,gpt_neo_125m,4,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,411
+324,AQwIDLu,gpt_neo_125m,5,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,429
+350,AQwIDLu,gpt_neo_125m,6,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,445
+377,AQwIDLu,gpt_neo_125m,7,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,463
+405,AQwIDLu,gpt_neo_125m,8,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,480
+434,AQwIDLu,gpt_neo_125m,9,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,497
+464,AQwIDLu,gpt_neo_125m,10,0.2,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,513
+495,AQwIDLu,gpt_neo_125m,11,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,530
+527,AQwIDLu,gpt_neo_125m,12,0.2,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,548
+560,AQwIDLu,gpt_neo_125m,13,0.2,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,565
+594,AQwIDLu,gpt_neo_125m,14,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,582
+629,AQwIDLu,gpt_neo_125m,15,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,599
+665,AQwIDLu,gpt_neo_125m,16,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,616
+702,AQwIDLu,gpt_neo_125m,17,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,633
+740,AQwIDLu,gpt_neo_125m,18,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,650
+779,AQwIDLu,gpt_neo_125m,19,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,667
+819,AQwIDLu,gpt_neo_125m,20,0.2,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,684
+860,AQwIDLu,gpt_neo_125m,1,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,702
+902,AQwIDLu,gpt_neo_125m,2,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,719
+945,AQwIDLu,gpt_neo_125m,3,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,736
+989,AQwIDLu,gpt_neo_125m,4,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,753
+1034,AQwIDLu,gpt_neo_125m,5,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,770
+1080,AQwIDLu,gpt_neo_125m,6,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,787
+1127,AQwIDLu,gpt_neo_125m,7,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,805
+1175,AQwIDLu,gpt_neo_125m,8,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,822
+1224,AQwIDLu,gpt_neo_125m,9,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,839
+1274,AQwIDLu,gpt_neo_125m,10,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,857
+1325,AQwIDLu,gpt_neo_125m,11,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,874
+1377,AQwIDLu,gpt_neo_125m,12,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,891
+1430,AQwIDLu,gpt_neo_125m,13,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,910
+1484,AQwIDLu,gpt_neo_125m,14,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,927
+1539,AQwIDLu,gpt_neo_125m,15,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,944
+1595,AQwIDLu,gpt_neo_125m,16,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,962
+1652,AQwIDLu,gpt_neo_125m,17,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,979
+1710,AQwIDLu,gpt_neo_125m,18,0.3,20,reduce the load of data transfer across large distances,Reduce load of data transfer across small distances,996
+1769,AQwIDLu,gpt_neo_125m,19,0.3,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1014
+1829,AQwIDLu,gpt_neo_125m,20,0.3,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1031
+1890,AQwIDLu,gpt_neo_125m,1,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1048
+1952,AQwIDLu,gpt_neo_125m,2,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across small distances,1066
+2015,AQwIDLu,gpt_neo_125m,3,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1083
+2079,AQwIDLu,gpt_neo_125m,4,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1100
+2144,AQwIDLu,gpt_neo_125m,5,0.4,20,reduce the load of data transfer across large distances,reduce data transfer across large distances,1118
+2210,AQwIDLu,gpt_neo_125m,6,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1136
+2277,AQwIDLu,gpt_neo_125m,7,0.4,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1155
+2345,AQwIDLu,gpt_neo_125m,8,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1176
+2414,AQwIDLu,gpt_neo_125m,9,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1194
+2484,AQwIDLu,gpt_neo_125m,10,0.4,20,reduce the load of data transfer across large distances,reduce user's dependency on information cues,1211
+2555,AQwIDLu,gpt_neo_125m,11,0.4,20,reduce the load of data transfer across large distances,Reduce the number of data transfer steps in a data transfer,1228
+2627,AQwIDLu,gpt_neo_125m,12,0.4,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1248
+2700,AQwIDLu,gpt_neo_125m,13,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1265
+2774,AQwIDLu,gpt_neo_125m,14,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1284
+2849,AQwIDLu,gpt_neo_125m,15,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1301
+2925,AQwIDLu,gpt_neo_125m,16,0.4,20,reduce the load of data transfer across large distances,Prevent object from getting into contact with unwanted substances,1319
+3002,AQwIDLu,gpt_neo_125m,17,0.4,20,reduce the load of data transfer across large distances,Prevent objects from getting into contact with unwanted substances,1336
+3080,AQwIDLu,gpt_neo_125m,18,0.4,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1353
+3159,AQwIDLu,gpt_neo_125m,19,0.4,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1370
+3239,AQwIDLu,gpt_neo_125m,20,0.4,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1388
+3320,AQwIDLu,gpt_neo_125m,1,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1405
+3402,AQwIDLu,gpt_neo_125m,2,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across a large distance,1423
+3485,AQwIDLu,gpt_neo_125m,3,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1441
+3569,AQwIDLu,gpt_neo_125m,4,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1460
+3654,AQwIDLu,gpt_neo_125m,5,0.5,20,reduce the load of data transfer across large distances,Increase the efficiency of data transfer,1478
+3740,AQwIDLu,gpt_neo_125m,6,0.5,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1495
+3827,AQwIDLu,gpt_neo_125m,7,0.5,20,reduce the load of data transfer across large distances,Reduce the size of data transfer to the smallest possible size,1512
+3915,AQwIDLu,gpt_neo_125m,8,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1529
+4004,AQwIDLu,gpt_neo_125m,9,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1575
+4094,AQwIDLu,gpt_neo_125m,10,0.5,20,reduce the load of data transfer across large distances,Reduce the data transfer in a network,1593
+4185,AQwIDLu,gpt_neo_125m,11,0.5,20,reduce the load of data transfer across large distances,Remove large data transfer from a small distance,1611
+4277,AQwIDLu,gpt_neo_125m,12,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1630
+4370,AQwIDLu,gpt_neo_125m,13,0.5,20,reduce the load of data transfer across large distances,Prevent object from getting into contact with unwanted substances,1650
+4464,AQwIDLu,gpt_neo_125m,14,0.5,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1670
+4559,AQwIDLu,gpt_neo_125m,15,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1692
+4655,AQwIDLu,gpt_neo_125m,16,0.5,20,reduce the load of data transfer across large distances,prevent data transfer from being carried on a network,1711
+4752,AQwIDLu,gpt_neo_125m,17,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1730
+4850,AQwIDLu,gpt_neo_125m,18,0.5,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1747
+4949,AQwIDLu,gpt_neo_125m,19,0.5,20,reduce the load of data transfer across large distances,Reduce the size of data transfer,1764
+5049,AQwIDLu,gpt_neo_125m,20,0.5,20,reduce the load of data transfer across large distances,reduce the load of data transfer across small distances,1782
+5150,AQwIDLu,gpt_neo_125m,1,0.6,20,reduce the load of data transfer across large distances,Reduce the transmission of power to a large area,1799
+5252,AQwIDLu,gpt_neo_125m,2,0.6,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1816
+5355,AQwIDLu,gpt_neo_125m,3,0.6,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1833
+5459,AQwIDLu,gpt_neo_125m,4,0.6,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1850
+5564,AQwIDLu,gpt_neo_125m,5,0.6,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,1867
+5670,AQwIDLu,gpt_neo_125m,6,0.6,20,reduce the load of data transfer across large distances,prevent the movement of a computer from being damaged by a,1884
+5777,AQwIDLu,gpt_neo_125m,7,0.6,20,reduce the load of data transfer across large distances,Reduce the number of data transfers,1902
+5885,AQwIDLu,gpt_neo_125m,8,0.6,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,1919
+5994,AQwIDLu,gpt_neo_125m,9,0.6,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across small distances,1936
+6104,AQwIDLu,gpt_neo_125m,10,0.6,20,reduce the load of data transfer across large distances,enable the data transfer to be made in a stable way,1953
+6215,AQwIDLu,gpt_neo_125m,11,0.6,20,reduce the load of data transfer across large distances,reduce user's dependence on information cues,1971
+6327,AQwIDLu,gpt_neo_125m,12,0.6,20,reduce the load of data transfer across large distances,Reduce the need for data transfer across large distances,1988
+6440,AQwIDLu,gpt_neo_125m,13,0.6,20,reduce the load of data transfer across large distances,reduce the time of data transfer,2006
+6554,AQwIDLu,gpt_neo_125m,14,0.6,20,reduce the load of data transfer across large distances,Reduce the number of data transfers,2023
+6669,AQwIDLu,gpt_neo_125m,15,0.6,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2040
+6785,AQwIDLu,gpt_neo_125m,16,0.6,20,reduce the load of data transfer across large distances,reduce the load of data transfer across small distances,2057
+6902,AQwIDLu,gpt_neo_125m,17,0.6,20,reduce the load of data transfer across large distances,Reduce the amount of data transferred to the network,2074
+7020,AQwIDLu,gpt_neo_125m,18,0.6,20,reduce the load of data transfer across large distances,reduce the probability of data loss,2091
+7139,AQwIDLu,gpt_neo_125m,19,0.6,20,reduce the load of data transfer across large distances,Reduce the volume of data transfer across large distances,2109
+7259,AQwIDLu,gpt_neo_125m,20,0.6,20,reduce the load of data transfer across large distances,Make a small change to the data transfer speed,2126
+7380,AQwIDLu,gpt_neo_125m,1,0.7,20,reduce the load of data transfer across large distances,protect object from penetration of foreign materials,2143
+7502,AQwIDLu,gpt_neo_125m,2,0.7,20,reduce the load of data transfer across large distances,Reduce the size of information for users,2160
+7625,AQwIDLu,gpt_neo_125m,3,0.7,20,reduce the load of data transfer across large distances,reduce the number of data transfers to the system,2177
+7749,AQwIDLu,gpt_neo_125m,4,0.7,20,reduce the load of data transfer across large distances,reduce the capacity of a data transfer channel,2195
+7874,AQwIDLu,gpt_neo_125m,5,0.7,20,reduce the load of data transfer across large distances,reduce user's dependence on information cues,2212
+8000,AQwIDLu,gpt_neo_125m,6,0.7,20,reduce the load of data transfer across large distances,reduce the load of data transfer across a large volume,2229
+8127,AQwIDLu,gpt_neo_125m,7,0.7,20,reduce the load of data transfer across large distances,reduce the load of data transfer across the boundary of the world (world plane) in the presence of a computer (world plane),2246
+8255,AQwIDLu,gpt_neo_125m,8,0.7,20,reduce the load of data transfer across large distances,Reduce the data transfer load across large distances,2263
+8384,AQwIDLu,gpt_neo_125m,9,0.7,20,reduce the load of data transfer across large distances,Decrease the speed of data transfers,2280
+8514,AQwIDLu,gpt_neo_125m,10,0.7,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2298
+8645,AQwIDLu,gpt_neo_125m,11,0.7,20,reduce the load of data transfer across large distances,prevent data transfer on a local scale,2315
+8777,AQwIDLu,gpt_neo_125m,12,0.7,20,reduce the load of data transfer across large distances,Reduce the amount of memory capacity at the memory nodes,2331
+8910,AQwIDLu,gpt_neo_125m,13,0.7,20,reduce the load of data transfer across large distances,Reduce the size of data transfer across large distances,2348
+9044,AQwIDLu,gpt_neo_125m,14,0.7,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2364
+9179,AQwIDLu,gpt_neo_125m,15,0.7,20,reduce the load of data transfer across large distances,reduce use of resources,2380
+9315,AQwIDLu,gpt_neo_125m,16,0.7,20,reduce the load of data transfer across large distances,Reduce the size and power of the communication network,2396
+9452,AQwIDLu,gpt_neo_125m,17,0.7,20,reduce the load of data transfer across large distances,reduce user's dependence on information cues,2412
+9590,AQwIDLu,gpt_neo_125m,18,0.7,20,reduce the load of data transfer across large distances,Reduce the number of messages,2565
+9729,AQwIDLu,gpt_neo_125m,19,0.7,20,reduce the load of data transfer across large distances,reduce the storage capacity of a storage device,2588
+9869,AQwIDLu,gpt_neo_125m,20,0.7,20,reduce the load of data transfer across large distances,Reduce power consumption of power devices,2605
+10010,AQwIDLu,gpt_neo_125m,1,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2623
+10152,AQwIDLu,gpt_neo_125m,2,0.8,20,reduce the load of data transfer across large distances,reduce the load of data transfer across small distances,2641
+10295,AQwIDLu,gpt_neo_125m,3,0.8,20,reduce the load of data transfer across large distances,Improve the reliability of data transfer across large distances,2662
+10439,AQwIDLu,gpt_neo_125m,4,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across small distances,2681
+10584,AQwIDLu,gpt_neo_125m,5,0.8,20,reduce the load of data transfer across large distances,Reduce data transfer across long distances,2704
+10730,AQwIDLu,gpt_neo_125m,6,0.8,20,reduce the load of data transfer across large distances,Stop object from getting into contact with unwanted substances,2722
+10877,AQwIDLu,gpt_neo_125m,7,0.8,20,reduce the load of data transfer across large distances,Reduce the bandwidth of data communication from small devices,2740
+11025,AQwIDLu,gpt_neo_125m,8,0.8,20,reduce the load of data transfer across large distances,reduce transfer power from large-scale devices,2758
+11174,AQwIDLu,gpt_neo_125m,9,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2776
+11324,AQwIDLu,gpt_neo_125m,10,0.8,20,reduce the load of data transfer across large distances,increase the flexibility of user's experience,2795
+11475,AQwIDLu,gpt_neo_125m,11,0.8,20,reduce the load of data transfer across large distances,Protect object from radiation,2814
+11627,AQwIDLu,gpt_neo_125m,12,0.8,20,reduce the load of data transfer across large distances,Prevent the need to load data into a memory,2834
+11780,AQwIDLu,gpt_neo_125m,13,0.8,20,reduce the load of data transfer across large distances,Protect object from the penetration of foreign substances,2855
+11934,AQwIDLu,gpt_neo_125m,14,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2874
+12089,AQwIDLu,gpt_neo_125m,15,0.8,20,reduce the load of data transfer across large distances,minimize the amount of data transferred across small distances,2895
+12245,AQwIDLu,gpt_neo_125m,16,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,2919
+12402,AQwIDLu,gpt_neo_125m,17,0.8,20,reduce the load of data transfer across large distances,Make house out of cooked spaghetti,2942
+12560,AQwIDLu,gpt_neo_125m,18,0.8,20,reduce the load of data transfer across large distances,Increase the density of data transferred per second,2964
+12719,AQwIDLu,gpt_neo_125m,19,0.8,20,reduce the load of data transfer across large distances,Reduce the load of data transfers across large distances,2986
+12879,AQwIDLu,gpt_neo_125m,20,0.8,20,reduce the load of data transfer across large distances,Prevent waste of data,3008
+13040,AQwIDLu,gpt_neo_125m,1,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,3030
+13202,AQwIDLu,gpt_neo_125m,2,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across small distances,3054
+13365,AQwIDLu,gpt_neo_125m,3,0.9,20,reduce the load of data transfer across large distances,Protect objects against the high loads of data transfer,3079
+13529,AQwIDLu,gpt_neo_125m,4,0.9,20,reduce the load of data transfer across large distances,Reduce the transmission of packets of data from a network host to a base station,3100
+13694,AQwIDLu,gpt_neo_125m,5,0.9,20,reduce the load of data transfer across large distances,prevent water from entering inside the object,3120
+13860,AQwIDLu,gpt_neo_125m,6,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,3140
+14027,AQwIDLu,gpt_neo_125m,7,0.9,20,reduce the load of data transfer across large distances,Reduce load of data transfer.,3159
+14195,AQwIDLu,gpt_neo_125m,8,0.9,20,reduce the load of data transfer across large distances,reduce the number of data transfers which one needs to conduct to obtain information,3179
+14364,AQwIDLu,gpt_neo_125m,9,0.9,20,reduce the load of data transfer across large distances,remove obstructions from the surface,3198
+14534,AQwIDLu,gpt_neo_125m,10,0.9,20,reduce the load of data transfer across large distances,Increase the rate of transfer of data from the source to the object,3218
+14705,AQwIDLu,gpt_neo_125m,11,0.9,20,reduce the load of data transfer across large distances,Reduce the energy consumption of the communication between host and user,3240
+14877,AQwIDLu,gpt_neo_125m,12,0.9,20,reduce the load of data transfer across large distances,Reduce the number of documents and data storage operations,3260
+15050,AQwIDLu,gpt_neo_125m,13,0.9,20,reduce the load of data transfer across large distances,protect object from the penetration of foreign materials,3280
+15224,AQwIDLu,gpt_neo_125m,14,0.9,20,reduce the load of data transfer across large distances,decrease the load of data transfer across large distances,3300
+15399,AQwIDLu,gpt_neo_125m,15,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across distant distances,3320
+15575,AQwIDLu,gpt_neo_125m,16,0.9,20,reduce the load of data transfer across large distances,Reduce a load to make room for object-related information,3341
+15752,AQwIDLu,gpt_neo_125m,17,0.9,20,reduce the load of data transfer across large distances,Prevent use of a remote server on the home,3360
+15930,AQwIDLu,gpt_neo_125m,18,0.9,20,reduce the load of data transfer across large distances,Protect items that are vulnerable to radiation,3378
+16109,AQwIDLu,gpt_neo_125m,19,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,3394
+16289,AQwIDLu,gpt_neo_125m,20,0.9,20,reduce the load of data transfer across large distances,Reduce usage of a power card in a power supply,3408
