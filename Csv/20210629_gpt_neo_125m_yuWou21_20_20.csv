@@ -1,0 +1,181 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+yuWou21,gpt_neo_125m,1,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for a long time,0
+yuWou21,gpt_neo_125m,2,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,383
+yuWou21,gpt_neo_125m,3,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer in a complex environment,400
+yuWou21,gpt_neo_125m,4,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a complex design,417
+yuWou21,gpt_neo_125m,5,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve problems,434
+yuWou21,gpt_neo_125m,6,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,452
+yuWou21,gpt_neo_125m,7,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve problems,469
+yuWou21,gpt_neo_125m,8,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the purpose of solving a problem,486
+yuWou21,gpt_neo_125m,9,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a complex design,504
+yuWou21,gpt_neo_125m,10,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve complex problems,522
+yuWou21,gpt_neo_125m,11,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve problems,539
+yuWou21,gpt_neo_125m,12,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve ethical problems,559
+yuWou21,gpt_neo_125m,13,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve complex problems,576
+yuWou21,gpt_neo_125m,14,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the purpose of solving a problem,594
+yuWou21,gpt_neo_125m,15,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the purpose of solving a problem,611
+yuWou21,gpt_neo_125m,16,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to design a complex system,630
+yuWou21,gpt_neo_125m,17,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve complex problems,648
+yuWou21,gpt_neo_125m,18,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the design of a computer,669
+yuWou21,gpt_neo_125m,19,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,689
+yuWou21,gpt_neo_125m,20,0.1,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the design,708
+yuWou21,gpt_neo_125m,1,0.2,20,reason about complex sociotechnical ethical consequences of design choices,Improve the sense of the ethical consequences of design choices,728
+yuWou21,gpt_neo_125m,2,0.2,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,746
+yuWou21,gpt_neo_125m,3,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,765
+yuWou21,gpt_neo_125m,4,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a complex design,784
+yuWou21,gpt_neo_125m,5,0.2,20,reason about complex sociotechnical ethical consequences of design choices,reduce the risk of a failure of a design,804
+yuWou21,gpt_neo_125m,6,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for a long time,823
+yuWou21,gpt_neo_125m,7,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of the wrong word in a design,847
+yuWou21,gpt_neo_125m,8,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve the ethical problems of design,871
+yuWou21,gpt_neo_125m,9,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence,892
+yuWou21,gpt_neo_125m,10,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve the ethical problems,914
+yuWou21,gpt_neo_125m,11,0.2,20,reason about complex sociotechnical ethical consequences of design choices,Improve the feel of a complicated motion or force,939
+yuWou21,gpt_neo_125m,12,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to design a complex system,966
+yuWou21,gpt_neo_125m,13,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve complex problems,997
+yuWou21,gpt_neo_125m,14,0.2,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1043
+yuWou21,gpt_neo_125m,15,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve ethical problems,1079
+yuWou21,gpt_neo_125m,16,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,1100
+yuWou21,gpt_neo_125m,17,0.2,20,reason about complex sociotechnical ethical consequences of design choices,Remove the need for a mechanical force,1124
+yuWou21,gpt_neo_125m,18,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,1145
+yuWou21,gpt_neo_125m,19,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer to solve a problem,1168
+yuWou21,gpt_neo_125m,20,0.2,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer in a complex environment,1189
+yuWou21,gpt_neo_125m,1,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer for the purpose of learning,1206
+yuWou21,gpt_neo_125m,2,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a simple mechanical device,1224
+yuWou21,gpt_neo_125m,3,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1242
+yuWou21,gpt_neo_125m,4,0.3,20,reason about complex sociotechnical ethical consequences of design choices,reduce the risk of environmental pollution,1260
+yuWou21,gpt_neo_125m,5,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Improve the user's dependence on information cues,1279
+yuWou21,gpt_neo_125m,6,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent children from getting into a room,1296
+yuWou21,gpt_neo_125m,7,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Remove the need for a human to be able to identify the elements of a complex design,1314
+yuWou21,gpt_neo_125m,8,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Remove the need for a computer to be connected to the power grid,1332
+yuWou21,gpt_neo_125m,9,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer in a controlled environment,1349
+yuWou21,gpt_neo_125m,10,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence,1366
+yuWou21,gpt_neo_125m,11,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence in the design of artificial intelligence,1384
+yuWou21,gpt_neo_125m,12,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence,1401
+yuWou21,gpt_neo_125m,13,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of high-frequency electromagnetic fields,1420
+yuWou21,gpt_neo_125m,14,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent waste of resources,1440
+yuWou21,gpt_neo_125m,15,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of complex designs,1460
+yuWou21,gpt_neo_125m,16,0.3,20,reason about complex sociotechnical ethical consequences of design choices,,1480
+yuWou21,gpt_neo_125m,17,0.3,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve ethical problems,1498
+yuWou21,gpt_neo_125m,18,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1517
+yuWou21,gpt_neo_125m,19,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1535
+yuWou21,gpt_neo_125m,20,0.3,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1552
+yuWou21,gpt_neo_125m,1,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1570
+yuWou21,gpt_neo_125m,2,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a complex design,1588
+yuWou21,gpt_neo_125m,3,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Prevent objects from getting into contact with other,1605
+yuWou21,gpt_neo_125m,4,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Prevent object from getting into contact with unwanted substances,1623
+yuWou21,gpt_neo_125m,5,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent waste from the production of a complex system,1642
+yuWou21,gpt_neo_125m,6,0.4,20,reason about complex sociotechnical ethical consequences of design choices,remove the need for a mechanical force,1661
+yuWou21,gpt_neo_125m,7,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Improve the feel of a complicated motion or force,1680
+yuWou21,gpt_neo_125m,8,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Remove unnecessary elements from a complex design,1702
+yuWou21,gpt_neo_125m,9,0.4,20,reason about complex sociotechnical ethical consequences of design choices,"Improve the sense of ""good"" in a complex system",1722
+yuWou21,gpt_neo_125m,10,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to solve complex ethical problems,1741
+yuWou21,gpt_neo_125m,11,0.4,20,reason about complex sociotechnical ethical consequences of design choices,protect object from radiation,1762
+yuWou21,gpt_neo_125m,12,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Improve the sense of responsibility for the ethical consequences of design choices,1783
+yuWou21,gpt_neo_125m,13,0.4,20,reason about complex sociotechnical ethical consequences of design choices,design choices for complex sociotechnical ethical consequences of design choices,1806
+yuWou21,gpt_neo_125m,14,0.4,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,1830
+yuWou21,gpt_neo_125m,15,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent use of a complex design,1851
+yuWou21,gpt_neo_125m,16,0.4,20,reason about complex sociotechnical ethical consequences of design choices,,1881
+yuWou21,gpt_neo_125m,17,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent object from getting into contact with unwanted substances,1901
+yuWou21,gpt_neo_125m,18,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of energy in the production of a complex design,1919
+yuWou21,gpt_neo_125m,19,0.4,20,reason about complex sociotechnical ethical consequences of design choices,create a complex system in which objects are ordered according to their size,1937
+yuWou21,gpt_neo_125m,20,0.4,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of a computer in a room with a computer,1957
+yuWou21,gpt_neo_125m,1,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Stop object from getting into contact with unwanted substances,1975
+yuWou21,gpt_neo_125m,2,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,1993
+yuWou21,gpt_neo_125m,3,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reduce the risk of wrong-doing,2011
+yuWou21,gpt_neo_125m,4,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from the penetration of foreign substances,2031
+yuWou21,gpt_neo_125m,5,0.5,20,reason about complex sociotechnical ethical consequences of design choices,provide a framework for the design of a design problem,2049
+yuWou21,gpt_neo_125m,6,0.5,20,reason about complex sociotechnical ethical consequences of design choices,create a new field of ethical conduct,2067
+yuWou21,gpt_neo_125m,7,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,2085
+yuWou21,gpt_neo_125m,8,0.5,20,reason about complex sociotechnical ethical consequences of design choices,implement a system of ethical consequences,2103
+yuWou21,gpt_neo_125m,9,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Improve the quality of an environment,2124
+yuWou21,gpt_neo_125m,10,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2145
+yuWou21,gpt_neo_125m,11,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Stop object from getting into contact with unwanted substances,2162
+yuWou21,gpt_neo_125m,12,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reduce user's dependency on information cues,2184
+yuWou21,gpt_neo_125m,13,0.5,20,reason about complex sociotechnical ethical consequences of design choices,solve the problem without using a solution description,2203
+yuWou21,gpt_neo_125m,14,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Reduce a user's dependency on information cues,2221
+yuWou21,gpt_neo_125m,15,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2240
+yuWou21,gpt_neo_125m,16,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Remove the object from the design,2262
+yuWou21,gpt_neo_125m,17,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Reduce the number of possible reasons that are used for design decisions,2283
+yuWou21,gpt_neo_125m,18,0.5,20,reason about complex sociotechnical ethical consequences of design choices,prevent object from getting into contact with unwanted substances,2302
+yuWou21,gpt_neo_125m,19,0.5,20,reason about complex sociotechnical ethical consequences of design choices,reduce the cost of a design choice,2321
+yuWou21,gpt_neo_125m,20,0.5,20,reason about complex sociotechnical ethical consequences of design choices,Remove objects from space,2339
+yuWou21,gpt_neo_125m,1,0.6,20,reason about complex sociotechnical ethical consequences of design choices,Remove the effect of a problem statement on the ethics of design choices,2359
+yuWou21,gpt_neo_125m,2,0.6,20,reason about complex sociotechnical ethical consequences of design choices,,2376
+yuWou21,gpt_neo_125m,3,0.6,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of complex technologies,2394
+yuWou21,gpt_neo_125m,4,0.6,20,reason about complex sociotechnical ethical consequences of design choices,prevent waste in the environment,2412
+yuWou21,gpt_neo_125m,5,0.6,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2430
+yuWou21,gpt_neo_125m,6,0.6,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2448
+yuWou21,gpt_neo_125m,7,0.6,20,reason about complex sociotechnical ethical consequences of design choices,limit the number of choices a designer can make,2466
+yuWou21,gpt_neo_125m,8,0.6,20,reason about complex sociotechnical ethical consequences of design choices,prevent a waste of money,2485
+yuWou21,gpt_neo_125m,9,0.6,20,reason about complex sociotechnical ethical consequences of design choices,Avoid the use of a computer to perform the task,2505
+yuWou21,gpt_neo_125m,10,0.6,20,reason about complex sociotechnical ethical consequences of design choices,stop object from getting into contact with unwanted substances,2529
+yuWou21,gpt_neo_125m,11,0.6,20,reason about complex sociotechnical ethical consequences of design choices,prevent the use of artificial intelligence to create the illusion of a human body,2548
+yuWou21,gpt_neo_125m,12,0.6,20,reason about complex sociotechnical ethical consequences of design choices,stop a car in a traffic accident,2565
+yuWou21,gpt_neo_125m,13,0.6,20,reason about complex sociotechnical ethical consequences of design choices,Make the goal of a simple design choice a reality,2583
+yuWou21,gpt_neo_125m,14,0.6,20,reason about complex sociotechnical ethical consequences of design choices,promote ethical behaviors,2602
+yuWou21,gpt_neo_125m,15,0.6,20,reason about complex sociotechnical ethical consequences of design choices,avoid conflicts between design and physics,2624
+yuWou21,gpt_neo_125m,16,0.6,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2643
+yuWou21,gpt_neo_125m,17,0.6,20,reason about complex sociotechnical ethical consequences of design choices,prevent the user from choosing between different rules or actions,2662
+yuWou21,gpt_neo_125m,18,0.6,20,reason about complex sociotechnical ethical consequences of design choices,reduce the complexity of the design choices,2680
+yuWou21,gpt_neo_125m,19,0.6,20,reason about complex sociotechnical ethical consequences of design choices,Determine the best possible solution for a given problem in an abstracted reformulation,2698
+yuWou21,gpt_neo_125m,20,0.6,20,reason about complex sociotechnical ethical consequences of design choices,Improve the sense of safety against human error,2716
+yuWou21,gpt_neo_125m,1,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Improve the user's trust in scientific knowledge,2735
+yuWou21,gpt_neo_125m,2,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,2753
+yuWou21,gpt_neo_125m,3,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Protect a device from the damage of environmental forces,2773
+yuWou21,gpt_neo_125m,4,0.7,20,reason about complex sociotechnical ethical consequences of design choices,design choice is an ethical responsibility,2792
+yuWou21,gpt_neo_125m,5,0.7,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2811
+yuWou21,gpt_neo_125m,6,0.7,20,reason about complex sociotechnical ethical consequences of design choices,improve the feel of a complicated motion or force,2834
+yuWou21,gpt_neo_125m,7,0.7,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2853
+yuWou21,gpt_neo_125m,8,0.7,20,reason about complex sociotechnical ethical consequences of design choices,A solution in the form of a rational design choice,2872
+yuWou21,gpt_neo_125m,9,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Protect the children of the parents,2891
+yuWou21,gpt_neo_125m,10,0.7,20,reason about complex sociotechnical ethical consequences of design choices,"create a plan for the design of the future, with a clear vision",2910
+yuWou21,gpt_neo_125m,11,0.7,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,2930
+yuWou21,gpt_neo_125m,12,0.7,20,reason about complex sociotechnical ethical consequences of design choices,improve the feel of a complicated motion or force,2949
+yuWou21,gpt_neo_125m,13,0.7,20,reason about complex sociotechnical ethical consequences of design choices,limit the range of potential human behavior and avoid the use of mechanical force,2968
+yuWou21,gpt_neo_125m,14,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Reduce user's dependence on information cues,2986
+yuWou21,gpt_neo_125m,15,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Determine the effect of design choice,3004
+yuWou21,gpt_neo_125m,16,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Remove obstacles from objects by mechanical force,3022
+yuWou21,gpt_neo_125m,17,0.7,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3040
+yuWou21,gpt_neo_125m,18,0.7,20,reason about complex sociotechnical ethical consequences of design choices,improve the sense of control over an object,3058
+yuWou21,gpt_neo_125m,19,0.7,20,reason about complex sociotechnical ethical consequences of design choices,cause and effect of many ethical consequences,3076
+yuWou21,gpt_neo_125m,20,0.7,20,reason about complex sociotechnical ethical consequences of design choices,Prevent water from getting into a water supply,3094
+yuWou21,gpt_neo_125m,1,0.8,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3113
+yuWou21,gpt_neo_125m,2,0.8,20,reason about complex sociotechnical ethical consequences of design choices,design decisions for artificial life,3131
+yuWou21,gpt_neo_125m,3,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Improve understanding of the most appropriate response to a design problem,3149
+yuWou21,gpt_neo_125m,4,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Make design decision to avoid adverse effects,3167
+yuWou21,gpt_neo_125m,5,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Provide a more natural environment,3185
+yuWou21,gpt_neo_125m,6,0.8,20,reason about complex sociotechnical ethical consequences of design choices,improve the feel of a complicated motion or force,3203
+yuWou21,gpt_neo_125m,7,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Stop object from getting into contact with unwanted substances,3222
+yuWou21,gpt_neo_125m,8,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Enable the existence of a neutral world in which every human is free,3240
+yuWou21,gpt_neo_125m,9,0.8,20,reason about complex sociotechnical ethical consequences of design choices,stop in the vicinity of a dangerous structure,3258
+yuWou21,gpt_neo_125m,10,0.8,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3276
+yuWou21,gpt_neo_125m,11,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Design decisions are the basis of ethical applications in sociology,3294
+yuWou21,gpt_neo_125m,12,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Define a problem statement to avoid the need to make a judgment on the design choice,3316
+yuWou21,gpt_neo_125m,13,0.8,20,reason about complex sociotechnical ethical consequences of design choices,prevent the development of the wrong thing from the wrong place,3335
+yuWou21,gpt_neo_125m,14,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Determine the right time for the design decision,3353
+yuWou21,gpt_neo_125m,15,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from the penetration of foreign substances,3371
+yuWou21,gpt_neo_125m,16,0.8,20,reason about complex sociotechnical ethical consequences of design choices,cause a conflict of principles to lead to the design choices,3388
+yuWou21,gpt_neo_125m,17,0.8,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3406
+yuWou21,gpt_neo_125m,18,0.8,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3424
+yuWou21,gpt_neo_125m,19,0.8,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from radiation,3442
+yuWou21,gpt_neo_125m,20,0.8,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3464
+yuWou21,gpt_neo_125m,1,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Protect vulnerable object from radiation,3484
+yuWou21,gpt_neo_125m,2,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3504
+yuWou21,gpt_neo_125m,3,0.9,20,reason about complex sociotechnical ethical consequences of design choices,The effect of changing a design choice,3524
+yuWou21,gpt_neo_125m,4,0.9,20,reason about complex sociotechnical ethical consequences of design choices,The consequences of design choices are due to the effects of the design.,3544
+yuWou21,gpt_neo_125m,5,0.9,20,reason about complex sociotechnical ethical consequences of design choices,protect object from danger,3565
+yuWou21,gpt_neo_125m,6,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3584
+yuWou21,gpt_neo_125m,7,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Reduce user's dependency on information cues,3602
+yuWou21,gpt_neo_125m,8,0.9,20,reason about complex sociotechnical ethical consequences of design choices,develop a simple social-moral behavior for a smart baby,3620
+yuWou21,gpt_neo_125m,9,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Provide a new concept of safety,3639
+yuWou21,gpt_neo_125m,10,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3657
+yuWou21,gpt_neo_125m,11,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Protect a small object by making it lighter,3676
+yuWou21,gpt_neo_125m,12,0.9,20,reason about complex sociotechnical ethical consequences of design choices,correct the behavior of complex social systems,3694
+yuWou21,gpt_neo_125m,13,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Protect object from environmental conditions,3712
+yuWou21,gpt_neo_125m,14,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,3730
+yuWou21,gpt_neo_125m,15,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Enable particles to flow in confined geometries,3749
+yuWou21,gpt_neo_125m,16,0.9,20,reason about complex sociotechnical ethical consequences of design choices,A new approach to ethical design,3767
+yuWou21,gpt_neo_125m,17,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Use animal welfare principles to guide action,3787
+yuWou21,gpt_neo_125m,18,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Provide a general set of ethical principles by design-based ethics,3806
+yuWou21,gpt_neo_125m,19,0.9,20,reason about complex sociotechnical ethical consequences of design choices,create a structure from elastic elements,3827
+yuWou21,gpt_neo_125m,20,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Protect children from the fear of a hostile environment,3848

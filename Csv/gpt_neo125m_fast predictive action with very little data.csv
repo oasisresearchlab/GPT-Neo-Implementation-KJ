@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,y013toE,gpt_neo_125m,1,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,0
+2,y013toE,gpt_neo_125m,2,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,409
+5,y013toE,gpt_neo_125m,3,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,427
+9,y013toE,gpt_neo_125m,4,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,445
+14,y013toE,gpt_neo_125m,5,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,463
+20,y013toE,gpt_neo_125m,6,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,481
+27,y013toE,gpt_neo_125m,7,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,499
+35,y013toE,gpt_neo_125m,8,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,518
+44,y013toE,gpt_neo_125m,9,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,536
+54,y013toE,gpt_neo_125m,10,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,555
+65,y013toE,gpt_neo_125m,11,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,574
+77,y013toE,gpt_neo_125m,12,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,593
+90,y013toE,gpt_neo_125m,13,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,612
+104,y013toE,gpt_neo_125m,14,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,629
+119,y013toE,gpt_neo_125m,15,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,649
+135,y013toE,gpt_neo_125m,16,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,669
+152,y013toE,gpt_neo_125m,17,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,690
+170,y013toE,gpt_neo_125m,18,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,710
+189,y013toE,gpt_neo_125m,19,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,731
+209,y013toE,gpt_neo_125m,20,0.1,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,751
+230,y013toE,gpt_neo_125m,1,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,771
+252,y013toE,gpt_neo_125m,2,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,790
+275,y013toE,gpt_neo_125m,3,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,811
+299,y013toE,gpt_neo_125m,4,0.2,20,fast predictive action with very little data,Improve the perception of a complex motion,832
+324,y013toE,gpt_neo_125m,5,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,852
+350,y013toE,gpt_neo_125m,6,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,878
+377,y013toE,gpt_neo_125m,7,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,902
+405,y013toE,gpt_neo_125m,8,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,924
+434,y013toE,gpt_neo_125m,9,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,949
+464,y013toE,gpt_neo_125m,10,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,977
+495,y013toE,gpt_neo_125m,11,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1009
+527,y013toE,gpt_neo_125m,12,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1049
+560,y013toE,gpt_neo_125m,13,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1092
+594,y013toE,gpt_neo_125m,14,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1122
+629,y013toE,gpt_neo_125m,15,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1143
+665,y013toE,gpt_neo_125m,16,0.2,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,1166
+702,y013toE,gpt_neo_125m,17,0.2,20,fast predictive action with very little data,Improve the accuracy of the action,1190
+740,y013toE,gpt_neo_125m,18,0.2,20,fast predictive action with very little data,Reduce the number of steps required to predict the behavior of a system,1212
+779,y013toE,gpt_neo_125m,19,0.2,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1230
+819,y013toE,gpt_neo_125m,20,0.2,20,fast predictive action with very little data,Improve the accuracy of the action,1249
+860,y013toE,gpt_neo_125m,1,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1268
+902,y013toE,gpt_neo_125m,2,0.3,20,fast predictive action with very little data,Protect sensitive objects from radiation,1287
+945,y013toE,gpt_neo_125m,3,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1306
+989,y013toE,gpt_neo_125m,4,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1325
+1034,y013toE,gpt_neo_125m,5,0.3,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,1344
+1080,y013toE,gpt_neo_125m,6,0.3,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,1362
+1127,y013toE,gpt_neo_125m,7,0.3,20,fast predictive action with very little data,Improve the accuracy of action,1380
+1175,y013toE,gpt_neo_125m,8,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1398
+1224,y013toE,gpt_neo_125m,9,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1416
+1274,y013toE,gpt_neo_125m,10,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1435
+1325,y013toE,gpt_neo_125m,11,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1456
+1377,y013toE,gpt_neo_125m,12,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1477
+1430,y013toE,gpt_neo_125m,13,0.3,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,1497
+1484,y013toE,gpt_neo_125m,14,0.3,20,fast predictive action with very little data,Improve the accuracy of the action,1517
+1539,y013toE,gpt_neo_125m,15,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1535
+1595,y013toE,gpt_neo_125m,16,0.3,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,1556
+1652,y013toE,gpt_neo_125m,17,0.3,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1574
+1710,y013toE,gpt_neo_125m,18,0.3,20,fast predictive action with very little data,Improve the accuracy of action,1593
+1769,y013toE,gpt_neo_125m,19,0.3,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,1611
+1829,y013toE,gpt_neo_125m,20,0.3,20,fast predictive action with very little data,Protect object from radiation,1629
+1890,y013toE,gpt_neo_125m,1,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1648
+1952,y013toE,gpt_neo_125m,2,0.4,20,fast predictive action with very little data,Stop object from getting into contact with unwanted substances,1666
+2015,y013toE,gpt_neo_125m,3,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1687
+2079,y013toE,gpt_neo_125m,4,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1708
+2144,y013toE,gpt_neo_125m,5,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1731
+2210,y013toE,gpt_neo_125m,6,0.4,20,fast predictive action with very little data,prevent objects from being damaged by the impact of force,1751
+2277,y013toE,gpt_neo_125m,7,0.4,20,fast predictive action with very little data,fast predictive action with very little data,1773
+2345,y013toE,gpt_neo_125m,8,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,1794
+2414,y013toE,gpt_neo_125m,9,0.4,20,fast predictive action with very little data,Protect object from radiation,1816
+2484,y013toE,gpt_neo_125m,10,0.4,20,fast predictive action with very little data,reduce the number of data points,1840
+2555,y013toE,gpt_neo_125m,11,0.4,20,fast predictive action with very little data,reduce the amount of information that can be used to predict the behavior of a system,1864
+2627,y013toE,gpt_neo_125m,12,0.4,20,fast predictive action with very little data,Improve the perception of a complex motion or force,1894
+2700,y013toE,gpt_neo_125m,13,0.4,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,1919
+2774,y013toE,gpt_neo_125m,14,0.4,20,fast predictive action with very little data,Protect object from radiation,1939
+2849,y013toE,gpt_neo_125m,15,0.4,20,fast predictive action with very little data,Improve the perception of a complex motion,1957
+2925,y013toE,gpt_neo_125m,16,0.4,20,fast predictive action with very little data,reduce the number of steps,1978
+3002,y013toE,gpt_neo_125m,17,0.4,20,fast predictive action with very little data,Start with object and proceed with action,1997
+3080,y013toE,gpt_neo_125m,18,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2016
+3159,y013toE,gpt_neo_125m,19,0.4,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2035
+3239,y013toE,gpt_neo_125m,20,0.4,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,2055
+3320,y013toE,gpt_neo_125m,1,0.5,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,2074
+3402,y013toE,gpt_neo_125m,2,0.5,20,fast predictive action with very little data,Reduce the number of possible actions,2093
+3485,y013toE,gpt_neo_125m,3,0.5,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,2112
+3569,y013toE,gpt_neo_125m,4,0.5,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2130
+3654,y013toE,gpt_neo_125m,5,0.5,20,fast predictive action with very little data,Improve the sense of smell,2152
+3740,y013toE,gpt_neo_125m,6,0.5,20,fast predictive action with very little data,fast predictive action with very little data,2174
+3827,y013toE,gpt_neo_125m,7,0.5,20,fast predictive action with very little data,Use visual search to find out what is happening,2192
+3915,y013toE,gpt_neo_125m,8,0.5,20,fast predictive action with very little data,Improve the accuracy of the action,2214
+4004,y013toE,gpt_neo_125m,9,0.5,20,fast predictive action with very little data,Increase the predictive power of the action,2234
+4094,y013toE,gpt_neo_125m,10,0.5,20,fast predictive action with very little data,prevent objects from getting into contact with unwanted substances,2253
+4185,y013toE,gpt_neo_125m,11,0.5,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2275
+4277,y013toE,gpt_neo_125m,12,0.5,20,fast predictive action with very little data,stop object from getting into contact with unwanted substances,2296
+4370,y013toE,gpt_neo_125m,13,0.5,20,fast predictive action with very little data,Create a space in which objects can be moved in a certain way,2318
+4464,y013toE,gpt_neo_125m,14,0.5,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2339
+4559,y013toE,gpt_neo_125m,15,0.5,20,fast predictive action with very little data,Reduce the number of objects in a room,2357
+4655,y013toE,gpt_neo_125m,16,0.5,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,2377
+4752,y013toE,gpt_neo_125m,17,0.5,20,fast predictive action with very little data,Reduce the number of objects in a room,2396
+4850,y013toE,gpt_neo_125m,18,0.5,20,fast predictive action with very little data,Reduce the number of objects in a scene,2415
+4949,y013toE,gpt_neo_125m,19,0.5,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,2433
+5049,y013toE,gpt_neo_125m,20,0.5,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,2452
+5150,y013toE,gpt_neo_125m,1,0.6,20,fast predictive action with very little data,stop object from getting into contact with unwanted substances,2471
+5252,y013toE,gpt_neo_125m,2,0.6,20,fast predictive action with very little data,Reduce the number of objects in a computer,2490
+5355,y013toE,gpt_neo_125m,3,0.6,20,fast predictive action with very little data,Improve the feel of a complicated motion or force,2510
+5459,y013toE,gpt_neo_125m,4,0.6,20,fast predictive action with very little data,improve the user's reliance on information cues,2531
+5564,y013toE,gpt_neo_125m,5,0.6,20,fast predictive action with very little data,Improve the accuracy of a prediction,2555
+5670,y013toE,gpt_neo_125m,6,0.6,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,2575
+5777,y013toE,gpt_neo_125m,7,0.6,20,fast predictive action with very little data,improve the sense of motion,2594
+5885,y013toE,gpt_neo_125m,8,0.6,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,2613
+5994,y013toE,gpt_neo_125m,9,0.6,20,fast predictive action with very little data,speed up the action of a sensor,2631
+6104,y013toE,gpt_neo_125m,10,0.6,20,fast predictive action with very little data,prevent waste of energy,2654
+6215,y013toE,gpt_neo_125m,11,0.6,20,fast predictive action with very little data,Protect vulnerable object from radiation,2675
+6327,y013toE,gpt_neo_125m,12,0.6,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2695
+6440,y013toE,gpt_neo_125m,13,0.6,20,fast predictive action with very little data,Prevent the body from getting into contact with a fluid,2713
+6554,y013toE,gpt_neo_125m,14,0.6,20,fast predictive action with very little data,Reduce the time required for a robot to make contact with an object,2732
+6669,y013toE,gpt_neo_125m,15,0.6,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,2751
+6785,y013toE,gpt_neo_125m,16,0.6,20,fast predictive action with very little data,reduce the rate of motion in a robot,2770
+6902,y013toE,gpt_neo_125m,17,0.6,20,fast predictive action with very little data,fast predictive action with very little data,2790
+7020,y013toE,gpt_neo_125m,18,0.6,20,fast predictive action with very little data,"reduce the need to perform a series of operations, such as checking if a line has a curved shape",2810
+7139,y013toE,gpt_neo_125m,19,0.6,20,fast predictive action with very little data,Reduce the number of actions for a given action,2830
+7259,y013toE,gpt_neo_125m,20,0.6,20,fast predictive action with very little data,Prevent the movement of a device in a confined environment,2852
+7380,y013toE,gpt_neo_125m,1,0.7,20,fast predictive action with very little data,Start with a simple solution,2875
+7502,y013toE,gpt_neo_125m,2,0.7,20,fast predictive action with very little data,Detecting water in the presence of particles,2894
+7625,y013toE,gpt_neo_125m,3,0.7,20,fast predictive action with very little data,Make a small object with a small probability of being detected,2914
+7749,y013toE,gpt_neo_125m,4,0.7,20,fast predictive action with very little data,increase the accuracy of the predicted action,2933
+7874,y013toE,gpt_neo_125m,5,0.7,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,2954
+8000,y013toE,gpt_neo_125m,6,0.7,20,fast predictive action with very little data,reduce human error rate in the field,2975
+8127,y013toE,gpt_neo_125m,7,0.7,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,2994
+8255,y013toE,gpt_neo_125m,8,0.7,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,3013
+8384,y013toE,gpt_neo_125m,9,0.7,20,fast predictive action with very little data,Protect object from radiation,3032
+8514,y013toE,gpt_neo_125m,10,0.7,20,fast predictive action with very little data,Increase precision of the action,3051
+8645,y013toE,gpt_neo_125m,11,0.7,20,fast predictive action with very little data,Reduce the number of elements in a robot's robot arm,3070
+8777,y013toE,gpt_neo_125m,12,0.7,20,fast predictive action with very little data,Prevent object from changing direction,3089
+8910,y013toE,gpt_neo_125m,13,0.7,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,3108
+9044,y013toE,gpt_neo_125m,14,0.7,20,fast predictive action with very little data,Enable data to be collected to help the human body,3127
+9179,y013toE,gpt_neo_125m,15,0.7,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,3146
+9315,y013toE,gpt_neo_125m,16,0.7,20,fast predictive action with very little data,Prevent objects from getting into contact with unwanted substances,3164
+9452,y013toE,gpt_neo_125m,17,0.7,20,fast predictive action with very little data,Protect object from radiation,3183
+9590,y013toE,gpt_neo_125m,18,0.7,20,fast predictive action with very little data,enable a brushless brushless head,3202
+9729,y013toE,gpt_neo_125m,19,0.7,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,3221
+9869,y013toE,gpt_neo_125m,20,0.7,20,fast predictive action with very little data,Use a predictive model to predict the movements of objects,3240
+10010,y013toE,gpt_neo_125m,1,0.8,20,fast predictive action with very little data,Prevent objects from being exposed,3260
+10152,y013toE,gpt_neo_125m,2,0.8,20,fast predictive action with very little data,decrease the time a small object will move across the screen,3278
+10295,y013toE,gpt_neo_125m,3,0.8,20,fast predictive action with very little data,Create a fast action to reduce the likelihood of injury,3297
+10439,y013toE,gpt_neo_125m,4,0.8,20,fast predictive action with very little data,prevent all objects from moving around,3316
+10584,y013toE,gpt_neo_125m,5,0.8,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,3337
+10730,y013toE,gpt_neo_125m,6,0.8,20,fast predictive action with very little data,Prevent moving object from falling into water,3358
+10877,y013toE,gpt_neo_125m,7,0.8,20,fast predictive action with very little data,Speed the process of an application,3377
+11025,y013toE,gpt_neo_125m,8,0.8,20,fast predictive action with very little data,Protect object from UV radiation,3395
+11174,y013toE,gpt_neo_125m,9,0.8,20,fast predictive action with very little data,avoid the need to wait for a break,3414
+11324,y013toE,gpt_neo_125m,10,0.8,20,fast predictive action with very little data,Protect object from radiation,3432
+11475,y013toE,gpt_neo_125m,11,0.8,20,fast predictive action with very little data,Prevent object from getting in contact with unwanted substances,3451
+11627,y013toE,gpt_neo_125m,12,0.8,20,fast predictive action with very little data,prevent objects from getting into contact with their surroundings,3470
+11780,y013toE,gpt_neo_125m,13,0.8,20,fast predictive action with very little data,,3493
+11934,y013toE,gpt_neo_125m,14,0.8,20,fast predictive action with very little data,prevent blood clotting in stents,3515
+12089,y013toE,gpt_neo_125m,15,0.8,20,fast predictive action with very little data,Enable objects of different masses,3535
+12245,y013toE,gpt_neo_125m,16,0.8,20,fast predictive action with very little data,fast predictive action with very little data,3556
+12402,y013toE,gpt_neo_125m,17,0.8,20,fast predictive action with very little data,fast predictive action with very little data,3579
+12560,y013toE,gpt_neo_125m,18,0.8,20,fast predictive action with very little data,stop movement of object from a contact point,3600
+12719,y013toE,gpt_neo_125m,19,0.8,20,fast predictive action with very little data,Prevent children from getting into trouble with external stimuli,3619
+12879,y013toE,gpt_neo_125m,20,0.8,20,fast predictive action with very little data,Enable a ball to control ball movement,3638
+13040,y013toE,gpt_neo_125m,1,0.9,20,fast predictive action with very little data,Reduce the energy consumption of objects by fast time scale analysis,3657
+13202,y013toE,gpt_neo_125m,2,0.9,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,3676
+13365,y013toE,gpt_neo_125m,3,0.9,20,fast predictive action with very little data,Protect object from contact with unwanted substances,3696
+13529,y013toE,gpt_neo_125m,4,0.9,20,fast predictive action with very little data,Determine object shape and direction with the help of the computer simulation,3715
+13694,y013toE,gpt_neo_125m,5,0.9,20,fast predictive action with very little data,fast predictive action with very little data,3722
+13860,y013toE,gpt_neo_125m,6,0.9,20,fast predictive action with very little data,Improve the feel of the device,3740
+14027,y013toE,gpt_neo_125m,7,0.9,20,fast predictive action with very little data,Reduce the number of time taken to collect data,3760
+14195,y013toE,gpt_neo_125m,8,0.9,20,fast predictive action with very little data,prevent distance measurement in real time,3779
+14364,y013toE,gpt_neo_125m,9,0.9,20,fast predictive action with very little data,Reduce potential energy of a device in a low-power environment,3798
+14534,y013toE,gpt_neo_125m,10,0.9,20,fast predictive action with very little data,Stop object from getting into contact with unwanted substances,3819
+14705,y013toE,gpt_neo_125m,11,0.9,20,fast predictive action with very little data,Prevent object from getting into contact with unwanted substances,3839
+14877,y013toE,gpt_neo_125m,12,0.9,20,fast predictive action with very little data,stop object from getting into contact with unwanted substances,3860
+15050,y013toE,gpt_neo_125m,13,0.9,20,fast predictive action with very little data,remove waste at the interface,3884
+15224,y013toE,gpt_neo_125m,14,0.9,20,fast predictive action with very little data,Reduce the time spent in the course of motion,3905
+15399,y013toE,gpt_neo_125m,15,0.9,20,fast predictive action with very little data,fast predictive action with very little data,3922
+15575,y013toE,gpt_neo_125m,16,0.9,20,fast predictive action with very little data,prevent object from getting into contact with unwanted substances,3938
+15752,y013toE,gpt_neo_125m,17,0.9,20,fast predictive action with very little data,Reduce risk factor if object is damaged,3956
+15930,y013toE,gpt_neo_125m,18,0.9,20,fast predictive action with very little data,Protect critical object from exposure to UV radiation,3974
+16109,y013toE,gpt_neo_125m,19,0.9,20,fast predictive action with very little data,fast predictive action with very little data,3993
+16289,y013toE,gpt_neo_125m,20,0.9,20,fast predictive action with very little data,Prevent the object from getting into contact with surfaces with high viscosity,4011
