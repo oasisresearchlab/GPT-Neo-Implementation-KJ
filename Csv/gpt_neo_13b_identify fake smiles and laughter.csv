@@ -1,0 +1,81 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,rqZMwbS,gpt_neo_13b,1,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughs,0
+2,rqZMwbS,gpt_neo_13b,2,0.6,20,identify fake smiles and laughter,Identify smiles and laughter using facial features,47
+5,rqZMwbS,gpt_neo_13b,3,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,91
+9,rqZMwbS,gpt_neo_13b,4,0.6,20,identify fake smiles and laughter,Identify objects that are not human and identify the cause,133
+14,rqZMwbS,gpt_neo_13b,5,0.6,20,identify fake smiles and laughter,Identify faces from the environment,177
+20,rqZMwbS,gpt_neo_13b,6,0.6,20,identify fake smiles and laughter,Identify faces in a crowd,221
+27,rqZMwbS,gpt_neo_13b,7,0.6,20,identify fake smiles and laughter,Identify objects that are fake,263
+35,rqZMwbS,gpt_neo_13b,8,0.6,20,identify fake smiles and laughter,identify fake emotions,307
+44,rqZMwbS,gpt_neo_13b,9,0.6,20,identify fake smiles and laughter,Identify and prevent fake smiles and laughter,350
+54,rqZMwbS,gpt_neo_13b,10,0.6,20,identify fake smiles and laughter,Determine the cause of a smile or laughter,393
+65,rqZMwbS,gpt_neo_13b,11,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,437
+77,rqZMwbS,gpt_neo_13b,12,0.6,20,identify fake smiles and laughter,Identify object's natural appearance,480
+90,rqZMwbS,gpt_neo_13b,13,0.6,20,identify fake smiles and laughter,Identify fake expression that may be used for advertising purposes,523
+104,rqZMwbS,gpt_neo_13b,14,0.6,20,identify fake smiles and laughter,Identify objects from photographs,567
+119,rqZMwbS,gpt_neo_13b,15,0.6,20,identify fake smiles and laughter,Identify faces that appear fake,609
+135,rqZMwbS,gpt_neo_13b,16,0.6,20,identify fake smiles and laughter,Identify fake facial expressions from the surrounding environment,653
+152,rqZMwbS,gpt_neo_13b,17,0.6,20,identify fake smiles and laughter,Identify facial expressions that signal sadness or anger,696
+170,rqZMwbS,gpt_neo_13b,18,0.6,20,identify fake smiles and laughter,Identify and avoid false smiles and laughter,738
+189,rqZMwbS,gpt_neo_13b,19,0.6,20,identify fake smiles and laughter,Identify and remove fake smiles and laughter,785
+209,rqZMwbS,gpt_neo_13b,20,0.6,20,identify fake smiles and laughter,Identify fake smiles and laughter,832
+230,rqZMwbS,gpt_neo_13b,1,0.7,20,identify fake smiles and laughter,Identify false emotions in a person,875
+252,rqZMwbS,gpt_neo_13b,2,0.7,20,identify fake smiles and laughter,Identify an unpleasant emotion,919
+275,rqZMwbS,gpt_neo_13b,3,0.7,20,identify fake smiles and laughter,identify people as they really are,962
+299,rqZMwbS,gpt_neo_13b,4,0.7,20,identify fake smiles and laughter,Identify faces and emotions of people,1005
+324,rqZMwbS,gpt_neo_13b,5,0.7,20,identify fake smiles and laughter,Identify smiles and laughter in an unconstrained environment,1053
+350,rqZMwbS,gpt_neo_13b,6,0.7,20,identify fake smiles and laughter,Identify facial expressions,1104
+377,rqZMwbS,gpt_neo_13b,7,0.7,20,identify fake smiles and laughter,Identify facial expressions that are not authentic,1148
+405,rqZMwbS,gpt_neo_13b,8,0.7,20,identify fake smiles and laughter,Identify fake smiles and laughter,1191
+434,rqZMwbS,gpt_neo_13b,9,0.7,20,identify fake smiles and laughter,Identify the type of smiles and laughter,1234
+464,rqZMwbS,gpt_neo_13b,10,0.7,20,identify fake smiles and laughter,Identify faces in photos,1277
+495,rqZMwbS,gpt_neo_13b,11,0.7,20,identify fake smiles and laughter,identify unwanted body movements,1321
+527,rqZMwbS,gpt_neo_13b,12,0.7,20,identify fake smiles and laughter,Identify fake smiles and laughter caused by artificial stimuli,1370
+560,rqZMwbS,gpt_neo_13b,13,0.7,20,identify fake smiles and laughter,identify emotional expressions,1414
+594,rqZMwbS,gpt_neo_13b,14,0.7,20,identify fake smiles and laughter,Identify fake expressions of emotion in videos,1456
+629,rqZMwbS,gpt_neo_13b,15,0.7,20,identify fake smiles and laughter,Identify social signals for facial expressions,1499
+665,rqZMwbS,gpt_neo_13b,16,0.7,20,identify fake smiles and laughter,Identify fake smiles and laughter,1543
+702,rqZMwbS,gpt_neo_13b,17,0.7,20,identify fake smiles and laughter,Identify and distinguish different types of facial expressions,1588
+740,rqZMwbS,gpt_neo_13b,18,0.7,20,identify fake smiles and laughter,Identify and prevent laughter in a video,1633
+779,rqZMwbS,gpt_neo_13b,19,0.7,20,identify fake smiles and laughter,Identify and differentiate fake smiles and laughter,1677
+819,rqZMwbS,gpt_neo_13b,20,0.7,20,identify fake smiles and laughter,identify the cause of a smile in a video,1720
+860,rqZMwbS,gpt_neo_13b,1,0.8,20,identify fake smiles and laughter,Automatically identify the presence of fake smiles and laughter,1764
+902,rqZMwbS,gpt_neo_13b,2,0.8,20,identify fake smiles and laughter,identify fake expressions and gestures,1806
+945,rqZMwbS,gpt_neo_13b,3,0.8,20,identify fake smiles and laughter,identify objects as fake or real (not necessarily recognizable),1855
+989,rqZMwbS,gpt_neo_13b,4,0.8,20,identify fake smiles and laughter,Understand human behavior,1903
+1034,rqZMwbS,gpt_neo_13b,5,0.8,20,identify fake smiles and laughter,Prevent a person from being deceived,1945
+1080,rqZMwbS,gpt_neo_13b,6,0.8,20,identify fake smiles and laughter,Identify facial expressions that indicate feelings,1989
+1127,rqZMwbS,gpt_neo_13b,7,0.8,20,identify fake smiles and laughter,Recognize and remove laughter from a video,2032
+1175,rqZMwbS,gpt_neo_13b,8,0.8,20,identify fake smiles and laughter,identify fake actions in virtual reality,2075
+1224,rqZMwbS,gpt_neo_13b,9,0.8,20,identify fake smiles and laughter,identify patterns in facial expressions,2121
+1274,rqZMwbS,gpt_neo_13b,10,0.8,20,identify fake smiles and laughter,identify the causes of a smile and laugh,2163
+1325,rqZMwbS,gpt_neo_13b,11,0.8,20,identify fake smiles and laughter,Identify the emotional state of individuals,2206
+1377,rqZMwbS,gpt_neo_13b,12,0.8,20,identify fake smiles and laughter,Identify unnatural movements of facial expressions,2250
+1430,rqZMwbS,gpt_neo_13b,13,0.8,20,identify fake smiles and laughter,detect smiles or laughs in images,2292
+1484,rqZMwbS,gpt_neo_13b,14,0.8,20,identify fake smiles and laughter,Identify and correct fake smiles and laughter,2336
+1539,rqZMwbS,gpt_neo_13b,15,0.8,20,identify fake smiles and laughter,Identify when a facial expression is fake,2387
+1595,rqZMwbS,gpt_neo_13b,16,0.8,20,identify fake smiles and laughter,Identify objects that cause embarrassment,2432
+1652,rqZMwbS,gpt_neo_13b,17,0.8,20,identify fake smiles and laughter,Identify objects that deceive,2476
+1710,rqZMwbS,gpt_neo_13b,18,0.8,20,identify fake smiles and laughter,Identify fake objects to identify the smile or laughing,2519
+1769,rqZMwbS,gpt_neo_13b,19,0.8,20,identify fake smiles and laughter,Identify objects in a scene as fake or not,2563
+1829,rqZMwbS,gpt_neo_13b,20,0.8,20,identify fake smiles and laughter,Recognize and stop jokes,2606
+1890,rqZMwbS,gpt_neo_13b,1,0.9,20,identify fake smiles and laughter,identify objects which fake smiles and laughter in videos,2649
+1952,rqZMwbS,gpt_neo_13b,2,0.9,20,identify fake smiles and laughter,Identify expressions and body language that indicate negative feelings,2692
+2015,rqZMwbS,gpt_neo_13b,3,0.9,20,identify fake smiles and laughter,Identify objects that are fabricated to appear real,2736
+2079,rqZMwbS,gpt_neo_13b,4,0.9,20,identify fake smiles and laughter,Identifying fake smiles,2778
+2144,rqZMwbS,gpt_neo_13b,5,0.9,20,identify fake smiles and laughter,Identify whether a person is happy or sad,2822
+2210,rqZMwbS,gpt_neo_13b,6,0.9,20,identify fake smiles and laughter,verify that faces in images look natural,2866
+2277,rqZMwbS,gpt_neo_13b,7,0.9,20,identify fake smiles and laughter,Determine presence of a smile and whether it is friendly or not,2908
+2345,rqZMwbS,gpt_neo_13b,8,0.9,20,identify fake smiles and laughter,Identify counterfeit expressions,2952
+2414,rqZMwbS,gpt_neo_13b,9,0.9,20,identify fake smiles and laughter,Identify the source of fake smiles and laughter,2995
+2484,rqZMwbS,gpt_neo_13b,10,0.9,20,identify fake smiles and laughter,,3038
+2555,rqZMwbS,gpt_neo_13b,11,0.9,20,identify fake smiles and laughter,Identify people who appear to display emotion,3045
+2627,rqZMwbS,gpt_neo_13b,12,0.9,20,identify fake smiles and laughter,Identify common facial expressions from multiple speakers,3089
+2700,rqZMwbS,gpt_neo_13b,13,0.9,20,identify fake smiles and laughter,"identify the source of such expressions, whether natural or unnatural",3137
+2774,rqZMwbS,gpt_neo_13b,14,0.9,20,identify fake smiles and laughter,Identify objects in an image,3182
+2849,rqZMwbS,gpt_neo_13b,15,0.9,20,identify fake smiles and laughter,Identify smiles and gestures of people behind virtual screens,3226
+2925,rqZMwbS,gpt_neo_13b,16,0.9,20,identify fake smiles and laughter,identify fake expressions that have been altered,3268
+3002,rqZMwbS,gpt_neo_13b,17,0.9,20,identify fake smiles and laughter,recognize smiles and laughter as genuine emotions in video,3312
+3080,rqZMwbS,gpt_neo_13b,18,0.9,20,identify fake smiles and laughter,Identify objects that can harm others,3356
+3159,rqZMwbS,gpt_neo_13b,19,0.9,20,identify fake smiles and laughter,create accurate and meaningful expressions,3400
+3239,rqZMwbS,gpt_neo_13b,20,0.9,20,identify fake smiles and laughter,Identify facial expressions based on body language,3444
