@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,N2SBkmZ,gpt_neo_125m,1,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,0
+2,N2SBkmZ,gpt_neo_125m,2,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,20
+5,N2SBkmZ,gpt_neo_125m,3,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,41
+9,N2SBkmZ,gpt_neo_125m,4,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,62
+14,N2SBkmZ,gpt_neo_125m,5,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,79
+20,N2SBkmZ,gpt_neo_125m,6,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,97
+27,N2SBkmZ,gpt_neo_125m,7,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of nutrients in a plant,114
+35,N2SBkmZ,gpt_neo_125m,8,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,132
+44,N2SBkmZ,gpt_neo_125m,9,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,149
+54,N2SBkmZ,gpt_neo_125m,10,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,166
+65,N2SBkmZ,gpt_neo_125m,11,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,184
+77,N2SBkmZ,gpt_neo_125m,12,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,201
+90,N2SBkmZ,gpt_neo_125m,13,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,222
+104,N2SBkmZ,gpt_neo_125m,14,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,244
+119,N2SBkmZ,gpt_neo_125m,15,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering a plant,266
+135,N2SBkmZ,gpt_neo_125m,16,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,289
+152,N2SBkmZ,gpt_neo_125m,17,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,313
+170,N2SBkmZ,gpt_neo_125m,18,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,335
+189,N2SBkmZ,gpt_neo_125m,19,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant's fertilizers,364
+209,N2SBkmZ,gpt_neo_125m,20,0.1,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,389
+230,N2SBkmZ,gpt_neo_125m,1,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a plant's root system,411
+252,N2SBkmZ,gpt_neo_125m,2,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of water entering the plant,432
+275,N2SBkmZ,gpt_neo_125m,3,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,454
+299,N2SBkmZ,gpt_neo_125m,4,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering into a plant,476
+324,N2SBkmZ,gpt_neo_125m,5,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from radiation,501
+350,N2SBkmZ,gpt_neo_125m,6,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,523
+377,N2SBkmZ,gpt_neo_125m,7,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,545
+405,N2SBkmZ,gpt_neo_125m,8,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of fertilizer in a plant,566
+434,N2SBkmZ,gpt_neo_125m,9,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of foreign particles into a plant,587
+464,N2SBkmZ,gpt_neo_125m,10,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,611
+495,N2SBkmZ,gpt_neo_125m,11,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of foreign particles into a plant,634
+527,N2SBkmZ,gpt_neo_125m,12,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,656
+560,N2SBkmZ,gpt_neo_125m,13,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,676
+594,N2SBkmZ,gpt_neo_125m,14,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant,696
+629,N2SBkmZ,gpt_neo_125m,15,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,716
+665,N2SBkmZ,gpt_neo_125m,16,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,736
+702,N2SBkmZ,gpt_neo_125m,17,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant,756
+740,N2SBkmZ,gpt_neo_125m,18,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering a plant,776
+779,N2SBkmZ,gpt_neo_125m,19,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of water in a plant,796
+819,N2SBkmZ,gpt_neo_125m,20,0.2,20,optimize entry of nanoparticle fertilizers into a plant,Improve the taste of a plant by removing the taste of a particle,816
+860,N2SBkmZ,gpt_neo_125m,1,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of foreign particles,836
+902,N2SBkmZ,gpt_neo_125m,2,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,858
+945,N2SBkmZ,gpt_neo_125m,3,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,878
+989,N2SBkmZ,gpt_neo_125m,4,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizers,898
+1034,N2SBkmZ,gpt_neo_125m,5,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizers,919
+1080,N2SBkmZ,gpt_neo_125m,6,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant's fertilizer,938
+1127,N2SBkmZ,gpt_neo_125m,7,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizers,959
+1175,N2SBkmZ,gpt_neo_125m,8,0.3,20,optimize entry of nanoparticle fertilizers into a plant,improve the feel of a complicated motion or force,979
+1224,N2SBkmZ,gpt_neo_125m,9,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of fertilizer in a plant,1001
+1274,N2SBkmZ,gpt_neo_125m,10,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant's fertilizers,1025
+1325,N2SBkmZ,gpt_neo_125m,11,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a particle,1049
+1377,N2SBkmZ,gpt_neo_125m,12,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizers,1072
+1430,N2SBkmZ,gpt_neo_125m,13,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles in a solution,1095
+1484,N2SBkmZ,gpt_neo_125m,14,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the soil's ability to absorb nutrients,1119
+1539,N2SBkmZ,gpt_neo_125m,15,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the volume of a container,1146
+1595,N2SBkmZ,gpt_neo_125m,16,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizer,1171
+1652,N2SBkmZ,gpt_neo_125m,17,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of nutrients in a plant,1195
+1710,N2SBkmZ,gpt_neo_125m,18,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a plant by removing particles,1217
+1769,N2SBkmZ,gpt_neo_125m,19,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1240
+1829,N2SBkmZ,gpt_neo_125m,20,0.3,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,1260
+1890,N2SBkmZ,gpt_neo_125m,1,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from entering the plant,1287
+1952,N2SBkmZ,gpt_neo_125m,2,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of the particle,1315
+2015,N2SBkmZ,gpt_neo_125m,3,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1340
+2079,N2SBkmZ,gpt_neo_125m,4,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Increase the efficiency of a fertilizer,1366
+2144,N2SBkmZ,gpt_neo_125m,5,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1388
+2210,N2SBkmZ,gpt_neo_125m,6,0.4,20,optimize entry of nanoparticle fertilizers into a plant,make a hole in an object without causing an unwanted noise,1409
+2277,N2SBkmZ,gpt_neo_125m,7,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fertilizers,1431
+2345,N2SBkmZ,gpt_neo_125m,8,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1454
+2414,N2SBkmZ,gpt_neo_125m,9,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of nutrients in a plant,1475
+2484,N2SBkmZ,gpt_neo_125m,10,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of soil particles entering a plant,1496
+2555,N2SBkmZ,gpt_neo_125m,11,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Increase the efficiency of the process of fertilization,1517
+2627,N2SBkmZ,gpt_neo_125m,12,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1545
+2700,N2SBkmZ,gpt_neo_125m,13,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,1569
+2774,N2SBkmZ,gpt_neo_125m,14,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,1592
+2849,N2SBkmZ,gpt_neo_125m,15,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the particle size of nanoparticles,1616
+2925,N2SBkmZ,gpt_neo_125m,16,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles in a plant,1640
+3002,N2SBkmZ,gpt_neo_125m,17,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,1660
+3080,N2SBkmZ,gpt_neo_125m,18,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1680
+3159,N2SBkmZ,gpt_neo_125m,19,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a plant's root system,1701
+3239,N2SBkmZ,gpt_neo_125m,20,0.4,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the use of a fertilizer for the purpose of fertilizing a plant,1722
+3320,N2SBkmZ,gpt_neo_125m,1,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Protect the object from the penetration of foreign particles,1747
+3402,N2SBkmZ,gpt_neo_125m,2,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Enable particles to flow in confined geometries,1776
+3485,N2SBkmZ,gpt_neo_125m,3,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of fertilizer in a plant,1798
+3569,N2SBkmZ,gpt_neo_125m,4,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a fertilizer application,1817
+3654,N2SBkmZ,gpt_neo_125m,5,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from penetration of foreign particles,1836
+3740,N2SBkmZ,gpt_neo_125m,6,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Increase the efficiency of nanoparticles,1853
+3827,N2SBkmZ,gpt_neo_125m,7,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering into a plant,1870
+3915,N2SBkmZ,gpt_neo_125m,8,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from the penetration of foreign substances,1888
+4004,N2SBkmZ,gpt_neo_125m,9,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce food waste in vegetable gardens and other food-producing fields,1905
+4094,N2SBkmZ,gpt_neo_125m,10,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,1923
+4185,N2SBkmZ,gpt_neo_125m,11,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering a plant,1940
+4277,N2SBkmZ,gpt_neo_125m,12,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's electric power,1957
+4370,N2SBkmZ,gpt_neo_125m,13,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from the penetration of foreign substances,1975
+4464,N2SBkmZ,gpt_neo_125m,14,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the taste of food and drink,1992
+4559,N2SBkmZ,gpt_neo_125m,15,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the surface area of a plant,2010
+4655,N2SBkmZ,gpt_neo_125m,16,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant,2027
+4752,N2SBkmZ,gpt_neo_125m,17,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Reduce size of a plant by decreasing the size of the particles,2046
+4850,N2SBkmZ,gpt_neo_125m,18,0.5,20,optimize entry of nanoparticle fertilizers into a plant,optimize entry of nanoparticle fertilizers into a plant,2067
+4949,N2SBkmZ,gpt_neo_125m,19,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Improve the appearance of a plant's structure,2085
+5049,N2SBkmZ,gpt_neo_125m,20,0.5,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of nanoparticles into plants,2103
+5150,N2SBkmZ,gpt_neo_125m,1,0.6,20,optimize entry of nanoparticle fertilizers into a plant,improve the look of a chemical process in a biological system,2120
+5252,N2SBkmZ,gpt_neo_125m,2,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering the plant,2137
+5355,N2SBkmZ,gpt_neo_125m,3,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complex motion or force,2154
+5459,N2SBkmZ,gpt_neo_125m,4,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent plant from getting into contact with foreign substances,2172
+5564,N2SBkmZ,gpt_neo_125m,5,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of foreign particles,2189
+5670,N2SBkmZ,gpt_neo_125m,6,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering into a plant,2207
+5777,N2SBkmZ,gpt_neo_125m,7,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Increase the energy efficiency of plants,2224
+5885,N2SBkmZ,gpt_neo_125m,8,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent water vapor from penetrating into a plant,2241
+5994,N2SBkmZ,gpt_neo_125m,9,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent insects from getting into contact with foreign substances,2258
+6104,N2SBkmZ,gpt_neo_125m,10,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the cost of fertilizer in the field,2275
+6215,N2SBkmZ,gpt_neo_125m,11,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of a plant's fuel supply,2292
+6327,N2SBkmZ,gpt_neo_125m,12,0.6,20,optimize entry of nanoparticle fertilizers into a plant,reduce the amount of fertilizer in the field,2310
+6440,N2SBkmZ,gpt_neo_125m,13,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Inject fertilizers into a plant,2327
+6554,N2SBkmZ,gpt_neo_125m,14,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of water entering a plant,2344
+6669,N2SBkmZ,gpt_neo_125m,15,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from entering a plant,2361
+6785,N2SBkmZ,gpt_neo_125m,16,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,2379
+6902,N2SBkmZ,gpt_neo_125m,17,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the use of nanoparticles in agricultural crops,2397
+7020,N2SBkmZ,gpt_neo_125m,18,0.6,20,optimize entry of nanoparticle fertilizers into a plant,reduce the density of the particle in a container,2415
+7139,N2SBkmZ,gpt_neo_125m,19,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a plant or a container,2433
+7259,N2SBkmZ,gpt_neo_125m,20,0.6,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,2452
+7380,N2SBkmZ,gpt_neo_125m,1,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Start a device with an electronic control,2470
+7502,N2SBkmZ,gpt_neo_125m,2,0.7,20,optimize entry of nanoparticle fertilizers into a plant,prevent bacteria from consuming foreign particles,2487
+7625,N2SBkmZ,gpt_neo_125m,3,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles entering into a plant,3883
+7749,N2SBkmZ,gpt_neo_125m,4,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Make a container of water resistant to insects,3903
+7874,N2SBkmZ,gpt_neo_125m,5,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Improve the visual perception of the plant,3921
+8000,N2SBkmZ,gpt_neo_125m,6,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the nanoparticle fertilizer-deteriorate the need for nutrient-dissolved particles,3940
+8127,N2SBkmZ,gpt_neo_125m,7,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the concentration of particles that have entered the plant,3958
+8255,N2SBkmZ,gpt_neo_125m,8,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of fluid entering the plant,3975
+8384,N2SBkmZ,gpt_neo_125m,9,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce weight of a particle,3993
+8514,N2SBkmZ,gpt_neo_125m,10,0.7,20,optimize entry of nanoparticle fertilizers into a plant,reduce the number of particles in a plant,4010
+8645,N2SBkmZ,gpt_neo_125m,11,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce waste by removing particles by mechanical force,4027
+8777,N2SBkmZ,gpt_neo_125m,12,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the cost of fertilizers by decreasing the number of particles,4044
+8910,N2SBkmZ,gpt_neo_125m,13,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the efficiency of surface coatings,4061
+9044,N2SBkmZ,gpt_neo_125m,14,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from environmental risk,4078
+9179,N2SBkmZ,gpt_neo_125m,15,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce particle size of nanoparticles in a soil,4095
+9315,N2SBkmZ,gpt_neo_125m,16,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant's response to pollutants,4112
+9452,N2SBkmZ,gpt_neo_125m,17,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Make a plant out of the water of a lake,4131
+9590,N2SBkmZ,gpt_neo_125m,18,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Improve contact between a fertiliser and a plant,4151
+9729,N2SBkmZ,gpt_neo_125m,19,0.7,20,optimize entry of nanoparticle fertilizers into a plant,create a small hole in an object without causing an unwanted noise,4174
+9869,N2SBkmZ,gpt_neo_125m,20,0.7,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the volume of a field without causing problems,4192
+10010,N2SBkmZ,gpt_neo_125m,1,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the number of particles penetrating to the surface,4209
+10152,N2SBkmZ,gpt_neo_125m,2,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Improve the soil quality and water quality,4226
+10295,N2SBkmZ,gpt_neo_125m,3,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce surface roughness in a process,4243
+10439,N2SBkmZ,gpt_neo_125m,4,0.8,20,optimize entry of nanoparticle fertilizers into a plant,enhance the resistance of the plant against water,4260
+10584,N2SBkmZ,gpt_neo_125m,5,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the application of particle fertilizers,4277
+10730,N2SBkmZ,gpt_neo_125m,6,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Optimize absorption of impurities in plants,4295
+10877,N2SBkmZ,gpt_neo_125m,7,0.8,20,optimize entry of nanoparticle fertilizers into a plant,improve the feel of a complicated motion or force,4311
+11025,N2SBkmZ,gpt_neo_125m,8,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a container,4329
+11174,N2SBkmZ,gpt_neo_125m,9,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of particles entering the plant,4346
+11324,N2SBkmZ,gpt_neo_125m,10,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the amount of energy in plants by using particles,4363
+11475,N2SBkmZ,gpt_neo_125m,11,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Improve physical stability by decreasing the surface area of an object,4381
+11627,N2SBkmZ,gpt_neo_125m,12,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Optimize entry of foreign particles into a plant,4398
+11780,N2SBkmZ,gpt_neo_125m,13,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Prevent object from getting into contact with hostile substances,4415
+11934,N2SBkmZ,gpt_neo_125m,14,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Improve the feel of a complicated motion or force,4433
+12089,N2SBkmZ,gpt_neo_125m,15,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Achieve a robust appearance of the plant,4450
+12245,N2SBkmZ,gpt_neo_125m,16,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Reduce root canal wall thickness,4467
+12402,N2SBkmZ,gpt_neo_125m,17,0.8,20,optimize entry of nanoparticle fertilizers into a plant,of 1.1,4484
+12560,N2SBkmZ,gpt_neo_125m,18,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Improve the efficiency of the plant,4501
+12719,N2SBkmZ,gpt_neo_125m,19,0.8,20,optimize entry of nanoparticle fertilizers into a plant,optimize entry of nanoparticle fertilizers into a plant,4518
+12879,N2SBkmZ,gpt_neo_125m,20,0.8,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entry of foreign particles into a plant,4536
+13040,N2SBkmZ,gpt_neo_125m,1,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Improve performance of electrochemical microchip,4553
+13202,N2SBkmZ,gpt_neo_125m,2,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Improve the taste taste buds,4571
+13365,N2SBkmZ,gpt_neo_125m,3,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Optimize the uptake and uptake efficiency of nanoparticles,4588
+13529,N2SBkmZ,gpt_neo_125m,4,0.9,20,optimize entry of nanoparticle fertilizers into a plant,prevent nanoparticle fertilizers from entering the cell wall or tissue,4605
+13694,N2SBkmZ,gpt_neo_125m,5,0.9,20,optimize entry of nanoparticle fertilizers into a plant,reduce the number of nanoparticles entering this plant,4617
+13860,N2SBkmZ,gpt_neo_125m,6,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Reduce particle concentration from cell culture,4634
+14027,N2SBkmZ,gpt_neo_125m,7,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Enable liquid to enter a complex plant without entering the plant,4651
+14195,N2SBkmZ,gpt_neo_125m,8,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Optimize the soil surface area to enhance root penetration,4668
+14364,N2SBkmZ,gpt_neo_125m,9,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the penetration of foreign particles into nanoparticles,4686
+14534,N2SBkmZ,gpt_neo_125m,10,0.9,20,optimize entry of nanoparticle fertilizers into a plant,inhibit particle formation at low temperatures,4703
+14705,N2SBkmZ,gpt_neo_125m,11,0.9,20,optimize entry of nanoparticle fertilizers into a plant,increase the rate of uptake of nutrients from the plant,4720
+14877,N2SBkmZ,gpt_neo_125m,12,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent the entrance of oil on a plant's surface,4737
+15050,N2SBkmZ,gpt_neo_125m,13,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Remove unwanted particles from food by mechanical force,4754
+15224,N2SBkmZ,gpt_neo_125m,14,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Apply a pressure-driven nozzle on the stem and produce surface structures,4772
+15399,N2SBkmZ,gpt_neo_125m,15,0.9,20,optimize entry of nanoparticle fertilizers into a plant,optimize entry of nanoparticle fertilizers into a plant,4789
+15575,N2SBkmZ,gpt_neo_125m,16,0.9,20,optimize entry of nanoparticle fertilizers into a plant,reduce user's efficiency with power,4837
+15752,N2SBkmZ,gpt_neo_125m,17,0.9,20,optimize entry of nanoparticle fertilizers into a plant,decrease the volume of a liquid container and eliminate water,4854
+15930,N2SBkmZ,gpt_neo_125m,18,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the size of a protein,4871
+16109,N2SBkmZ,gpt_neo_125m,19,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Make a device with multiple sizes,4889
+16289,N2SBkmZ,gpt_neo_125m,20,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Protect object from sun glare,4906

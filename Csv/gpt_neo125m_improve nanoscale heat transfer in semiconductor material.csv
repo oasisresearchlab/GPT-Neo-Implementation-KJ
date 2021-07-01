@@ -1,0 +1,181 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,QaujbGr,gpt_neo_125m,1,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,0
+2,QaujbGr,gpt_neo_125m,2,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,23
+5,QaujbGr,gpt_neo_125m,3,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,43
+9,QaujbGr,gpt_neo_125m,4,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,62
+14,QaujbGr,gpt_neo_125m,5,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,79
+20,QaujbGr,gpt_neo_125m,6,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,96
+27,QaujbGr,gpt_neo_125m,7,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,113
+35,QaujbGr,gpt_neo_125m,8,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,131
+44,QaujbGr,gpt_neo_125m,9,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,148
+54,QaujbGr,gpt_neo_125m,10,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,166
+65,QaujbGr,gpt_neo_125m,11,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,183
+77,QaujbGr,gpt_neo_125m,12,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,200
+90,QaujbGr,gpt_neo_125m,13,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,223
+104,QaujbGr,gpt_neo_125m,14,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,246
+119,QaujbGr,gpt_neo_125m,15,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,266
+135,QaujbGr,gpt_neo_125m,16,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,292
+152,QaujbGr,gpt_neo_125m,17,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,314
+170,QaujbGr,gpt_neo_125m,18,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,340
+189,QaujbGr,gpt_neo_125m,19,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,366
+209,QaujbGr,gpt_neo_125m,20,0.1,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,390
+230,QaujbGr,gpt_neo_125m,1,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,411
+252,QaujbGr,gpt_neo_125m,2,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,432
+275,QaujbGr,gpt_neo_125m,3,0.2,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,454
+299,QaujbGr,gpt_neo_125m,4,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,477
+324,QaujbGr,gpt_neo_125m,5,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,501
+350,QaujbGr,gpt_neo_125m,6,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,523
+377,QaujbGr,gpt_neo_125m,7,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,544
+405,QaujbGr,gpt_neo_125m,8,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,566
+434,QaujbGr,gpt_neo_125m,9,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,586
+464,QaujbGr,gpt_neo_125m,10,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,611
+495,QaujbGr,gpt_neo_125m,11,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,633
+527,QaujbGr,gpt_neo_125m,12,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,654
+560,QaujbGr,gpt_neo_125m,13,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,674
+594,QaujbGr,gpt_neo_125m,14,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,694
+629,QaujbGr,gpt_neo_125m,15,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,714
+665,QaujbGr,gpt_neo_125m,16,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,734
+702,QaujbGr,gpt_neo_125m,17,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,754
+740,QaujbGr,gpt_neo_125m,18,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,773
+779,QaujbGr,gpt_neo_125m,19,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,793
+819,QaujbGr,gpt_neo_125m,20,0.2,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,813
+860,QaujbGr,gpt_neo_125m,1,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,835
+902,QaujbGr,gpt_neo_125m,2,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,856
+945,QaujbGr,gpt_neo_125m,3,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,876
+989,QaujbGr,gpt_neo_125m,4,0.3,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,896
+1034,QaujbGr,gpt_neo_125m,5,0.3,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,916
+1080,QaujbGr,gpt_neo_125m,6,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,935
+1127,QaujbGr,gpt_neo_125m,7,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,956
+1175,QaujbGr,gpt_neo_125m,8,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,976
+1224,QaujbGr,gpt_neo_125m,9,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1000
+1274,QaujbGr,gpt_neo_125m,10,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1024
+1325,QaujbGr,gpt_neo_125m,11,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1047
+1377,QaujbGr,gpt_neo_125m,12,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1070
+1430,QaujbGr,gpt_neo_125m,13,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1093
+1484,QaujbGr,gpt_neo_125m,14,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1118
+1539,QaujbGr,gpt_neo_125m,15,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1145
+1595,QaujbGr,gpt_neo_125m,16,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1169
+1652,QaujbGr,gpt_neo_125m,17,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1192
+1710,QaujbGr,gpt_neo_125m,18,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1214
+1769,QaujbGr,gpt_neo_125m,19,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1236
+1829,QaujbGr,gpt_neo_125m,20,0.3,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1257
+1890,QaujbGr,gpt_neo_125m,1,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1284
+1952,QaujbGr,gpt_neo_125m,2,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1312
+2015,QaujbGr,gpt_neo_125m,3,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,1337
+2079,QaujbGr,gpt_neo_125m,4,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1363
+2144,QaujbGr,gpt_neo_125m,5,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1384
+2210,QaujbGr,gpt_neo_125m,6,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1404
+2277,QaujbGr,gpt_neo_125m,7,0.4,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,1426
+2345,QaujbGr,gpt_neo_125m,8,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1449
+2414,QaujbGr,gpt_neo_125m,9,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1470
+2484,QaujbGr,gpt_neo_125m,10,0.4,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,1492
+2555,QaujbGr,gpt_neo_125m,11,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer to the surface of a semiconductor material,1512
+2627,QaujbGr,gpt_neo_125m,12,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1541
+2700,QaujbGr,gpt_neo_125m,13,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complex motion or force,1565
+2774,QaujbGr,gpt_neo_125m,14,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1588
+2849,QaujbGr,gpt_neo_125m,15,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1612
+2925,QaujbGr,gpt_neo_125m,16,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1635
+3002,QaujbGr,gpt_neo_125m,17,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1655
+3080,QaujbGr,gpt_neo_125m,18,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1675
+3159,QaujbGr,gpt_neo_125m,19,0.4,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1695
+3239,QaujbGr,gpt_neo_125m,20,0.4,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,1716
+3320,QaujbGr,gpt_neo_125m,1,0.5,20,improve nanoscale heat transfer in semiconductor material,Reduce the heat transfer in semiconductor material,1742
+3402,QaujbGr,gpt_neo_125m,2,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1772
+3485,QaujbGr,gpt_neo_125m,3,0.5,20,improve nanoscale heat transfer in semiconductor material,Increase the heat transfer of semiconductor materials,1792
+3569,QaujbGr,gpt_neo_125m,4,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1811
+3654,QaujbGr,gpt_neo_125m,5,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1829
+3740,QaujbGr,gpt_neo_125m,6,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the physical properties of nanoscale materials,1846
+3827,QaujbGr,gpt_neo_125m,7,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the thermal conductivity of semiconductors,1863
+3915,QaujbGr,gpt_neo_125m,8,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,1881
+4004,QaujbGr,gpt_neo_125m,9,0.5,20,improve nanoscale heat transfer in semiconductor material,Protect object from the penetration of foreign objects,1899
+4094,QaujbGr,gpt_neo_125m,10,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1916
+4185,QaujbGr,gpt_neo_125m,11,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve semiconductor heat transfer,1934
+4277,QaujbGr,gpt_neo_125m,12,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve mechanical heat transfer,1951
+4370,QaujbGr,gpt_neo_125m,13,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve nanoscale heat transfer in semiconductor material,1968
+4464,QaujbGr,gpt_neo_125m,14,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,1985
+4559,QaujbGr,gpt_neo_125m,15,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve thermal stability of nanocrystals,2003
+4655,QaujbGr,gpt_neo_125m,16,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the heat transfer in semiconductor material,2021
+4752,QaujbGr,gpt_neo_125m,17,0.5,20,improve nanoscale heat transfer in semiconductor material,Increase the heat transfer in the semiconductor material,2040
+4850,QaujbGr,gpt_neo_125m,18,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2060
+4949,QaujbGr,gpt_neo_125m,19,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2078
+5049,QaujbGr,gpt_neo_125m,20,0.5,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2096
+5150,QaujbGr,gpt_neo_125m,1,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,2113
+5252,QaujbGr,gpt_neo_125m,2,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2130
+5355,QaujbGr,gpt_neo_125m,3,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2147
+5459,QaujbGr,gpt_neo_125m,4,0.6,20,improve nanoscale heat transfer in semiconductor material,Enable particles to flow in confined geometries,2165
+5564,QaujbGr,gpt_neo_125m,5,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2183
+5670,QaujbGr,gpt_neo_125m,6,0.6,20,improve nanoscale heat transfer in semiconductor material,increase heat transfer rate in nanoscale,2200
+5777,QaujbGr,gpt_neo_125m,7,0.6,20,improve nanoscale heat transfer in semiconductor material,Reduce the heat of a device by reducing the heat loss,2217
+5885,QaujbGr,gpt_neo_125m,8,0.6,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,2234
+5994,QaujbGr,gpt_neo_125m,9,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,2251
+6104,QaujbGr,gpt_neo_125m,10,0.6,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,2268
+6215,QaujbGr,gpt_neo_125m,11,0.6,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated motion or force,2285
+6327,QaujbGr,gpt_neo_125m,12,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2303
+6440,QaujbGr,gpt_neo_125m,13,0.6,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,2320
+6554,QaujbGr,gpt_neo_125m,14,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2337
+6669,QaujbGr,gpt_neo_125m,15,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2354
+6785,QaujbGr,gpt_neo_125m,16,0.6,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated motion or force,2371
+6902,QaujbGr,gpt_neo_125m,17,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2390
+7020,QaujbGr,gpt_neo_125m,18,0.6,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2408
+7139,QaujbGr,gpt_neo_125m,19,0.6,20,improve nanoscale heat transfer in semiconductor material,prevent the creation of a hole in an object,2425
+7259,QaujbGr,gpt_neo_125m,20,0.6,20,improve nanoscale heat transfer in semiconductor material,increase the surface area of a device by more than 10 times,2444
+7380,QaujbGr,gpt_neo_125m,1,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,2461
+7502,QaujbGr,gpt_neo_125m,2,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,2478
+7625,QaujbGr,gpt_neo_125m,3,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,3874
+7749,QaujbGr,gpt_neo_125m,4,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,3894
+7874,QaujbGr,gpt_neo_125m,5,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,3912
+8000,QaujbGr,gpt_neo_125m,6,0.7,20,improve nanoscale heat transfer in semiconductor material,increase the heat transfer of nanoscale materials,3930
+8127,QaujbGr,gpt_neo_125m,7,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,3948
+8255,QaujbGr,gpt_neo_125m,8,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve nanoscale heat transfer in semiconductor material,3966
+8384,QaujbGr,gpt_neo_125m,9,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complex motion or force,3983
+8514,QaujbGr,gpt_neo_125m,10,0.7,20,improve nanoscale heat transfer in semiconductor material,Increase the heat transfer efficiency,4000
+8645,QaujbGr,gpt_neo_125m,11,0.7,20,improve nanoscale heat transfer in semiconductor material,Reduce power consumption by removing dirt and dirt,4017
+8777,QaujbGr,gpt_neo_125m,12,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4034
+8910,QaujbGr,gpt_neo_125m,13,0.7,20,improve nanoscale heat transfer in semiconductor material,Prevent nanoscale heat transfer caused by thermal energy,4051
+9044,QaujbGr,gpt_neo_125m,14,0.7,20,improve nanoscale heat transfer in semiconductor material,Reduce the risk of heat loss from high-temperature environments,4068
+9179,QaujbGr,gpt_neo_125m,15,0.7,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated motion or force,4085
+9315,QaujbGr,gpt_neo_125m,16,0.7,20,improve nanoscale heat transfer in semiconductor material,Make a small semiconductor chip out of a small semiconductor chip,4102
+9452,QaujbGr,gpt_neo_125m,17,0.7,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4119
+9590,QaujbGr,gpt_neo_125m,18,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complex motion or force,4140
+9729,QaujbGr,gpt_neo_125m,19,0.7,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,4163
+9869,QaujbGr,gpt_neo_125m,20,0.7,20,improve nanoscale heat transfer in semiconductor material,prevent cloud from getting into contact with objects,4181
+10010,QaujbGr,gpt_neo_125m,1,0.8,20,improve nanoscale heat transfer in semiconductor material,Protect object from entering a heated region,4198
+10152,QaujbGr,gpt_neo_125m,2,0.8,20,improve nanoscale heat transfer in semiconductor material,Improve nanoscale heat transfer in semiconductors,4215
+10295,QaujbGr,gpt_neo_125m,3,0.8,20,improve nanoscale heat transfer in semiconductor material,improve thermal durability of semiconductor materials,4232
+10439,QaujbGr,gpt_neo_125m,4,0.8,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4249
+10584,QaujbGr,gpt_neo_125m,5,0.8,20,improve nanoscale heat transfer in semiconductor material,Protect object from the penetration of foreign objects,4266
+10730,QaujbGr,gpt_neo_125m,6,0.8,20,improve nanoscale heat transfer in semiconductor material,Reduce the heat transfer of silicon devices,4283
+10877,QaujbGr,gpt_neo_125m,7,0.8,20,improve nanoscale heat transfer in semiconductor material,improve the heat transfer characteristics of semiconductor material,4300
+11025,QaujbGr,gpt_neo_125m,8,0.8,20,improve nanoscale heat transfer in semiconductor material,Reduce temperature and humidity in liquid crystal devices,4317
+11174,QaujbGr,gpt_neo_125m,9,0.8,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4334
+11324,QaujbGr,gpt_neo_125m,10,0.8,20,improve nanoscale heat transfer in semiconductor material,Improve the heat transfer efficiency of a semiconductor material,4351
+11475,QaujbGr,gpt_neo_125m,11,0.8,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated motion and force,4368
+11627,QaujbGr,gpt_neo_125m,12,0.8,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated motion or force,4386
+11780,QaujbGr,gpt_neo_125m,13,0.8,20,improve nanoscale heat transfer in semiconductor material,Improve contact between a semiconductor chip and a metal,4403
+11934,QaujbGr,gpt_neo_125m,14,0.8,20,improve nanoscale heat transfer in semiconductor material,Improve electrical conductivity of semiconductors,4421
+12089,QaujbGr,gpt_neo_125m,15,0.8,20,improve nanoscale heat transfer in semiconductor material,build up a stable structure in a space,4438
+12245,QaujbGr,gpt_neo_125m,16,0.8,20,improve nanoscale heat transfer in semiconductor material,Ensure a structure of materials in solution,4454
+12402,QaujbGr,gpt_neo_125m,17,0.8,20,improve nanoscale heat transfer in semiconductor material,Increase heat transfer from organic molecules,4472
+12560,QaujbGr,gpt_neo_125m,18,0.8,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4488
+12719,QaujbGr,gpt_neo_125m,19,0.8,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,4505
+12879,QaujbGr,gpt_neo_125m,20,0.8,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4522
+13040,QaujbGr,gpt_neo_125m,1,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4539
+13202,QaujbGr,gpt_neo_125m,2,0.9,20,improve nanoscale heat transfer in semiconductor material,improve temperature performance of electrical devices,4557
+13365,QaujbGr,gpt_neo_125m,3,0.9,20,improve nanoscale heat transfer in semiconductor material,increase mechanical force to prevent heat dissipation,4575
+13529,QaujbGr,gpt_neo_125m,4,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4592
+13694,QaujbGr,gpt_neo_125m,5,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the surface-to-volume balance,4599
+13860,QaujbGr,gpt_neo_125m,6,0.9,20,improve nanoscale heat transfer in semiconductor material,reduce heat transfer in semiconductor material which may be caused by Joule heating,4616
+14027,QaujbGr,gpt_neo_125m,7,0.9,20,improve nanoscale heat transfer in semiconductor material,improve the feel of a complicated rotating motion or force,4633
+14195,QaujbGr,gpt_neo_125m,8,0.9,20,improve nanoscale heat transfer in semiconductor material,reduce heat generation in semiconductor material,4650
+14364,QaujbGr,gpt_neo_125m,9,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve thermal conductivity of nanoscale device,4667
+14534,QaujbGr,gpt_neo_125m,10,0.9,20,improve nanoscale heat transfer in semiconductor material,increase the heat transfer in semiconductor material,4684
+14705,QaujbGr,gpt_neo_125m,11,0.9,20,improve nanoscale heat transfer in semiconductor material,allow a small-scale fabrication to increase the fabrication yield of material,4701
+14877,QaujbGr,gpt_neo_125m,12,0.9,20,improve nanoscale heat transfer in semiconductor material,Reduce temperature by removing water and gases,4718
+15050,QaujbGr,gpt_neo_125m,13,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,4735
+15224,QaujbGr,gpt_neo_125m,14,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,4753
+15399,QaujbGr,gpt_neo_125m,15,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4771
+15575,QaujbGr,gpt_neo_125m,16,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the thermal conductivity of a semiconductor material,4816
+15752,QaujbGr,gpt_neo_125m,17,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in the semiconductor material,4835
+15930,QaujbGr,gpt_neo_125m,18,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,4852
+16109,QaujbGr,gpt_neo_125m,19,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve heat transfer in semiconductor material,4869
+16289,QaujbGr,gpt_neo_125m,20,0.9,20,improve nanoscale heat transfer in semiconductor material,Enable particles to flow in confined geometries,4886
