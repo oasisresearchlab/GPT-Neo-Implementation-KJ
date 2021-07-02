@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,71QZVpQ,gpt_neo_13b,1,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Enhance the efficiency of a plant by improving the entry of foreign objects,0
+2,71QZVpQ,gpt_neo_13b,2,0.9,20,optimize entry of nanoparticle fertilizers into a plant,improve efficiency for an industrial process,185
+5,71QZVpQ,gpt_neo_13b,3,0.9,20,optimize entry of nanoparticle fertilizers into a plant,optimize the efficiency of a plant growth system,370
+9,71QZVpQ,gpt_neo_13b,4,0.9,20,optimize entry of nanoparticle fertilizers into a plant,optimize the efficiency of a chemical process,555
+14,71QZVpQ,gpt_neo_13b,5,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Optimize the uptake of materials by plants,738
+20,71QZVpQ,gpt_neo_13b,6,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Optimize the amount of a substance delivered to the plant,921
+27,71QZVpQ,gpt_neo_13b,7,0.9,20,optimize entry of nanoparticle fertilizers into a plant,remove material to increase productivity,1105
+35,71QZVpQ,gpt_neo_13b,8,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Minimize the mass of soil required to grow food,1288
+44,71QZVpQ,gpt_neo_13b,9,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Apply high levels of pressure to a liquid to cause it to penetrate plants,1471
+54,71QZVpQ,gpt_neo_13b,10,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Improve the process of transporting a fertilized material into a plant,1654
