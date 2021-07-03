@@ -1,11 +1,11 @@
 ,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
-0,n3ggFle,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,Extract data structure from complex data,0
-2,n3ggFle,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,create an efficient structure out of a complex data,304
-5,n3ggFle,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,remove the need of information cues and computations,608
-9,n3ggFle,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,Reduce the computational demand of the problem,912
-14,n3ggFle,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,provide structure through a set of simple operations,1217
-20,n3ggFle,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,Structured data is used to generate structure from unstructured data,1520
-27,n3ggFle,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex objects,1821
-35,n3ggFle,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,Eliminate the need for a pre-cluster or pre-processing step,2074
-44,n3ggFle,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,Extract structure using data mining,2378
-54,n3ggFle,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,Extract the most important structure from data,2681
+0,ZogiWhN,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,extract structural information from data sets,0
+2,ZogiWhN,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,Extract a structure from a mixed information set,275
+5,ZogiWhN,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,remove structure from unstructured data,552
+9,ZogiWhN,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,extract shape from complex and unstructured data,814
+14,ZogiWhN,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,Extract structures from unstructured data using information,1086
+20,ZogiWhN,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,Extract structures automatically from complex data,1361
+27,ZogiWhN,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,Convert complex information into easy-to-understand representations,1628
+35,ZogiWhN,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,extract structure by exploiting the structural patterns in unstructured data,1889
+44,ZogiWhN,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,"Extract complex data structures from a structured database, while retaining object relations and relationships",2148
+54,ZogiWhN,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,Explain complex physical shapes,2405

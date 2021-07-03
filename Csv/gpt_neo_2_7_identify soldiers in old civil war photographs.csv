@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,b89wMkB,generator_gpt_neo_2_7,1,0.9,20,identify soldiers in old civil war photographs,Identify patterns in objects by comparing them,0
+2,b89wMkB,generator_gpt_neo_2_7,2,0.9,20,identify soldiers in old civil war photographs,Track targets on photos by object recognition,62
+5,b89wMkB,generator_gpt_neo_2_7,3,0.9,20,identify soldiers in old civil war photographs,identify a person from his or her facial features,120
+9,b89wMkB,generator_gpt_neo_2_7,4,0.9,20,identify soldiers in old civil war photographs,Identify soldiers in photographs from an old war,179
+14,b89wMkB,generator_gpt_neo_2_7,5,0.9,20,identify soldiers in old civil war photographs,identify specific individuals from a photo,238
+20,b89wMkB,generator_gpt_neo_2_7,6,0.9,20,identify soldiers in old civil war photographs,determine military and civilian units from old photos,295
+27,b89wMkB,generator_gpt_neo_2_7,7,0.9,20,identify soldiers in old civil war photographs,Identify objects in images,353
+35,b89wMkB,generator_gpt_neo_2_7,8,0.9,20,identify soldiers in old civil war photographs,Identify the soldiers in images,410
+44,b89wMkB,generator_gpt_neo_2_7,9,0.9,20,identify soldiers in old civil war photographs,provide a solution for a problem by giving clues to its solution,468
+54,b89wMkB,generator_gpt_neo_2_7,10,0.9,20,identify soldiers in old civil war photographs,Identify men and women from old photos,525
