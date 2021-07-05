@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,ZogiWhN,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,extract structural information from data sets,0
+2,ZogiWhN,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,Extract a structure from a mixed information set,275
+5,ZogiWhN,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,remove structure from unstructured data,552
+9,ZogiWhN,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,extract shape from complex and unstructured data,814
+14,ZogiWhN,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,Extract structures from unstructured data using information,1086
+20,ZogiWhN,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,Extract structures automatically from complex data,1361
+27,ZogiWhN,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,Convert complex information into easy-to-understand representations,1628
+35,ZogiWhN,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,extract structure by exploiting the structural patterns in unstructured data,1889
+44,ZogiWhN,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,"Extract complex data structures from a structured database, while retaining object relations and relationships",2148
+54,ZogiWhN,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,Explain complex physical shapes,2405

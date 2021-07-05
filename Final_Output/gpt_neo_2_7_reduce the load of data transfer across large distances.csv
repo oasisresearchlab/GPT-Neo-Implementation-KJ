@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,Gw8L106,generator_gpt_neo_2_7,1,0.9,20,reduce the load of data transfer across large distances,transfer massive amounts of data without loss of speed,0
+2,Gw8L106,generator_gpt_neo_2_7,2,0.9,20,reduce the load of data transfer across large distances,Enable transfer across distances via small physical structures,56
+5,Gw8L106,generator_gpt_neo_2_7,3,0.9,20,reduce the load of data transfer across large distances,Allow more data to be transferred between different locations as a group,109
+9,Gw8L106,generator_gpt_neo_2_7,4,0.9,20,reduce the load of data transfer across large distances,increase the distance between two parts of a system,165
+14,Gw8L106,generator_gpt_neo_2_7,5,0.9,20,reduce the load of data transfer across large distances,Increase the speed of data transfer between two locations,218
+20,Gw8L106,generator_gpt_neo_2_7,6,0.9,20,reduce the load of data transfer across large distances,Speed up data transfer over large distances,273
+27,Gw8L106,generator_gpt_neo_2_7,7,0.9,20,reduce the load of data transfer across large distances,Reduce communication load across long distances,327
+35,Gw8L106,generator_gpt_neo_2_7,8,0.9,20,reduce the load of data transfer across large distances,Improve the efficiency of a communication path,381
+44,Gw8L106,generator_gpt_neo_2_7,9,0.9,20,reduce the load of data transfer across large distances,Reduce the overhead of data transport,435
+54,Gw8L106,generator_gpt_neo_2_7,10,0.9,20,reduce the load of data transfer across large distances,Extend the physical reach of a tool,488

@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,s5wtyRx,generator_gpt_neo_2_7,1,0.9,20,reason about the behavior of complex networked systems,Describe the structure of a networked system,0
+2,s5wtyRx,generator_gpt_neo_2_7,2,0.9,20,reason about the behavior of complex networked systems,describe a property of groups of elements,55
+5,s5wtyRx,generator_gpt_neo_2_7,3,0.9,20,reason about the behavior of complex networked systems,describe the system's functionality without needing knowledge of the system,111
+9,s5wtyRx,generator_gpt_neo_2_7,4,0.9,20,reason about the behavior of complex networked systems,Determine causes of complex networks,165
+14,s5wtyRx,generator_gpt_neo_2_7,5,0.9,20,reason about the behavior of complex networked systems,Understand how the complex system behaves at different conditions,219
+20,s5wtyRx,generator_gpt_neo_2_7,6,0.9,20,reason about the behavior of complex networked systems,Understand how complex systems behave and how to control them,273
+27,s5wtyRx,generator_gpt_neo_2_7,7,0.9,20,reason about the behavior of complex networked systems,Develop analytical tools suited for complex systems,327
+35,s5wtyRx,generator_gpt_neo_2_7,8,0.9,20,reason about the behavior of complex networked systems,Explain a system's behavior from a bottom-up perspective,380
+44,s5wtyRx,generator_gpt_neo_2_7,9,0.9,20,reason about the behavior of complex networked systems,Represent large-scale behavior as a set of small-scale behaviors,434
+54,s5wtyRx,generator_gpt_neo_2_7,10,0.9,20,reason about the behavior of complex networked systems,Understand complex network from the point of view of its constituent elements,486

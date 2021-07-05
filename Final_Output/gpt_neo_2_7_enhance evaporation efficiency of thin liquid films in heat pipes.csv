@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,IsWmsUR,generator_gpt_neo_2_7,1,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance the heat transfer into evaporating liquids,0
+2,IsWmsUR,generator_gpt_neo_2_7,2,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,increase performance of thin film heat transfer device,57
+5,IsWmsUR,generator_gpt_neo_2_7,3,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,provide higher heat conduction in heat pipes compared to flat plates,112
+9,IsWmsUR,generator_gpt_neo_2_7,4,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase the capacity of a heat exchanger,167
+14,IsWmsUR,generator_gpt_neo_2_7,5,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Extend the material's ability to remove heat,221
+20,IsWmsUR,generator_gpt_neo_2_7,6,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Make evaporation more efficient,276
+27,IsWmsUR,generator_gpt_neo_2_7,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase surface tension by decreasing film thickness,330
+35,IsWmsUR,generator_gpt_neo_2_7,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance the efficiency of thin films by mechanical deformation,384
+44,IsWmsUR,generator_gpt_neo_2_7,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Add wetness to heat pipes in order to enhance evaporation efficiency,394
+54,IsWmsUR,generator_gpt_neo_2_7,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Reduce viscosity of thin liquid by mechanical forces,448

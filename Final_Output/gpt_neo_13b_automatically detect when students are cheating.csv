@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,upKXx6p,gpt_neo_13b,1,0.9,20,automatically detect when students are cheating,Automatically detect when students are cheating,0
+2,upKXx6p,gpt_neo_13b,2,0.9,20,automatically detect when students are cheating,prevent cheating on exams,129
+5,upKXx6p,gpt_neo_13b,3,0.9,20,automatically detect when students are cheating,Prevent the detection of cheating by human observers,258
+9,upKXx6p,gpt_neo_13b,4,0.9,20,automatically detect when students are cheating,Automatically detect when students are cheating,387
+14,upKXx6p,gpt_neo_13b,5,0.9,20,automatically detect when students are cheating,Reduce opportunities for cheating,514
+20,upKXx6p,gpt_neo_13b,6,0.9,20,automatically detect when students are cheating,Detect suspicious activities to report them as suspected offences,642
+27,upKXx6p,gpt_neo_13b,7,0.9,20,automatically detect when students are cheating,Automatically detect when student in school,769
+35,upKXx6p,gpt_neo_13b,8,0.9,20,automatically detect when students are cheating,Automatically filter out unwanted content on web pages,897
+44,upKXx6p,gpt_neo_13b,9,0.9,20,automatically detect when students are cheating,Automatically detect when students in class are cheating,1024
+54,upKXx6p,gpt_neo_13b,10,0.9,20,automatically detect when students are cheating,Automatically detect when students are cheating,1151

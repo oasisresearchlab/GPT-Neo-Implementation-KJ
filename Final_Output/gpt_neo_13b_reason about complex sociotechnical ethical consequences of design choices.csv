@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,H6eLLPB,gpt_neo_13b,1,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain why you made a decision and what it means,0
+2,H6eLLPB,gpt_neo_13b,2,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain the purpose of design decisions,124
+5,H6eLLPB,gpt_neo_13b,3,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain the consequences of system design decisions,247
+9,H6eLLPB,gpt_neo_13b,4,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain the decision of the designer to produce a product,369
+14,H6eLLPB,gpt_neo_13b,5,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain how the choice of material choices and the properties of the components of a product affect human well-being,493
+20,H6eLLPB,gpt_neo_13b,6,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,615
+27,H6eLLPB,gpt_neo_13b,7,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain various design choices in light of societal and cultural values and norms,739
+35,H6eLLPB,gpt_neo_13b,8,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Understand the effect on the design choices that are made,862
+44,H6eLLPB,gpt_neo_13b,9,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain sociotechnical effects that have not been discovered by research,985
+54,H6eLLPB,gpt_neo_13b,10,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain the principles for designing ethical systems,1108

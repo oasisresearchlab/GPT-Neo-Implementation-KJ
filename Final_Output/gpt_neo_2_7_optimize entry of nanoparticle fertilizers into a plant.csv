@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,onaDNyO,generator_gpt_neo_2_7,1,0.9,20,optimize entry of nanoparticle fertilizers into a plant,increase the permeability of plants to nanoparticles,0
+2,onaDNyO,generator_gpt_neo_2_7,2,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Reduce plant uptake of nanoparticle fertilizers,66
+5,onaDNyO,generator_gpt_neo_2_7,3,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Minimize the transfer of an agent into food by the use of a surface,122
+9,onaDNyO,generator_gpt_neo_2_7,4,0.9,20,optimize entry of nanoparticle fertilizers into a plant,allow the particles to enter plant roots,181
+14,onaDNyO,generator_gpt_neo_2_7,5,0.9,20,optimize entry of nanoparticle fertilizers into a plant,improve the efficiency of fertilizers,237
+20,onaDNyO,generator_gpt_neo_2_7,6,0.9,20,optimize entry of nanoparticle fertilizers into a plant,minimize the passage of nanoparticle fertilisers into a plant,294
+27,onaDNyO,generator_gpt_neo_2_7,7,0.9,20,optimize entry of nanoparticle fertilizers into a plant,reduce the size of a fertilizer source to enable entry,342
+35,onaDNyO,generator_gpt_neo_2_7,8,0.9,20,optimize entry of nanoparticle fertilizers into a plant,improve the rate of uptake,399
+44,onaDNyO,generator_gpt_neo_2_7,9,0.9,20,optimize entry of nanoparticle fertilizers into a plant,increase the probability of successful fertilization,422
+54,onaDNyO,generator_gpt_neo_2_7,10,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Optimize the flow of nanoparticle fertilizers to a plant,478

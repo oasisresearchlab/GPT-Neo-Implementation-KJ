@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,15OYKdk,generator_gpt_neo_2_7,1,0.9,20,automatically detect when students are cheating,Capture students' wrong actions and prevent cheating,0
+2,15OYKdk,generator_gpt_neo_2_7,2,0.9,20,automatically detect when students are cheating,Analyze data from multiple sensors and report to the student,57
+5,15OYKdk,generator_gpt_neo_2_7,3,0.9,20,automatically detect when students are cheating,prevent cheating by identifying suspicious behaviour,111
+9,15OYKdk,generator_gpt_neo_2_7,4,0.9,20,automatically detect when students are cheating,Accurately detect cheating in students' answers,167
+14,15OYKdk,generator_gpt_neo_2_7,5,0.9,20,automatically detect when students are cheating,Establish a mechanism of detection,224
+20,15OYKdk,generator_gpt_neo_2_7,6,0.9,20,automatically detect when students are cheating,Identify students in a class that are likely to cheat,281
+27,15OYKdk,generator_gpt_neo_2_7,7,0.9,20,automatically detect when students are cheating,Make learning a collaborative effort,336
+35,15OYKdk,generator_gpt_neo_2_7,8,0.9,20,automatically detect when students are cheating,Prevent false credit given to those who are not,389
+44,15OYKdk,generator_gpt_neo_2_7,9,0.9,20,automatically detect when students are cheating,Automatically detect if a student is cheating,443
+54,15OYKdk,generator_gpt_neo_2_7,10,0.9,20,automatically detect when students are cheating,Make it easier for students to detect cheating,498

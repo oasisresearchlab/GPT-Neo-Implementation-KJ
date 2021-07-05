@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,vO3C9ij,generator_gpt_neo_2_7,1,0.9,20,efficiently extract structure from complex unstructured data,Extract structured data from messy data by structure learning,0
+2,vO3C9ij,generator_gpt_neo_2_7,2,0.9,20,efficiently extract structure from complex unstructured data,extract structure through a data modeling approach,63
+5,vO3C9ij,generator_gpt_neo_2_7,3,0.9,20,efficiently extract structure from complex unstructured data,create a structure by analyzing unstructured data,119
+9,vO3C9ij,generator_gpt_neo_2_7,4,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,151
+14,vO3C9ij,generator_gpt_neo_2_7,5,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,202
+20,vO3C9ij,generator_gpt_neo_2_7,6,0.9,20,efficiently extract structure from complex unstructured data,make structures from complex unstructured data,262
+27,vO3C9ij,generator_gpt_neo_2_7,7,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,319
+35,vO3C9ij,generator_gpt_neo_2_7,8,0.9,20,efficiently extract structure from complex unstructured data,Extract an object from a piece of complex data,383
+44,vO3C9ij,generator_gpt_neo_2_7,9,0.9,20,efficiently extract structure from complex unstructured data,Identify and extract structure from massive unstructured data,439
+54,vO3C9ij,generator_gpt_neo_2_7,10,0.9,20,efficiently extract structure from complex unstructured data,Extend the physical reach of a tool,497

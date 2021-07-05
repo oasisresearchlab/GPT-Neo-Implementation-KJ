@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,fp8zRa0,gpt_neo_13b,1,0.9,20,fast predictive action with very little data,Reduce the amount of data required to reach certain goals,0
+2,fp8zRa0,gpt_neo_13b,2,0.9,20,fast predictive action with very little data,Predict actions in real time from very small data,130
+5,fp8zRa0,gpt_neo_13b,3,0.9,20,fast predictive action with very little data,Find a solution with minimal amount of information,262
+9,fp8zRa0,gpt_neo_13b,4,0.9,20,fast predictive action with very little data,Produce a quick solution without a detailed modeling of user requirements,391
+14,fp8zRa0,gpt_neo_13b,5,0.9,20,fast predictive action with very little data,Use a small amount of data to predict an outcome,519
+20,fp8zRa0,gpt_neo_13b,6,0.9,20,fast predictive action with very little data,"Use the existing models to do fast, predictive analysis",648
+27,fp8zRa0,gpt_neo_13b,7,0.9,20,fast predictive action with very little data,"Act on data, but don't know what to do with",777
+35,fp8zRa0,gpt_neo_13b,8,0.9,20,fast predictive action with very little data,achieve the accuracy of the best expert systems,904
+44,fp8zRa0,gpt_neo_13b,9,0.9,20,fast predictive action with very little data,Reduce the complexity of problem solving,1033
+54,fp8zRa0,gpt_neo_13b,10,0.9,20,fast predictive action with very little data,Avoid costly inefficiencies in software systems,1162

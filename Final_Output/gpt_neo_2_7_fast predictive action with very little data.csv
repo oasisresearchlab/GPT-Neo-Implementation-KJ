@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,ePGWQPR,generator_gpt_neo_2_7,1,0.9,20,fast predictive action with very little data,make fast decisions in situations with a limited amount of information,0
+2,ePGWQPR,generator_gpt_neo_2_7,2,0.9,20,fast predictive action with very little data,Build complex machine without human intervention,60
+5,ePGWQPR,generator_gpt_neo_2_7,3,0.9,20,fast predictive action with very little data,achieve high performance with limited input data,119
+9,ePGWQPR,generator_gpt_neo_2_7,4,0.9,20,fast predictive action with very little data,Reduce action length to enable rapid decision-making,176
+14,ePGWQPR,generator_gpt_neo_2_7,5,0.9,20,fast predictive action with very little data,Predict complex action from very little data,233
+20,ePGWQPR,generator_gpt_neo_2_7,6,0.9,20,fast predictive action with very little data,Create a program that anticipates future events,280
+27,ePGWQPR,generator_gpt_neo_2_7,7,0.9,20,fast predictive action with very little data,Reduce the time cost of action while keeping the accuracy of prediction,339
+35,ePGWQPR,generator_gpt_neo_2_7,8,0.9,20,fast predictive action with very little data,Perform actions with little data but a high level of complexity,395
+44,ePGWQPR,generator_gpt_neo_2_7,9,0.9,20,fast predictive action with very little data,create a simple solution based on simple rules,454
+54,ePGWQPR,generator_gpt_neo_2_7,10,0.9,20,fast predictive action with very little data,perform actions in the field immediately without any information input,511
