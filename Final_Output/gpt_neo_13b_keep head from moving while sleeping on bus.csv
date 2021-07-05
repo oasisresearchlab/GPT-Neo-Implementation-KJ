@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,saDvHFM,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,Hold the head still while the bus is moving at a fast speed,0
+2,saDvHFM,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,keep head stationary with a constant acceleration,279
+5,saDvHFM,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,provide an extra layer of protection for the head,555
+9,saDvHFM,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Avoid movement as much as possible while sleeping,830
+14,saDvHFM,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,keep head in the correct position during sleep,1104
+20,saDvHFM,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,keep head from moving while asleep,1377
+27,saDvHFM,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,prevent head from getting in motion,1651
+35,saDvHFM,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,reduce the impact of a force from bouncing of the object,1924
+44,saDvHFM,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,prevent object in the air from being disturbed,2198
+54,saDvHFM,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Prevent body from moving when asleep,2473
