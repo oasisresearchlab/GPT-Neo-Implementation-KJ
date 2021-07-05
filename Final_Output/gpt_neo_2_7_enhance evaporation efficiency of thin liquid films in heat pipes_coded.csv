@@ -5,7 +5,7 @@
 9,IsWmsUR,generator_gpt_neo_2_7,4,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase the capacity of a heat exchanger,167,Neutral
 14,IsWmsUR,generator_gpt_neo_2_7,5,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Extend the material's ability to remove heat,221,Good
 20,IsWmsUR,generator_gpt_neo_2_7,6,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Make evaporation more efficient,276,Neutral
-27,IsWmsUR,generator_gpt_neo_2_7,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase surface tension by decreasing film thickness,330,
-35,IsWmsUR,generator_gpt_neo_2_7,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance the efficiency of thin films by mechanical deformation,384,
-44,IsWmsUR,generator_gpt_neo_2_7,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Add wetness to heat pipes in order to enhance evaporation efficiency,394,
-54,IsWmsUR,generator_gpt_neo_2_7,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Reduce viscosity of thin liquid by mechanical forces,448,
+27,IsWmsUR,generator_gpt_neo_2_7,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase surface tension by decreasing film thickness,330,Good
+35,IsWmsUR,generator_gpt_neo_2_7,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance the efficiency of thin films by mechanical deformation,384,Good
+44,IsWmsUR,generator_gpt_neo_2_7,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Add wetness to heat pipes in order to enhance evaporation efficiency,394,Good
+54,IsWmsUR,generator_gpt_neo_2_7,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Reduce viscosity of thin liquid by mechanical forces,448,Good
