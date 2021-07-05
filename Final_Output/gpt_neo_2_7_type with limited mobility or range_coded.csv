@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,czDF6VG,generator_gpt_neo_2_7,1,0.9,20,type with limited mobility or range,Reduce the mobility of a particle by limiting the number of dimensions,0,Good
+2,czDF6VG,generator_gpt_neo_2_7,2,0.9,20,type with limited mobility or range,enable a tool to do a specific task in a particular environment,213,Bad
+5,czDF6VG,generator_gpt_neo_2_7,3,0.9,20,type with limited mobility or range,Enable a tool to operate within a limited range of motion,426,Good
+9,czDF6VG,generator_gpt_neo_2_7,4,0.9,20,type with limited mobility or range,Extend the physical reach of a tool,639,Good
+14,czDF6VG,generator_gpt_neo_2_7,5,0.9,20,type with limited mobility or range,Create a structure with limited range of motion,853,Good
+20,czDF6VG,generator_gpt_neo_2_7,6,0.9,20,type with limited mobility or range,Reduce the range or mobility of a tool,1066,Bad
+27,czDF6VG,generator_gpt_neo_2_7,7,0.9,20,type with limited mobility or range,Increase the range of an object by providing a mechanical restriction,1280,Good
+35,czDF6VG,generator_gpt_neo_2_7,8,0.9,20,type with limited mobility or range,Move objects in a limited range,1493,Good
+44,czDF6VG,generator_gpt_neo_2_7,9,0.9,20,type with limited mobility or range,Improve functionality with limited equipment,1706,Good
+54,czDF6VG,generator_gpt_neo_2_7,10,0.9,20,type with limited mobility or range,Extend the physical reach of a tool,1919,Good
