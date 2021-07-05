@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,w2nDboU,generator_gpt_neo_2_7,1,0.9,20,navigate in the dark,enhance the physical reach of a tool,0
+2,w2nDboU,generator_gpt_neo_2_7,2,0.9,20,navigate in the dark,provide object with guidance signals in a visual or tactile environment,62
+5,w2nDboU,generator_gpt_neo_2_7,3,0.9,20,navigate in the dark,improve the physical capabilities of a device,129
+9,w2nDboU,generator_gpt_neo_2_7,4,0.9,20,navigate in the dark,Navigate in environments in which external light sources are scarce,190
+14,w2nDboU,generator_gpt_neo_2_7,5,0.9,20,navigate in the dark,Use only minimal light to reach any position in the environment,251
+20,w2nDboU,generator_gpt_neo_2_7,6,0.9,20,navigate in the dark,enable a device to achieve robust orientation in the absence of reliable user input,314
+27,w2nDboU,generator_gpt_neo_2_7,7,0.9,20,navigate in the dark,create a path through obstacles without making unwanted noises,377
+35,w2nDboU,generator_gpt_neo_2_7,8,0.9,20,navigate in the dark,improve the ability to detect and navigate through a dark environment,440
+44,w2nDboU,generator_gpt_neo_2_7,9,0.9,20,navigate in the dark,Make a new way around a problem,504
+54,w2nDboU,generator_gpt_neo_2_7,10,0.9,20,navigate in the dark,Provide a physical solution for the problem of limited visibility,567
