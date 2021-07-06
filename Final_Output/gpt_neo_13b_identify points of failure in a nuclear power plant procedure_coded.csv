@@ -1,0 +1,21 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+1890,elNkEwP,gpt_neo_13b,1,0.9,20,identify points of failure in a nuclear power plant procedure,Identify the critical aspects of operations in nuclear power plants,2593,Good
+1952,elNkEwP,gpt_neo_13b,2,0.9,20,identify points of failure in a nuclear power plant procedure,Identify all points where an object becomes distorted,2636,Bad
+2015,elNkEwP,gpt_neo_13b,3,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent failure in a critical point,2679,Neutral
+2079,elNkEwP,gpt_neo_13b,4,0.9,20,identify points of failure in a nuclear power plant procedure,identify the source of failure,2725,Neutral
+2144,elNkEwP,gpt_neo_13b,5,0.9,20,identify points of failure in a nuclear power plant procedure,"Identify sites of defects with known location, shape and density",2768,Neutral
+2210,elNkEwP,gpt_neo_13b,6,0.9,20,identify points of failure in a nuclear power plant procedure,Identify weak points within a structure to prevent accidents,2810,Neutral
+2277,elNkEwP,gpt_neo_13b,7,0.9,20,identify points of failure in a nuclear power plant procedure,Remove risk of failure of critical components of the reactor,2854,Good
+2345,elNkEwP,gpt_neo_13b,8,0.9,20,identify points of failure in a nuclear power plant procedure,identify critical structures and connections in a reactor,2897,Good
+2414,elNkEwP,gpt_neo_13b,9,0.9,20,identify points of failure in a nuclear power plant procedure,Identify the major causes of failure in nuclear power plants,2940,Bad
+2484,elNkEwP,gpt_neo_13b,10,0.9,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in the process of a nuclear power plant,2983,Bad
+2555,elNkEwP,gpt_neo_13b,11,0.9,20,identify points of failure in a nuclear power plant procedure,Identify places where failure occurs,3027,Bad
+2627,elNkEwP,gpt_neo_13b,12,0.9,20,identify points of failure in a nuclear power plant procedure,Identify points where an intervention could be performed more safely and efficiently,3070,Neutral
+2700,elNkEwP,gpt_neo_13b,13,0.9,20,identify points of failure in a nuclear power plant procedure,Identify areas that cause problems,3113,Bad
+2774,elNkEwP,gpt_neo_13b,14,0.9,20,identify points of failure in a nuclear power plant procedure,Identify vulnerable structures early on in a design process,3156,Bad
+2849,elNkEwP,gpt_neo_13b,15,0.9,20,identify points of failure in a nuclear power plant procedure,Identify key performance indicators in a procedure,3200,Bad
+2925,elNkEwP,gpt_neo_13b,16,0.9,20,identify points of failure in a nuclear power plant procedure,Identify failure points in a nuclear reactor,3245,Good
+3002,elNkEwP,gpt_neo_13b,17,0.9,20,identify points of failure in a nuclear power plant procedure,Identify and repair broken connections in equipment,3287,Neutral
+3080,elNkEwP,gpt_neo_13b,18,0.9,20,identify points of failure in a nuclear power plant procedure,Identify critical points of a process that fails in safety,3330,Bad
+3159,elNkEwP,gpt_neo_13b,19,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent failure of a reactor system by design,3374,Bad
+3239,elNkEwP,gpt_neo_13b,20,0.9,20,identify points of failure in a nuclear power plant procedure,Identify the root causes of malfunctions in a nuclear power plant,3417,Good
