@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,MtqIFhA,gpt_neo_13b,1,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,increase light-emitting power output by applying a light wave to the walls of an energy tank,0
+2,MtqIFhA,gpt_neo_13b,2,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enable air-conditioned climate control system,5
+5,MtqIFhA,gpt_neo_13b,3,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Prevent water from entering by immersion into a bath,9
+9,MtqIFhA,gpt_neo_13b,4,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance evaporation efficiency of thin liquid films in heat pipes,14
+14,MtqIFhA,gpt_neo_13b,5,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase efficiency of light in heat pipes,19
+20,MtqIFhA,gpt_neo_13b,6,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve the hold-off property,23
+27,MtqIFhA,gpt_neo_13b,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enable particles to flow in confined geometries,28
+35,MtqIFhA,gpt_neo_13b,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve evaporation efficiency of thin liquid films in heat pipes,32
+44,MtqIFhA,gpt_neo_13b,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Achieve heat dissipation in thin film in vacuum,37
+54,MtqIFhA,gpt_neo_13b,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve the evaporation efficiency with a liquid-precipitation treatment,42

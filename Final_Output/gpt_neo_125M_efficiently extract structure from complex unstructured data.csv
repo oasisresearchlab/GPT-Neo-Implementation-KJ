@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,IViLlEG,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,0
+2,IViLlEG,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,5
+5,IViLlEG,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from complex unstructured data,10
+9,IViLlEG,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from data without the need of data fusion,14
+14,IViLlEG,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,19
+20,IViLlEG,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,Increase the physical reach of a tool,24
+27,IViLlEG,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,Protect object from environmental risk,28
+35,IViLlEG,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,Remove a single cell from a device,33
+44,IViLlEG,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,Establish a minimum volume of material necessary for a structure,38
+54,IViLlEG,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,Create mesh of objects from the mesh,42

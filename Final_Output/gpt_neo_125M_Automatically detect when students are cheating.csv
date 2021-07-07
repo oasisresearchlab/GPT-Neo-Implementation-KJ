@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,wcF0wPR,gpt_neo_13b,1,0.9,20,Automatically detect when students are cheating,Install a small electric charge to start a car,0
+2,wcF0wPR,gpt_neo_13b,2,0.9,20,Automatically detect when students are cheating,prevent children from cheating,5
+5,wcF0wPR,gpt_neo_13b,3,0.9,20,Automatically detect when students are cheating,Protect objects of different volumes,10
+9,wcF0wPR,gpt_neo_13b,4,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,15
+14,wcF0wPR,gpt_neo_13b,5,0.9,20,Automatically detect when students are cheating,Remove unresponsive objects from the classroom environment,19
+20,wcF0wPR,gpt_neo_13b,6,0.9,20,Automatically detect when students are cheating,prevent children from getting into a school environment,24
+27,wcF0wPR,gpt_neo_13b,7,0.9,20,Automatically detect when students are cheating,Prevent object from getting into contact with unwanted substances,29
+35,wcF0wPR,gpt_neo_13b,8,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,34
+44,wcF0wPR,gpt_neo_13b,9,0.9,20,Automatically detect when students are cheating,detect when students are cheating,39
+54,wcF0wPR,gpt_neo_13b,10,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,43

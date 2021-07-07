@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,TfC1yn0,gpt_neo_13b,1,0.9,20,fast predictive action with very little data,fast predictability of activity for a time,0
+2,TfC1yn0,gpt_neo_13b,2,0.9,20,fast predictive action with very little data,Prevent object in a head,5
+5,TfC1yn0,gpt_neo_13b,3,0.9,20,fast predictive action with very little data,Reduce the size of objects to reach the surface,10
+9,TfC1yn0,gpt_neo_13b,4,0.9,20,fast predictive action with very little data,Determine the best order in which molecules should be produced,15
+14,TfC1yn0,gpt_neo_13b,5,0.9,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,20
+20,TfC1yn0,gpt_neo_13b,6,0.9,20,fast predictive action with very little data,Save the data to the Internet,24
+27,TfC1yn0,gpt_neo_13b,7,0.9,20,fast predictive action with very little data,Prevent unwanted events from occurring,29
+35,TfC1yn0,gpt_neo_13b,8,0.9,20,fast predictive action with very little data,Enable knowledge maps and predictive actions,34
+44,TfC1yn0,gpt_neo_13b,9,0.9,20,fast predictive action with very little data,Detect objects at nanoscale,38
+54,TfC1yn0,gpt_neo_13b,10,0.9,20,fast predictive action with very little data,fast predictive action with very little data,43

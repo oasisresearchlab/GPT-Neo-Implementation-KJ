@@ -1,0 +1,151 @@
+﻿id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+CuKyd5q,gpt_neo_13b,1,0.9,20,type with limited mobility or range,Make a small diameter size to protect objects from high,0,Bad
+CuKyd5q,gpt_neo_13b,2,0.9,20,type with limited mobility or range,Increase movement speed in a moving or disoriented object at lower speeds,5,Neutral
+CuKyd5q,gpt_neo_13b,3,0.9,20,type with limited mobility or range,Reduce movement of a body,10,Bad
+CuKyd5q,gpt_neo_13b,4,0.9,20,type with limited mobility or range,use limited mobility to prevent movement,15,Bad
+CuKyd5q,gpt_neo_13b,5,0.9,20,type with limited mobility or range,enable a broom to clean in hard to reach places,20,Bad
+CuKyd5q,gpt_neo_13b,6,0.9,20,type with limited mobility or range,protect object from the penetration of foreign objects,25,Bad
+CuKyd5q,gpt_neo_13b,7,0.9,20,type with limited mobility or range,type with limited mobility or range,30,Bad
+CuKyd5q,gpt_neo_13b,8,0.9,20,type with limited mobility or range,Prevent movement by pushing forward with a pressure plate,35,Bad
+CuKyd5q,gpt_neo_13b,9,0.9,20,type with limited mobility or range,Disable devices to turn on or off,40,Bad
+CuKyd5q,gpt_neo_13b,10,0.9,20,type with limited mobility or range,Create a box in which objects are placed,45,Bad
+GIclWbl,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data and extract structure from complex unstructured data,0,Bad
+GIclWbl,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,Extract structures from unstructured object data,5,Bad
+GIclWbl,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,10,Bad
+GIclWbl,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,11,Bad
+GIclWbl,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,16,Bad
+GIclWbl,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,20,Bad
+GIclWbl,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,Expand data into a complete mathematical and mathematical model,25,Bad
+GIclWbl,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,stop object from getting into contact with unwanted substances,30,Bad
+GIclWbl,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from unstructured data,34,Bad
+GIclWbl,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,reduce user's dependence on information cues,39,Bad
+V0d2KGx,gpt_neo_13b,1,0.9,20,reason about the behavior of complex networked systems,provide a realistic sense of what is needed for networking of complex systems,0,Bad
+V0d2KGx,gpt_neo_13b,2,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,5,Bad
+V0d2KGx,gpt_neo_13b,3,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,9,Bad
+V0d2KGx,gpt_neo_13b,4,0.9,20,reason about the behavior of complex networked systems,make complex links via a network,14,Bad
+V0d2KGx,gpt_neo_13b,5,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,19,Bad
+V0d2KGx,gpt_neo_13b,6,0.9,20,reason about the behavior of complex networked systems,correct behavior,23,Bad
+V0d2KGx,gpt_neo_13b,7,0.9,20,reason about the behavior of complex networked systems,Protect object from external influences,28,Bad
+V0d2KGx,gpt_neo_13b,8,0.9,20,reason about the behavior of complex networked systems,protect user from the harmful effects of random noise,33,Bad
+V0d2KGx,gpt_neo_13b,9,0.9,20,reason about the behavior of complex networked systems,Determine the behavior of the complex system,37,Bad
+V0d2KGx,gpt_neo_13b,10,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,42,Bad
+MtqIFhA,gpt_neo_13b,1,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,increase light-emitting power output by applying a light wave to the walls of an energy tank,0,Bad
+MtqIFhA,gpt_neo_13b,2,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enable air-conditioned climate control system,5,Bad
+MtqIFhA,gpt_neo_13b,3,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Prevent water from entering by immersion into a bath,9,Bad
+MtqIFhA,gpt_neo_13b,4,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,enhance evaporation efficiency of thin liquid films in heat pipes,14,Bad
+MtqIFhA,gpt_neo_13b,5,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase efficiency of light in heat pipes,19,Bad
+MtqIFhA,gpt_neo_13b,6,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve the hold-off property,23,Bad
+MtqIFhA,gpt_neo_13b,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enable particles to flow in confined geometries,28,Bad
+MtqIFhA,gpt_neo_13b,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve evaporation efficiency of thin liquid films in heat pipes,32,Bad
+MtqIFhA,gpt_neo_13b,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Achieve heat dissipation in thin film in vacuum,37,Bad
+MtqIFhA,gpt_neo_13b,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Improve the evaporation efficiency with a liquid-precipitation treatment,42,Bad
+npVYpSg,gpt_neo_13b,1,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent ingestion of fertilizers into a plant,0,Bad
+npVYpSg,gpt_neo_13b,2,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent particle from entering and leaving the plant,5,Bad
+npVYpSg,gpt_neo_13b,3,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Preload particles into a reactor or some other device,10,Bad
+npVYpSg,gpt_neo_13b,4,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from penetrating a plant,15,Good
+npVYpSg,gpt_neo_13b,5,0.9,20,optimize entry of nanoparticle fertilizers into a plant,prevent use of nanolith or other nanoparticles due to their undesirable properties,19,Bad
+npVYpSg,gpt_neo_13b,6,0.9,20,optimize entry of nanoparticle fertilizers into a plant,prevent particle from entering the animal or plant,24,Bad
+npVYpSg,gpt_neo_13b,7,0.9,20,optimize entry of nanoparticle fertilizers into a plant,control volume of nanoparticles,29,Neutral
+npVYpSg,gpt_neo_13b,8,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Protect an object from the ingestion of foreign particles,33,Bad
+npVYpSg,gpt_neo_13b,9,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the use of chemical fertilizers in plants,38,Bad
+npVYpSg,gpt_neo_13b,10,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from penetrating particles,43,Bad
+WUHmiLy,gpt_neo_13b,1,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,0,Bad
+WUHmiLy,gpt_neo_13b,2,0.9,20,improve nanoscale heat transfer in semiconductor material,help to solve the heat-transfer problem,5,Neutral
+WUHmiLy,gpt_neo_13b,3,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve thermal equilibrium with a metal oxide,10,Bad
+WUHmiLy,gpt_neo_13b,4,0.9,20,improve nanoscale heat transfer in semiconductor material,improve thermal conductivity of multimeter,15,Bad
+WUHmiLy,gpt_neo_13b,5,0.9,20,improve nanoscale heat transfer in semiconductor material,reduce the temperature of heat transfer in nanoscale materials,19,Bad
+WUHmiLy,gpt_neo_13b,6,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,24,Bad
+WUHmiLy,gpt_neo_13b,7,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,29,Bad
+WUHmiLy,gpt_neo_13b,8,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,33,Bad
+WUHmiLy,gpt_neo_13b,9,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,38,Bad
+WUHmiLy,gpt_neo_13b,10,0.9,20,improve nanoscale heat transfer in semiconductor material,build and maintain a stable heat-transfer system,43,Good
+wcF0wPR,gpt_neo_13b,1,0.9,20,Automatically detect when students are cheating,Install a small electric charge to start a car,0,Bad
+wcF0wPR,gpt_neo_13b,2,0.9,20,Automatically detect when students are cheating,prevent children from cheating,5,Bad
+wcF0wPR,gpt_neo_13b,3,0.9,20,Automatically detect when students are cheating,Protect objects of different volumes,10,Bad
+wcF0wPR,gpt_neo_13b,4,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,15,Bad
+wcF0wPR,gpt_neo_13b,5,0.9,20,Automatically detect when students are cheating,Remove unresponsive objects from the classroom environment,19,Neutral
+wcF0wPR,gpt_neo_13b,6,0.9,20,Automatically detect when students are cheating,prevent children from getting into a school environment,24,Bad
+wcF0wPR,gpt_neo_13b,7,0.9,20,Automatically detect when students are cheating,Prevent object from getting into contact with unwanted substances,29,Bad
+wcF0wPR,gpt_neo_13b,8,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,34,Bad
+wcF0wPR,gpt_neo_13b,9,0.9,20,Automatically detect when students are cheating,detect when students are cheating,39,Bad
+wcF0wPR,gpt_neo_13b,10,0.9,20,Automatically detect when students are cheating,Automatically detect when students are cheating,43,Bad
+PuQcYdv,gpt_neo_13b,1,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,0,Bad
+PuQcYdv,gpt_neo_13b,2,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent the generation of non-functional or harmful behavior,5,Bad
+PuQcYdv,gpt_neo_13b,3,0.9,20,reason about complex sociotechnical ethical consequences of design choices,limit the amount of radiation that will be taken into consideration by the user,10,Bad
+PuQcYdv,gpt_neo_13b,4,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,14,Bad
+PuQcYdv,gpt_neo_13b,5,0.9,20,reason about complex sociotechnical ethical consequences of design choices,stop the generation of complex scientific process,19,Bad
+PuQcYdv,gpt_neo_13b,6,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent human-like processes from breaking the laws of physics,24,Bad
+PuQcYdv,gpt_neo_13b,7,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,28,Bad
+PuQcYdv,gpt_neo_13b,8,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent complex sociotechnical ethical consequences of design choices,33,Bad
+PuQcYdv,gpt_neo_13b,9,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,37,Bad
+PuQcYdv,gpt_neo_13b,10,0.9,20,reason about complex sociotechnical ethical consequences of design choices,limit time of a system to 1 second,42,Bad
+TfC1yn0,gpt_neo_13b,1,0.9,20,fast predictive action with very little data,fast predictability of activity for a time,0,Bad
+TfC1yn0,gpt_neo_13b,2,0.9,20,fast predictive action with very little data,Prevent object in a head,5,Bad
+TfC1yn0,gpt_neo_13b,3,0.9,20,fast predictive action with very little data,Reduce the size of objects to reach the surface,10,Bad
+TfC1yn0,gpt_neo_13b,4,0.9,20,fast predictive action with very little data,Determine the best order in which molecules should be produced,15,Bad
+TfC1yn0,gpt_neo_13b,5,0.9,20,fast predictive action with very little data,Enable a broom to clean in hard to reach places,20,Bad
+TfC1yn0,gpt_neo_13b,6,0.9,20,fast predictive action with very little data,Save the data to the Internet,24,Bad
+TfC1yn0,gpt_neo_13b,7,0.9,20,fast predictive action with very little data,Prevent unwanted events from occurring,29,Bad
+TfC1yn0,gpt_neo_13b,8,0.9,20,fast predictive action with very little data,Enable knowledge maps and predictive actions,34,Bad
+TfC1yn0,gpt_neo_13b,9,0.9,20,fast predictive action with very little data,Detect objects at nanoscale,38,Bad
+TfC1yn0,gpt_neo_13b,10,0.9,20,fast predictive action with very little data,fast predictive action with very little data,43,Bad
+MDHv5OG,gpt_neo_13b,1,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,0,Bad
+MDHv5OG,gpt_neo_13b,2,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer between two points,6,Bad
+MDHv5OG,gpt_neo_13b,3,0.9,20,reduce the load of data transfer across large distances,Reduce the length of time human life lives on the Earth,11,Bad
+MDHv5OG,gpt_neo_13b,4,0.9,20,reduce the load of data transfer across large distances,increase data transfer bandwidth,16,Good
+MDHv5OG,gpt_neo_13b,5,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,21,Bad
+MDHv5OG,gpt_neo_13b,6,0.9,20,reduce the load of data transfer across large distances,Reduce the size of an area or set of objects,26,Bad
+MDHv5OG,gpt_neo_13b,7,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,32,Bad
+MDHv5OG,gpt_neo_13b,8,0.9,20,reduce the load of data transfer across large distances,decrease the load of data transfer across large distances,37,Bad
+MDHv5OG,gpt_neo_13b,9,0.9,20,reduce the load of data transfer across large distances,add data to form a dynamic picture,42,Bad
+MDHv5OG,gpt_neo_13b,10,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,47,Bad
+rBAWEIR,gpt_neo_13b,1,0.9,20,reduce overheating in data centers,reduce waste generation from the storage and processing of data,0,Bad
+rBAWEIR,gpt_neo_13b,2,0.9,20,reduce overheating in data centers,protect object from the penetration of foreign substances,5,Bad
+rBAWEIR,gpt_neo_13b,3,0.9,20,reduce overheating in data centers,reduce overheating in data centers,11,Bad
+rBAWEIR,gpt_neo_13b,4,0.9,20,reduce overheating in data centers,Prevent the increase in risk of cancer,16,Bad
+rBAWEIR,gpt_neo_13b,5,0.9,20,reduce overheating in data centers,Prevent a waste of water by providing an effective surface clean,21,Bad
+rBAWEIR,gpt_neo_13b,6,0.9,20,reduce overheating in data centers,reduce the number of computer users,26,Bad
+rBAWEIR,gpt_neo_13b,7,0.9,20,reduce overheating in data centers,Protect sensitive data-center systems,31,Bad
+rBAWEIR,gpt_neo_13b,8,0.9,20,reduce overheating in data centers,reduce user's dependence on information,36,Bad
+rBAWEIR,gpt_neo_13b,9,0.9,20,reduce overheating in data centers,Make smart house in which objects can be held remotely,41,Bad
+rBAWEIR,gpt_neo_13b,10,0.9,20,reduce overheating in data centers,Reduce risk of data failure,46,Bad
+Rb659sh,gpt_neo_13b,1,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,0,Bad
+Rb659sh,gpt_neo_13b,2,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,5,Bad
+Rb659sh,gpt_neo_13b,3,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,10,Bad
+Rb659sh,gpt_neo_13b,4,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,15,Bad
+Rb659sh,gpt_neo_13b,5,0.9,20,identify soldiers in old civil war photographs,stop their weapons from attacking us,21,Bad
+Rb659sh,gpt_neo_13b,6,0.9,20,identify soldiers in old civil war photographs,protect vulnerable object from radiation,26,Bad
+Rb659sh,gpt_neo_13b,7,0.9,20,identify soldiers in old civil war photographs,make a weapon out of a metal device,32,Bad
+Rb659sh,gpt_neo_13b,8,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,37,Bad
+Rb659sh,gpt_neo_13b,9,0.9,20,identify soldiers in old civil war photographs,disable your guns and other equipment in your war vehicles,43,Bad
+Rb659sh,gpt_neo_13b,10,0.9,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign objects,48,Bad
+sfDFxJl,gpt_neo_13b,1,0.9,20,identify fake smiles and laughter,Stop object from getting into contact with unwanted substances,0,Bad
+sfDFxJl,gpt_neo_13b,2,0.9,20,identify fake smiles and laughter,prevent the transmission of light in an object,3,Bad
+sfDFxJl,gpt_neo_13b,3,0.9,20,identify fake smiles and laughter,prevent people from getting in touch with fake smiles and laughter,8,Bad
+sfDFxJl,gpt_neo_13b,4,0.9,20,identify fake smiles and laughter,Identify a fake mouth,12,Bad
+sfDFxJl,gpt_neo_13b,5,0.9,20,identify fake smiles and laughter,identify fake smiles and laughter,17,Bad
+sfDFxJl,gpt_neo_13b,6,0.9,20,identify fake smiles and laughter,Disable face from moving objects for more than an hour,23,Bad
+sfDFxJl,gpt_neo_13b,7,0.9,20,identify fake smiles and laughter,"create a strong, rigid structure out of soft materials",28,Bad
+sfDFxJl,gpt_neo_13b,8,0.9,20,identify fake smiles and laughter,Identify objects from outside and within,34,Bad
+sfDFxJl,gpt_neo_13b,9,0.9,20,identify fake smiles and laughter,Prevent food of the eye,39,Bad
+sfDFxJl,gpt_neo_13b,10,0.9,20,identify fake smiles and laughter,Improve the look of a smile,45,Bad
+GgkzBPu,gpt_neo_13b,1,0.9,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,0,Bad
+GgkzBPu,gpt_neo_13b,2,0.9,20,identify points of failure in a nuclear power plant procedure,Determine a range of danger from nuclear material,6,Bad
+GgkzBPu,gpt_neo_13b,3,0.9,20,identify points of failure in a nuclear power plant procedure,Establish electrical power systems with electrical elements,11,Bad
+GgkzBPu,gpt_neo_13b,4,0.9,20,identify points of failure in a nuclear power plant procedure,Provide an information request from a technician,16,Bad
+GgkzBPu,gpt_neo_13b,5,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent movement of air bubbles from gas discharge,21,Bad
+GgkzBPu,gpt_neo_13b,6,0.9,20,identify points of failure in a nuclear power plant procedure,Improve the safety of a nuclear power plant,26,Bad
+GgkzBPu,gpt_neo_13b,7,0.9,20,identify points of failure in a nuclear power plant procedure,Provide the location of electrical power plants,30,Bad
+GgkzBPu,gpt_neo_13b,8,0.9,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant,35,Bad
+GgkzBPu,gpt_neo_13b,9,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with harmful substances,40,Bad
+GgkzBPu,gpt_neo_13b,10,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with objects,42,Bad
+ZdNb5Jh,gpt_neo_13b,1,0.9,20,navigate in the dark,Make the object visually visible,0,Bad
+ZdNb5Jh,gpt_neo_13b,2,0.9,20,navigate in the dark,Help users navigate by a flashlight,6,Good
+ZdNb5Jh,gpt_neo_13b,3,0.9,20,navigate in the dark,Improve the sense of mobility of a vehicle,12,Bad
+ZdNb5Jh,gpt_neo_13b,4,0.9,20,navigate in the dark,Create a hole in a object or a space,19,Bad
+ZdNb5Jh,gpt_neo_13b,5,0.9,20,navigate in the dark,Drive a vehicle using a light,25,Neutral
+ZdNb5Jh,gpt_neo_13b,6,0.9,20,navigate in the dark,navigate in the dark,30,Bad
+ZdNb5Jh,gpt_neo_13b,7,0.9,20,navigate in the dark,prevent child from getting into the dark,36,Bad
+ZdNb5Jh,gpt_neo_13b,8,0.9,20,navigate in the dark,Prevent objects from getting into contact with unwanted substances,41,Bad
+ZdNb5Jh,gpt_neo_13b,9,0.9,20,navigate in the dark,navigate in the dark,47,Bad
+ZdNb5Jh,gpt_neo_13b,10,0.9,20,navigate in the dark,Protect vulnerable object from the light,52,Bad

@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,WUHmiLy,gpt_neo_13b,1,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve the feel of a complicated motion or force,0
+2,WUHmiLy,gpt_neo_13b,2,0.9,20,improve nanoscale heat transfer in semiconductor material,help to solve the heat-transfer problem,5
+5,WUHmiLy,gpt_neo_13b,3,0.9,20,improve nanoscale heat transfer in semiconductor material,Improve thermal equilibrium with a metal oxide,10
+9,WUHmiLy,gpt_neo_13b,4,0.9,20,improve nanoscale heat transfer in semiconductor material,improve thermal conductivity of multimeter,15
+14,WUHmiLy,gpt_neo_13b,5,0.9,20,improve nanoscale heat transfer in semiconductor material,reduce the temperature of heat transfer in nanoscale materials,19
+20,WUHmiLy,gpt_neo_13b,6,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,24
+27,WUHmiLy,gpt_neo_13b,7,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,29
+35,WUHmiLy,gpt_neo_13b,8,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,33
+44,WUHmiLy,gpt_neo_13b,9,0.9,20,improve nanoscale heat transfer in semiconductor material,improve nanoscale heat transfer in semiconductor material,38
+54,WUHmiLy,gpt_neo_13b,10,0.9,20,improve nanoscale heat transfer in semiconductor material,build and maintain a stable heat-transfer system,43

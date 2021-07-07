@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,GgkzBPu,gpt_neo_13b,1,0.9,20,identify points of failure in a nuclear power plant procedure,identify points of failure in a nuclear power plant procedure,0
+2,GgkzBPu,gpt_neo_13b,2,0.9,20,identify points of failure in a nuclear power plant procedure,Determine a range of danger from nuclear material,6
+5,GgkzBPu,gpt_neo_13b,3,0.9,20,identify points of failure in a nuclear power plant procedure,Establish electrical power systems with electrical elements,11
+9,GgkzBPu,gpt_neo_13b,4,0.9,20,identify points of failure in a nuclear power plant procedure,Provide an information request from a technician,16
+14,GgkzBPu,gpt_neo_13b,5,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent movement of air bubbles from gas discharge,21
+20,GgkzBPu,gpt_neo_13b,6,0.9,20,identify points of failure in a nuclear power plant procedure,Improve the safety of a nuclear power plant,26
+27,GgkzBPu,gpt_neo_13b,7,0.9,20,identify points of failure in a nuclear power plant procedure,Provide the location of electrical power plants,30
+35,GgkzBPu,gpt_neo_13b,8,0.9,20,identify points of failure in a nuclear power plant procedure,Identify points of failure in a nuclear power plant,35
+44,GgkzBPu,gpt_neo_13b,9,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with harmful substances,40
+54,GgkzBPu,gpt_neo_13b,10,0.9,20,identify points of failure in a nuclear power plant procedure,Prevent object from getting into contact with objects,42

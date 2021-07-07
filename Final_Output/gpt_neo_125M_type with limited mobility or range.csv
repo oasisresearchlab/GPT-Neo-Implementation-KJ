@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,CuKyd5q,gpt_neo_13b,1,0.9,20,type with limited mobility or range,Make a small diameter size to protect objects from high,0
+2,CuKyd5q,gpt_neo_13b,2,0.9,20,type with limited mobility or range,Increase movement speed in a moving or disoriented object at lower speeds,5
+5,CuKyd5q,gpt_neo_13b,3,0.9,20,type with limited mobility or range,Reduce movement of a body,10
+9,CuKyd5q,gpt_neo_13b,4,0.9,20,type with limited mobility or range,use limited mobility to prevent movement,15
+14,CuKyd5q,gpt_neo_13b,5,0.9,20,type with limited mobility or range,enable a broom to clean in hard to reach places,20
+20,CuKyd5q,gpt_neo_13b,6,0.9,20,type with limited mobility or range,protect object from the penetration of foreign objects,25
+27,CuKyd5q,gpt_neo_13b,7,0.9,20,type with limited mobility or range,type with limited mobility or range,30
+35,CuKyd5q,gpt_neo_13b,8,0.9,20,type with limited mobility or range,Prevent movement by pushing forward with a pressure plate,35
+44,CuKyd5q,gpt_neo_13b,9,0.9,20,type with limited mobility or range,Disable devices to turn on or off,40
+54,CuKyd5q,gpt_neo_13b,10,0.9,20,type with limited mobility or range,Create a box in which objects are placed,45

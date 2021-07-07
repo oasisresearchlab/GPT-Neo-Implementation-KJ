@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,Rb659sh,gpt_neo_13b,1,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,0
+2,Rb659sh,gpt_neo_13b,2,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,5
+5,Rb659sh,gpt_neo_13b,3,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,10
+9,Rb659sh,gpt_neo_13b,4,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,15
+14,Rb659sh,gpt_neo_13b,5,0.9,20,identify soldiers in old civil war photographs,stop their weapons from attacking us,21
+20,Rb659sh,gpt_neo_13b,6,0.9,20,identify soldiers in old civil war photographs,protect vulnerable object from radiation,26
+27,Rb659sh,gpt_neo_13b,7,0.9,20,identify soldiers in old civil war photographs,make a weapon out of a metal device,32
+35,Rb659sh,gpt_neo_13b,8,0.9,20,identify soldiers in old civil war photographs,identify soldiers in old civil war photographs,37
+44,Rb659sh,gpt_neo_13b,9,0.9,20,identify soldiers in old civil war photographs,disable your guns and other equipment in your war vehicles,43
+54,Rb659sh,gpt_neo_13b,10,0.9,20,identify soldiers in old civil war photographs,protect object from the penetration of foreign objects,48

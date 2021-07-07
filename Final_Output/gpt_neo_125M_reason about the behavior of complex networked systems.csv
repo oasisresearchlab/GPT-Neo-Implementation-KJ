@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,V0d2KGx,gpt_neo_13b,1,0.9,20,reason about the behavior of complex networked systems,provide a realistic sense of what is needed for networking of complex systems,0
+2,V0d2KGx,gpt_neo_13b,2,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,5
+5,V0d2KGx,gpt_neo_13b,3,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,9
+9,V0d2KGx,gpt_neo_13b,4,0.9,20,reason about the behavior of complex networked systems,make complex links via a network,14
+14,V0d2KGx,gpt_neo_13b,5,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,19
+20,V0d2KGx,gpt_neo_13b,6,0.9,20,reason about the behavior of complex networked systems,correct behavior,23
+27,V0d2KGx,gpt_neo_13b,7,0.9,20,reason about the behavior of complex networked systems,Protect object from external influences,28
+35,V0d2KGx,gpt_neo_13b,8,0.9,20,reason about the behavior of complex networked systems,protect user from the harmful effects of random noise,33
+44,V0d2KGx,gpt_neo_13b,9,0.9,20,reason about the behavior of complex networked systems,Determine the behavior of the complex system,37
+54,V0d2KGx,gpt_neo_13b,10,0.9,20,reason about the behavior of complex networked systems,reason about the behavior of complex networked systems,42

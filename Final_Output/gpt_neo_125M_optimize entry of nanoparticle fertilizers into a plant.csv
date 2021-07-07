@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,npVYpSg,gpt_neo_13b,1,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent ingestion of fertilizers into a plant,0
+2,npVYpSg,gpt_neo_13b,2,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent particle from entering and leaving the plant,5
+5,npVYpSg,gpt_neo_13b,3,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Preload particles into a reactor or some other device,10
+9,npVYpSg,gpt_neo_13b,4,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from penetrating a plant,15
+14,npVYpSg,gpt_neo_13b,5,0.9,20,optimize entry of nanoparticle fertilizers into a plant,prevent use of nanolith or other nanoparticles due to their undesirable properties,19
+20,npVYpSg,gpt_neo_13b,6,0.9,20,optimize entry of nanoparticle fertilizers into a plant,prevent particle from entering the animal or plant,24
+27,npVYpSg,gpt_neo_13b,7,0.9,20,optimize entry of nanoparticle fertilizers into a plant,control volume of nanoparticles,29
+35,npVYpSg,gpt_neo_13b,8,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Protect an object from the ingestion of foreign particles,33
+44,npVYpSg,gpt_neo_13b,9,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Reduce the use of chemical fertilizers in plants,38
+54,npVYpSg,gpt_neo_13b,10,0.9,20,optimize entry of nanoparticle fertilizers into a plant,Prevent nanoparticle fertilizers from penetrating particles,43

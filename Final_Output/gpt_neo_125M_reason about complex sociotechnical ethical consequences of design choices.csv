@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,PuQcYdv,gpt_neo_13b,1,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,0
+2,PuQcYdv,gpt_neo_13b,2,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent the generation of non-functional or harmful behavior,5
+5,PuQcYdv,gpt_neo_13b,3,0.9,20,reason about complex sociotechnical ethical consequences of design choices,limit the amount of radiation that will be taken into consideration by the user,10
+9,PuQcYdv,gpt_neo_13b,4,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,14
+14,PuQcYdv,gpt_neo_13b,5,0.9,20,reason about complex sociotechnical ethical consequences of design choices,stop the generation of complex scientific process,19
+20,PuQcYdv,gpt_neo_13b,6,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent human-like processes from breaking the laws of physics,24
+27,PuQcYdv,gpt_neo_13b,7,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,28
+35,PuQcYdv,gpt_neo_13b,8,0.9,20,reason about complex sociotechnical ethical consequences of design choices,prevent complex sociotechnical ethical consequences of design choices,33
+44,PuQcYdv,gpt_neo_13b,9,0.9,20,reason about complex sociotechnical ethical consequences of design choices,reason about complex sociotechnical ethical consequences of design choices,37
+54,PuQcYdv,gpt_neo_13b,10,0.9,20,reason about complex sociotechnical ethical consequences of design choices,limit time of a system to 1 second,42

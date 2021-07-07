@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,sfDFxJl,gpt_neo_13b,1,0.9,20,identify fake smiles and laughter,Stop object from getting into contact with unwanted substances,0
+2,sfDFxJl,gpt_neo_13b,2,0.9,20,identify fake smiles and laughter,prevent the transmission of light in an object,3
+5,sfDFxJl,gpt_neo_13b,3,0.9,20,identify fake smiles and laughter,prevent people from getting in touch with fake smiles and laughter,8
+9,sfDFxJl,gpt_neo_13b,4,0.9,20,identify fake smiles and laughter,Identify a fake mouth,12
+14,sfDFxJl,gpt_neo_13b,5,0.9,20,identify fake smiles and laughter,identify fake smiles and laughter,17
+20,sfDFxJl,gpt_neo_13b,6,0.9,20,identify fake smiles and laughter,Disable face from moving objects for more than an hour,23
+27,sfDFxJl,gpt_neo_13b,7,0.9,20,identify fake smiles and laughter,"create a strong, rigid structure out of soft materials",28
+35,sfDFxJl,gpt_neo_13b,8,0.9,20,identify fake smiles and laughter,Identify objects from outside and within,34
+44,sfDFxJl,gpt_neo_13b,9,0.9,20,identify fake smiles and laughter,Prevent food of the eye,39
+54,sfDFxJl,gpt_neo_13b,10,0.9,20,identify fake smiles and laughter,Improve the look of a smile,45

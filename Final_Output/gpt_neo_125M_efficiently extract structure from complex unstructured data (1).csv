@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,GIclWbl,gpt_neo_13b,1,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data and extract structure from complex unstructured data,0
+2,GIclWbl,gpt_neo_13b,2,0.9,20,efficiently extract structure from complex unstructured data,Extract structures from unstructured object data,5
+5,GIclWbl,gpt_neo_13b,3,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,10
+9,GIclWbl,gpt_neo_13b,4,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,11
+14,GIclWbl,gpt_neo_13b,5,0.9,20,efficiently extract structure from complex unstructured data,efficiently extract structure from complex unstructured data,16
+20,GIclWbl,gpt_neo_13b,6,0.9,20,efficiently extract structure from complex unstructured data,extract structure from complex unstructured data,20
+27,GIclWbl,gpt_neo_13b,7,0.9,20,efficiently extract structure from complex unstructured data,Expand data into a complete mathematical and mathematical model,25
+35,GIclWbl,gpt_neo_13b,8,0.9,20,efficiently extract structure from complex unstructured data,stop object from getting into contact with unwanted substances,30
+44,GIclWbl,gpt_neo_13b,9,0.9,20,efficiently extract structure from complex unstructured data,Extract structure from unstructured data,34
+54,GIclWbl,gpt_neo_13b,10,0.9,20,efficiently extract structure from complex unstructured data,reduce user's dependence on information cues,39

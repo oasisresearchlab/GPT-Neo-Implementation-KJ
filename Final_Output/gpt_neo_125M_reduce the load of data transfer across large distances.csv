@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,MDHv5OG,gpt_neo_13b,1,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,0
+2,MDHv5OG,gpt_neo_13b,2,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer between two points,6
+5,MDHv5OG,gpt_neo_13b,3,0.9,20,reduce the load of data transfer across large distances,Reduce the length of time human life lives on the Earth,11
+9,MDHv5OG,gpt_neo_13b,4,0.9,20,reduce the load of data transfer across large distances,increase data transfer bandwidth,16
+14,MDHv5OG,gpt_neo_13b,5,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,21
+20,MDHv5OG,gpt_neo_13b,6,0.9,20,reduce the load of data transfer across large distances,Reduce the size of an area or set of objects,26
+27,MDHv5OG,gpt_neo_13b,7,0.9,20,reduce the load of data transfer across large distances,reduce the load of data transfer across large distances,32
+35,MDHv5OG,gpt_neo_13b,8,0.9,20,reduce the load of data transfer across large distances,decrease the load of data transfer across large distances,37
+44,MDHv5OG,gpt_neo_13b,9,0.9,20,reduce the load of data transfer across large distances,add data to form a dynamic picture,42
+54,MDHv5OG,gpt_neo_13b,10,0.9,20,reduce the load of data transfer across large distances,Reduce the load of data transfer across large distances,47
