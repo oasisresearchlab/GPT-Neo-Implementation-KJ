@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,DUODyQR,gpt_neo_13b,1,0.9,20,reduce overheating in data centers,Reduce heat loss in a data center,0,Neutral
+2,DUODyQR,gpt_neo_13b,2,0.9,20,reduce overheating in data centers,prevent damage to data and power systems in the field,265,Bad
+5,DUODyQR,gpt_neo_13b,3,0.9,20,reduce overheating in data centers,Reduce the energy consumption of data centers,531,Good
+9,DUODyQR,gpt_neo_13b,4,0.9,20,reduce overheating in data centers,Reduce the amount of energy required to cool a system,798,Good
+14,DUODyQR,gpt_neo_13b,5,0.9,20,reduce overheating in data centers,Improve energy efficiency in data centers,1064,Good
+20,DUODyQR,gpt_neo_13b,6,0.9,20,reduce overheating in data centers,Reduce energy consumption in high-power computers,1330,Good
+27,DUODyQR,gpt_neo_13b,7,0.9,20,reduce overheating in data centers,Reduce the temperature sensitivity of systems,1594,Neutral
+35,DUODyQR,gpt_neo_13b,8,0.9,20,reduce overheating in data centers,Reduce thermal load on cooling systems,1857,Good
+44,DUODyQR,gpt_neo_13b,9,0.9,20,reduce overheating in data centers,Reduce heat loss from electronics by utilizing thermal design,2121,Good
+54,DUODyQR,gpt_neo_13b,10,0.9,20,reduce overheating in data centers,reduce temperatures in data centers,2384,Neutral

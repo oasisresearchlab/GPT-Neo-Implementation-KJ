@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,sEqa3wk,gpt_neo_13b,1,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enhance heat transfer by reducing the evaporation rate,0,Neutral
+2,sEqa3wk,gpt_neo_13b,2,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enhance heat transfer through thin films,297,Neutral
+5,sEqa3wk,gpt_neo_13b,3,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Increase fluid flow in thin thin film heat pipes,592,Bad
+9,sEqa3wk,gpt_neo_13b,4,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enhance the evaporation process of water,883,Bad
+14,sEqa3wk,gpt_neo_13b,5,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,optimize the efficiency of a thin film by avoiding thermal feedback,1076,Good
+20,sEqa3wk,gpt_neo_13b,6,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Create thin films of substances with good evaporation,1398,Good
+27,sEqa3wk,gpt_neo_13b,7,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Develop thin liquid films with evaporation efficiency,1705,Good
+35,sEqa3wk,gpt_neo_13b,8,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enhance heat-transfer in a thin film,2011,Good
+44,sEqa3wk,gpt_neo_13b,9,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,improve the efficiency of thin liquid films,2302,Good
+54,sEqa3wk,gpt_neo_13b,10,0.9,20,enhance evaporation efficiency of thin liquid films in heat pipes,Enhance the efficiency of heat pipes,2596,Good

@@ -1,0 +1,21 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+1890,FsfSaoi,gpt_neo_13b,1,0.9,20,navigate in the dark,Adapt control surfaces to track moving objects,2671,Bad
+1952,FsfSaoi,gpt_neo_13b,2,0.9,20,navigate in the dark,Create a map of the world,2715,Neutral
+2015,FsfSaoi,gpt_neo_13b,3,0.9,20,navigate in the dark,Find a way around a maze,2759,Neutral
+2079,FsfSaoi,gpt_neo_13b,4,0.9,20,navigate in the dark,navigate in an environment,2803,Bad
+2144,FsfSaoi,gpt_neo_13b,5,0.9,20,navigate in the dark,Extend the physical reach of a tool,2848,Neutral
+2210,FsfSaoi,gpt_neo_13b,6,0.9,20,navigate in the dark,Use the environment to your advantage,2892,Bad
+2277,FsfSaoi,gpt_neo_13b,7,0.9,20,navigate in the dark,Enable objects to move in space free from illumination,2937,Bad
+2345,FsfSaoi,gpt_neo_13b,8,0.9,20,navigate in the dark,navigate by visual cues while moving,2982,Neutral
+2414,FsfSaoi,gpt_neo_13b,9,0.9,20,navigate in the dark,"Create a path by interacting with terrain, obstacles",3027,Neutral
+2484,FsfSaoi,gpt_neo_13b,10,0.9,20,navigate in the dark,navigate the environment by adjusting light intensity,3072,Good
+2555,FsfSaoi,gpt_neo_13b,11,0.9,20,navigate in the dark,Search for landmarks in the field,3116,Bad
+2627,FsfSaoi,gpt_neo_13b,12,0.9,20,navigate in the dark,Add degrees of freedom to a rigid model,3130,Neutral
+2700,FsfSaoi,gpt_neo_13b,13,0.9,20,navigate in the dark,use landmarks to form the view from a starting point,3174,Neutral
+2774,FsfSaoi,gpt_neo_13b,14,0.9,20,navigate in the dark,Find a way by looking in a series of non-repeating patterns,3219,Bad
+2849,FsfSaoi,gpt_neo_13b,15,0.9,20,navigate in the dark,Provide physical cues for navigating through a dark environment,3263,Good
+2925,FsfSaoi,gpt_neo_13b,16,0.9,20,navigate in the dark,Navigate as a robot,3308,Bad
+3002,FsfSaoi,gpt_neo_13b,17,0.9,20,navigate in the dark,Use light as necessary to navigate in the dark,3351,Neutral
+3080,FsfSaoi,gpt_neo_13b,18,0.9,20,navigate in the dark,Create a light and dark image,3395,Bad
+3159,FsfSaoi,gpt_neo_13b,19,0.9,20,navigate in the dark,Provide a navigational aid for those with disabilities,3439,Good
+3239,FsfSaoi,gpt_neo_13b,20,0.9,20,navigate in the dark,create a spatial awareness based on human navigation skills,3483,Good

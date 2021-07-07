@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,lHiexb6,gpt_neo_13b,1,0.9,20,reduce the load of data transfer across large distances,Reduce power consumption in transmission and data-processing,0,Good
+2,lHiexb6,gpt_neo_13b,2,0.9,20,reduce the load of data transfer across large distances,Increase flexibility of data transmission,127,Bad
+5,lHiexb6,gpt_neo_13b,3,0.9,20,reduce the load of data transfer across large distances,Reduce power required to transmit data,254,Good
+9,lHiexb6,gpt_neo_13b,4,0.9,20,reduce the load of data transfer across large distances,Reduce the data volume,381,Good
+14,lHiexb6,gpt_neo_13b,5,0.9,20,reduce the load of data transfer across large distances,Reduce data transfer time between two devices,507,Good
+20,lHiexb6,gpt_neo_13b,6,0.9,20,reduce the load of data transfer across large distances,Reduce the distance a message travels,624,Good
+27,lHiexb6,gpt_neo_13b,7,0.9,20,reduce the load of data transfer across large distances,Create structures that avoid long distances on a single data transfer,750,Neutral
+35,lHiexb6,gpt_neo_13b,8,0.9,20,reduce the load of data transfer across large distances,Enhance the efficiency of data transmission,876,Good
+44,lHiexb6,gpt_neo_13b,9,0.9,20,reduce the load of data transfer across large distances,reduce the data transfer rate using optical or radio waves,1002,Neutral
+54,lHiexb6,gpt_neo_13b,10,0.9,20,reduce the load of data transfer across large distances,Reduce data transfer load significantly,1129,Good

@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,m9BdwI9,generator_gpt_neo_2_7,1,0.9,20,reduce overheating in data centers,extend the physical reach of a tool,0,Bad
+2,m9BdwI9,generator_gpt_neo_2_7,2,0.9,20,reduce overheating in data centers,Achieve robust orientation stability,69,Bad
+5,m9BdwI9,generator_gpt_neo_2_7,3,0.9,20,reduce overheating in data centers,Reduce system heat load,132,Good
+9,m9BdwI9,generator_gpt_neo_2_7,4,0.9,20,reduce overheating in data centers,make power available when needed,199,Good
+14,m9BdwI9,generator_gpt_neo_2_7,5,0.9,20,reduce overheating in data centers,reduce user's dependency on information cues,267,Bad
+20,m9BdwI9,generator_gpt_neo_2_7,6,0.9,20,reduce overheating in data centers,Reduce the sensitivity of a system and prevent unwanted heat from reaching an object,336,Good
+27,m9BdwI9,generator_gpt_neo_2_7,7,0.9,20,reduce overheating in data centers,Improve the reliability of power supplies,404,Good
+35,m9BdwI9,generator_gpt_neo_2_7,8,0.9,20,reduce overheating in data centers,Stop overheating in a system,472,Neutral
+44,m9BdwI9,generator_gpt_neo_2_7,9,0.9,20,reduce overheating in data centers,Increase data storage density,540,Neutral
+54,m9BdwI9,generator_gpt_neo_2_7,10,0.9,20,reduce overheating in data centers,Reduce data center energy use by better cooling design,608,Good

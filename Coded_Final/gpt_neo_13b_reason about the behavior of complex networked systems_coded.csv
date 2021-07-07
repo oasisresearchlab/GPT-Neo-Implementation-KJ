@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,e2Axm7z,gpt_neo_13b,1,0.9,20,reason about the behavior of complex networked systems,Explain the relationship between a networked system and its individual parts,0,Bad
+2,e2Axm7z,gpt_neo_13b,2,0.9,20,reason about the behavior of complex networked systems,Explain behavior of a given system in the given context,311,Neutral
+5,e2Axm7z,gpt_neo_13b,3,0.9,20,reason about the behavior of complex networked systems,Explain why a given phenomenon occurs in a complex network,616,Good
+9,e2Axm7z,gpt_neo_13b,4,0.9,20,reason about the behavior of complex networked systems,Explain why a given system has the structure it does,930,Neutral
+14,e2Axm7z,gpt_neo_13b,5,0.9,20,reason about the behavior of complex networked systems,Explain why some components of the system have a strong preference to the same state,1236,Bad
+20,e2Axm7z,gpt_neo_13b,6,0.9,20,reason about the behavior of complex networked systems,Explain and explain the behavior of complex systems,1538,Bad
+27,e2Axm7z,gpt_neo_13b,7,0.9,20,reason about the behavior of complex networked systems,"Explain the behavior of complex, chaotic systems",1841,Bad
+35,e2Axm7z,gpt_neo_13b,8,0.9,20,reason about the behavior of complex networked systems,Explain why behavior emerges from a complex network,2141,Bad
+44,e2Axm7z,gpt_neo_13b,9,0.9,20,reason about the behavior of complex networked systems,Explain the relationship between an object and its neighbors,2447,Bad
+54,e2Axm7z,gpt_neo_13b,10,0.9,20,reason about the behavior of complex networked systems,describe what is the cause of the system operation,2745,Bad

@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,XZX26SG,generator_gpt_neo_2_7,1,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Discuss ethical implications and trade-offs,0,Good
+2,XZX26SG,generator_gpt_neo_2_7,2,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Explain the tradeoffs behind the design choices made,62,Good
+5,XZX26SG,generator_gpt_neo_2_7,3,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Evaluate complex choices of technical design,121,Good
+9,XZX26SG,generator_gpt_neo_2_7,4,0.9,20,reason about complex sociotechnical ethical consequences of design choices,state and explain complex ethical issues in terms of technical solutions,183,Good
+14,XZX26SG,generator_gpt_neo_2_7,5,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Create solutions for difficult challenges by considering the ethical dimension,242,Good
+20,XZX26SG,generator_gpt_neo_2_7,6,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Generate data and communicate information to stakeholders,303,Good
+27,XZX26SG,generator_gpt_neo_2_7,7,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Identify the ethical issues arising from a design solution,361,Good
+35,XZX26SG,generator_gpt_neo_2_7,8,0.9,20,reason about complex sociotechnical ethical consequences of design choices,understand the complex interactions between a variety of stakeholders,420,Good
+44,XZX26SG,generator_gpt_neo_2_7,9,0.9,20,reason about complex sociotechnical ethical consequences of design choices,Uncover how information influences choices and consequences,478,Good
+54,XZX26SG,generator_gpt_neo_2_7,10,0.9,20,reason about complex sociotechnical ethical consequences of design choices,explore possible solutions to social-ethical problems raised by design decisions,538,Good

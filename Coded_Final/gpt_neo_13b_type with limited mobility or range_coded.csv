@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_coded
+0,MuCKwcg,gpt_neo_13b,1,0.9,20,type with limited mobility or range,create structure from elastic elements,0,Bad
+2,MuCKwcg,gpt_neo_13b,2,0.9,20,type with limited mobility or range,type a material that allows a tool or tool-handle to be manipulated on a different level,161,Bad
+5,MuCKwcg,gpt_neo_13b,3,0.9,20,type with limited mobility or range,Reduce complexity of complex motion,466,Neutral
+9,MuCKwcg,gpt_neo_13b,4,0.9,20,type with limited mobility or range,make objects that extend the mechanical reach of a tool,774,Good
+14,MuCKwcg,gpt_neo_13b,5,0.9,20,type with limited mobility or range,Type with limited range,1081,Bad
+20,MuCKwcg,gpt_neo_13b,6,0.9,20,type with limited mobility or range,"Restrict mobility, or remove limitations",1402,Neutral
+27,MuCKwcg,gpt_neo_13b,7,0.9,20,type with limited mobility or range,Type objects of limited range and movement,1716,Good
+35,MuCKwcg,gpt_neo_13b,8,0.9,20,type with limited mobility or range,Extend the physical reach of a tool,2021,Good
+44,MuCKwcg,gpt_neo_13b,9,0.9,20,type with limited mobility or range,Limit the shape or size of an object,2323,Good
+54,MuCKwcg,gpt_neo_13b,10,0.9,20,type with limited mobility or range,Reduce energy consumption,2630,Bad

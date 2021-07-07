@@ -1,0 +1,11 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,Result_Coded
+0,YdKZ0kz,generator_gpt_neo_2_7,1,0.9,20,identify fake smiles and laughter,Discriminate fake signals from real ones,0,Neutral
+2,YdKZ0kz,generator_gpt_neo_2_7,2,0.9,20,identify fake smiles and laughter,use visual cues from images to provide context for speech gestures,59,Good
+5,YdKZ0kz,generator_gpt_neo_2_7,3,0.9,20,identify fake smiles and laughter,Identify signs of fake smiles and laughter,122,Neutral
+9,YdKZ0kz,generator_gpt_neo_2_7,4,0.9,20,identify fake smiles and laughter,identify signs of a fake smile or laugh,190,Neutral
+14,YdKZ0kz,generator_gpt_neo_2_7,5,0.9,20,identify fake smiles and laughter,Identify artifacts and errors in system,258,Bad
+20,YdKZ0kz,generator_gpt_neo_2_7,6,0.9,20,identify fake smiles and laughter,Prevent user from detecting facial expressions and laughter,326,Neutral
+27,YdKZ0kz,generator_gpt_neo_2_7,7,0.9,20,identify fake smiles and laughter,Facilitate visual and audio communication,394,Neutral
+35,YdKZ0kz,generator_gpt_neo_2_7,8,0.9,20,identify fake smiles and laughter,Identify expressions caused by motion artifacts,462,Good
+44,YdKZ0kz,generator_gpt_neo_2_7,9,0.9,20,identify fake smiles and laughter,identify facial expressions,530,Good
+54,YdKZ0kz,generator_gpt_neo_2_7,10,0.9,20,identify fake smiles and laughter,find key parts of a face that are difficult to interpret,598,Good
