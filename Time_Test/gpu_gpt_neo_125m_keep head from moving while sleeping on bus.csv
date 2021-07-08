@@ -1,12 +1,7 @@
 ,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
-0,kxQfmtt,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,Reduce the number of moving objects to reduce the number of moving objects,0,
-2,kxQfmtt,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,Prepare for the most serious injury,14,14
-5,kxQfmtt,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,Keep the head from moving while sleeping on bus,27,13
-9,kxQfmtt,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Prevent dog from getting into contact with unwanted substances,41,14
-14,kxQfmtt,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Prevent body from getting into contact with a foreign object,54,13
-20,kxQfmtt,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,prevent falling objects from moving toward you,67,13
-27,kxQfmtt,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,Protect object from the penetration of foreign objects,80,13
-35,kxQfmtt,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,93,13
-44,kxQfmtt,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,prevent body from moving while sleeping on bus,106,13
-54,kxQfmtt,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Stop object from getting into contact with a hostile object,119,13
-,,,,,,,,,13.22222222
+0,BJ1n8WE,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,Remove dirty objects from their surroundings,0,
+2,BJ1n8WE,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,16,16
+5,BJ1n8WE,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,32,16
+9,BJ1n8WE,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Prevent objects from getting in contact with unwanted substances,49,17
+14,BJ1n8WE,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on bus,65,16
+,,,,,,,,,16.25

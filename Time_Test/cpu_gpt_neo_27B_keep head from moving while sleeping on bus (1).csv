@@ -1,0 +1,7 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,I8cHmM2,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,eliminate unwanted head movements,0,
+2,I8cHmM2,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,prevent head from moving while sleeping on buses,315,315
+5,I8cHmM2,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,Eliminate information cues that help user to be safe when resting,644,329
+9,I8cHmM2,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Prevent head from touching parts that other people cannot see,959,315
+14,I8cHmM2,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Protect head from collisions during movement,1279,320
+,,,,,,,,,319.75

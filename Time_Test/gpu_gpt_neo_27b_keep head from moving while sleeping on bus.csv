@@ -1,0 +1,7 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,drltMlI,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,prevent unwanted movements of body parts,0,
+2,drltMlI,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,Allow the driver to operate the vehicle by simply thinking about it,309,309
+5,drltMlI,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,prevent head from moving during a rest period,618,309
+9,drltMlI,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,enable easy orientation of an object in space,927,309
+14,drltMlI,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,provide a safe place for sleeping,1234,307
+,,,,,,,,,308.5

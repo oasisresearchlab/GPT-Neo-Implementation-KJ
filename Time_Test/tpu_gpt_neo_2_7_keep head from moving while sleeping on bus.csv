@@ -1,0 +1,12 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,GWJ1Z8i,generator_gpt_neo_2_7,1,0.9,20,keep head from moving while sleeping on bus,Prevent head motion while sleeping,0,
+2,GWJ1Z8i,generator_gpt_neo_2_7,2,0.9,20,keep head from moving while sleeping on bus,Prevent user's head from moving while sleeping on a bus,63,63
+5,GWJ1Z8i,generator_gpt_neo_2_7,3,0.9,20,keep head from moving while sleeping on bus,Prevent object with weight from moving while on a mobile platform,126,63
+9,GWJ1Z8i,generator_gpt_neo_2_7,4,0.9,20,keep head from moving while sleeping on bus,prevent head from falling on surface,188,62
+14,GWJ1Z8i,generator_gpt_neo_2_7,5,0.9,20,keep head from moving while sleeping on bus,Protect head from unwanted acceleration,224,36
+20,GWJ1Z8i,generator_gpt_neo_2_7,6,0.9,20,keep head from moving while sleeping on bus,Prevent head movements while sleeping on the way by making sleep more comfortable,286,62
+27,GWJ1Z8i,generator_gpt_neo_2_7,7,0.9,20,keep head from moving while sleeping on bus,stop user from moving head or body,349,63
+35,GWJ1Z8i,generator_gpt_neo_2_7,8,0.9,20,keep head from moving while sleeping on bus,Prevent unwanted movements of head when sleeping on a chair,414,65
+44,GWJ1Z8i,generator_gpt_neo_2_7,9,0.9,20,keep head from moving while sleeping on bus,Make object stable within a changing environment,480,66
+54,GWJ1Z8i,generator_gpt_neo_2_7,10,0.9,20,keep head from moving while sleeping on bus,Prevent head from moving without using the bus,547,67
+,,,,,,,,,60.77777778

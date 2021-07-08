@@ -1,12 +1,7 @@
 ,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
-0,MiGoF09,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,Protect object from external forces acting on the head,0,
-2,MiGoF09,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,keep head stable so as to reduce the risk of motion sickness,131,131
-5,MiGoF09,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,Keep a rigid structure stable,262,131
-9,MiGoF09,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,prevent head from moving while driving on road,393,131
-14,MiGoF09,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Keep head from moving when the bus is stopped,524,131
-20,MiGoF09,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,prevent unwanted motion of head,655,131
-27,MiGoF09,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,Prevent movement of object while sleeping on a bus,788,133
-35,MiGoF09,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,Keep head from moving while in a car,922,134
-44,MiGoF09,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,Create stable structure by mechanical interaction,1055,133
-54,MiGoF09,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Prevent the head from rotating if a support is removed,1188,133
-,,,,,,,,,132
+0,QfpHUSS,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,"Keep a rigid, stable form while allowing the head to be free to move",0,
+2,QfpHUSS,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,keep object from moving while sleeping on a chair,155,155
+5,QfpHUSS,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,keep object stable as it tries to fall away,309,154
+9,QfpHUSS,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,keep head from moving but prevent it from moving when awake,463,154
+14,QfpHUSS,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Keep a head from rotating relative to the rest of body,616,153
+,,,,,,,,,154
