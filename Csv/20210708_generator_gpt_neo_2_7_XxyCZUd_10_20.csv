@@ -1,0 +1,11 @@
+id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+XxyCZUd,generator_gpt_neo_2_7,1,0.9,20,identify points of failure in a nuclear power plant procedure,Provide high reliability in engineering,0
+XxyCZUd,generator_gpt_neo_2_7,2,0.9,20,identify points of failure in a nuclear power plant procedure,Analyze the failure modes of a process,219
+XxyCZUd,generator_gpt_neo_2_7,3,0.9,20,identify points of failure in a nuclear power plant procedure,Understand the underlying factors of reliability in complex systems,413
+XxyCZUd,generator_gpt_neo_2_7,4,0.9,20,identify points of failure in a nuclear power plant procedure,Identify any part that is not working properly,599
+XxyCZUd,generator_gpt_neo_2_7,5,0.9,20,identify points of failure in a nuclear power plant procedure,improve performance and robustness of a control system,768
+XxyCZUd,generator_gpt_neo_2_7,6,0.9,20,identify points of failure in a nuclear power plant procedure,Identify a number of opportunities where a procedure could fail,932
+XxyCZUd,generator_gpt_neo_2_7,7,0.9,20,identify points of failure in a nuclear power plant procedure,identify root causes of failures and provide a plan of corrective action,1102
+XxyCZUd,generator_gpt_neo_2_7,8,0.9,20,identify points of failure in a nuclear power plant procedure,Identify places where a procedure is no longer reliable,1304
+XxyCZUd,generator_gpt_neo_2_7,9,0.9,20,identify points of failure in a nuclear power plant procedure,prevent a specific situation from occurring in a controlled manner,1482
+XxyCZUd,generator_gpt_neo_2_7,10,0.9,20,identify points of failure in a nuclear power plant procedure,Identify and resolve potential vulnerabilities in safety systems,1660
