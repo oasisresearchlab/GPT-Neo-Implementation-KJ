@@ -1,0 +1,63 @@
+Given a problem statement, generate an abstracted reformulation of that problem statement
+
+Problem statement: Shield baby from the sun
+Abstracted reformulation: Protect vulnerable object from radiation
+
+Problem statement: Prevent feet from getting wet
+Abstracted reformulation: Stop object from getting into contact with unwanted substances
+
+Problem statement: Hold soap bars of multiple sizes
+Abstracted reformulation: Contain objects of different volumes
+
+Problem statement: Enable a broom to clean in hard to reach places
+Abstracted reformulation: Extend the physical reach of a tool
+
+Problem statement: drill into teeth quietly
+Abstracted reformulation: create a hole in an object without causing an unwanted noise
+
+Problem statement: make house out of cooked spaghetti
+Abstracted reformulation: create strong, rigid structure out of soft materials
+
+Problem statement: make house out of cooked spaghetti
+Abstracted reformulation: create structure from elastic elements
+
+Problem statement:  prevent bicycle tire flats
+Abstracted reformulation: protect object from the penetration of foreign objects
+
+Problem statement: prevent blood clotting in stents
+Abstracted reformulation: prevent clogging of cylindrical tubes
+
+Problem statement: transfer heat in semiconductors at nanoscale
+Abstracted reformulation: Enable particles to flow in confined geometries
+
+Problem statement:reduce seasickness in virtual reality systems
+Abstracted reformulation: reduce user's dependency on information cues
+
+Problem statement:reduce seasickness in virtual reality systems
+Abstracted reformulation: Achieve robust orientation stability
+
+Problem statement:reduce seasickness in virtual reality systems
+Abstracted reformulation: improve the feel of a complicated motion or force
+
+Problem statement:wash clothes without water
+Abstracted reformulation: Remove dirt from objects by mechanical force
+
+Problem statement:charge cell phones on the go
+Abstracted reformulation: Charge a battery source from a remote energy-source
+
+Problem statement:charge cell phones on the go
+Abstracted reformulation: Supply power to electrical devices in the field
+
+Problem statement:protect feet from getting wet
+Abstracted reformulation: stop entry of foreign particles
+
+Problem statement:protect feet from getting wet
+Abstracted reformulation: Mechanically stop liquid from penetrating a space
+
+Problem statement:shield baby from the sun
+Abstracted reformulation: Protect vulnerable object from radiation
+
+Problem statement:Prevent feet from getting wet
+Abstracted reformulation: Stop object from getting into contact with unwanted substances
+
+Problem statement: 
