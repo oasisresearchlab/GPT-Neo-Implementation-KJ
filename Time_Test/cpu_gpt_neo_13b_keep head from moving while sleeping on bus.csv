@@ -1,0 +1,12 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,xg6jWcn,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,Prevent object from falling into desired position,0,
+2,xg6jWcn,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,Control a motor and an electronic circuit,128,128
+5,xg6jWcn,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,hold objects in place by physical force,256,128
+9,xg6jWcn,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,,388,132
+14,xg6jWcn,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,prevent head from moving from place to place,516,128
+20,xg6jWcn,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,Protect head from the movement of any other objects,647,131
+27,xg6jWcn,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,Prevent undesired movement of the head by blocking,774,127
+35,xg6jWcn,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,keep object from moving around while performing a task,901,127
+44,xg6jWcn,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,keep object held immobile,1028,127
+54,xg6jWcn,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Prevent contact of external objects with eyes or mouth,1158,130
+,,,,,,,,,128.6666667

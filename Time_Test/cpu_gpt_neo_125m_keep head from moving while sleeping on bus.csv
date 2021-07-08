@@ -1,0 +1,12 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,Gsaexz7,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,0,
+2,Gsaexz7,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,Keep head from moving while sleeping,14,14
+5,Gsaexz7,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,Stop device from getting into contact with an object,28,14
+9,Gsaexz7,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Protect victim from hitting the ground with a stick,42,14
+14,Gsaexz7,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,create a ball in a water bottle,56,14
+20,Gsaexz7,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,70,14
+27,Gsaexz7,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,85,15
+35,Gsaexz7,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,Protect dangerous objects from radiation,99,14
+44,Gsaexz7,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping on bus,113,14
+54,Gsaexz7,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Stay in contact with objects by the skin,127,14
+,,,,,,,,,14.11111111

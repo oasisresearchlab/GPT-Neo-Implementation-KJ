@@ -1,0 +1,6 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds
+0,F1yJr4q,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,"maintain a steady, vertical position while falling asleep",0
+2,F1yJr4q,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,Prevent body from moving while sleeping,239
+5,F1yJr4q,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,Allow for body to rotate without being dragged,486
+9,F1yJr4q,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,Remove user from an axis of rotation,735
+14,F1yJr4q,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Prevent head from moving while sleeping in an upright position,976

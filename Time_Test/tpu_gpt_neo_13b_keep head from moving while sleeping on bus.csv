@@ -1,0 +1,12 @@
+,id,model_name,iteration,temperature,input_length,problem_statement,abstract_reformulation,cumulative_time_in_seconds,
+0,4YxPuhx,gpt_neo_13b,1,0.9,20,keep head from moving while sleeping on bus,keep head from moving while sleeping while suspended in air,0,
+2,4YxPuhx,gpt_neo_13b,2,0.9,20,keep head from moving while sleeping on bus,keep head in one position,34,34
+5,4YxPuhx,gpt_neo_13b,3,0.9,20,keep head from moving while sleeping on bus,prevent head from moving when object is not needed,67,33
+9,4YxPuhx,gpt_neo_13b,4,0.9,20,keep head from moving while sleeping on bus,prevent object from being moved from one position to another,102,35
+14,4YxPuhx,gpt_neo_13b,5,0.9,20,keep head from moving while sleeping on bus,Make a chair that prevents head movement,135,33
+20,4YxPuhx,gpt_neo_13b,6,0.9,20,keep head from moving while sleeping on bus,keep body from shaking while sleeping,170,35
+27,4YxPuhx,gpt_neo_13b,7,0.9,20,keep head from moving while sleeping on bus,keep a head with no parts moving and fixed,203,33
+35,4YxPuhx,gpt_neo_13b,8,0.9,20,keep head from moving while sleeping on bus,keep a head from moving with respect to a given body,236,33
+44,4YxPuhx,gpt_neo_13b,9,0.9,20,keep head from moving while sleeping on bus,protect fragile object from damaging movement,269,33
+54,4YxPuhx,gpt_neo_13b,10,0.9,20,keep head from moving while sleeping on bus,Keep head in a fixed position,302,33
+,,,,,,,,,33.55555556
